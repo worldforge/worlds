@@ -6603,7 +6603,7 @@
     </list>
     <string name="id">658262</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -10295,7 +10295,7 @@
     </list>
     <string name="id">658342</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -10617,7 +10617,7 @@
     </list>
     <string name="id">658349</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -11608,7 +11608,7 @@
     </list>
     <string name="id">658369</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -14360,7 +14360,7 @@
     </list>
     <string name="id">658449</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -15719,7 +15719,7 @@
     </list>
     <string name="id">658490</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -15952,7 +15952,7 @@
     </list>
     <string name="id">658491</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -16497,7 +16497,7 @@
     </list>
     <string name="id">658504</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -24435,7 +24435,7 @@
     </list>
     <string name="id">658697</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
@@ -25180,7 +25180,7 @@
     </list>
     <string name="id">658706</string>
     <list name="parents">
-      <string>area</string>
+      <string>region</string>
     </list>
     <float name="stamp">0</float>
     <string name="objtype">obj</string>
