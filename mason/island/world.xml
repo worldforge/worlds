@@ -6010,27 +6010,6 @@
   <map>
     <string name="loc">0</string>
     <list name="pos">
-      <float>-1.68987</float>
-      <float>5.443</float>
-      <float>39.5095</float>
-    </list>
-    <list name="contains">
-    </list>
-    <string name="id">658247</string>
-    <list name="parents">
-      <string>creator</string>
-    </list>
-    <float name="stamp">0</float>
-    <string name="objtype">obj</string>
-    <string name="name">cycmd agent</string>
-    <int name="external">1</int>
-    <string name="mind"></string>
-    <float name="status">0.024</float>
-  </map>
-
-  <map>
-    <string name="loc">0</string>
-    <list name="pos">
       <float>-937.596</float>
       <float>-919.265</float>
       <float>3.38466</float>
@@ -26092,27 +26071,6 @@
     </list>
     <int name="simple">0</int>
     <string name="style">brokenB</string>
-  </map>
-
-  <map>
-    <string name="loc">0</string>
-    <list name="pos">
-      <float>4.15576</float>
-      <float>2.23133</float>
-      <float>38.6087</float>
-    </list>
-    <list name="contains">
-    </list>
-    <string name="id">658737</string>
-    <list name="parents">
-      <string>creator</string>
-    </list>
-    <float name="stamp">0</float>
-    <string name="objtype">obj</string>
-    <string name="name">cycmd agent</string>
-    <int name="external">1</int>
-    <string name="mind"></string>
-    <float name="status">0.024</float>
   </map>
 
   <map>
