@@ -511,7 +511,7 @@
       <int name="months_per_year">12</int>
       <int name="seconds_per_minute">20</int>
     </map>
-    <int name="frozen">1</int>
+    <int name="suspended">1</int>
     <map name="terrain">
       <map name="points">
         <list name="-10x-1">
