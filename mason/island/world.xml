@@ -424,6 +424,7 @@
           <string>403</string>
           <string>404</string>
           <string>405</string>
+          <string>406</string>
         </list>
         <string name="id">0</string>
         <string name="name">moraf</string>
@@ -23377,6 +23378,38 @@
         <int name="simple">0</int>
         <string name="style">brokenB</string>
       </map>
+      <map>
+        <list name="bbox">
+          <float>-3</float>
+          <float>-1</float>
+          <float>0</float>
+          <float>3</float>
+          <float>1</float>
+          <float>1</float>
+        </list>
+        <float name="burn_speed">0.1</float>
+        <list name="contains">
+        </list>
+        <string name="id">406</string>
+        <float name="mass">250</float>
+        <string name="mode">floating</string>
+        <string name="name">boat</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>0.0871557</float>
+          <float>0.996195</float>
+        </list>
+        <list name="parents">
+          <string>boat</string>
+        </list>
+        <list name="pos">
+          <float>-949.291</float>
+          <float>-928.225</float>
+          <float>0</float>
+        </list>
+      </map>
     </list>
     <map name="meta">
       <string name="description">
@@ -23389,10 +23422,42 @@
         <string name="ruleset">mason</string>
         <string name="version">0.6.1</string>
       </map>
-      <string name="timestamp">1380466123104</string>
+      <string name="timestamp">1380476445376</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
+      <map>
+        <string name="id">66</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">This is the main docks of this small island. Most visitors arrive here by boat</string>
+            <string name="predicate">about</string>
+            <string name="subject">this place</string>
+          </map>
+          <map>
+            <string name="object">The village lies beyond this path. Follow it left when it forks.</string>
+            <string name="predicate">about</string>
+            <string name="subject">village</string>
+          </map>
+          <map>
+            <string name="object">(&apos;0&apos;, (-881.000000, -795.000000, 4.000000))</string>
+            <string name="predicate">location</string>
+            <string name="subject">village</string>
+          </map>
+          <map>
+            <string name="object">welcome(message=&apos;Welcome traveller! You look tired and hungry. Come closer and let me introduce this place.&apos;, player=&apos;settler&apos;)
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;welcome&apos;, &apos;#welcome_verb1&apos;)</string>
+          </map>
+          <map>
+            <string name="object">add_help(messages=[&apos;I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;add_help&apos;, &apos;#add_help_verb1&apos;)</string>
+          </map>
+        </list>
+      </map>
     </list>
   </map>
 
