@@ -18307,7 +18307,7 @@
         <list name="pos">
           <float>-568.94</float>
           <float>-453.572</float>
-          <float>49.7683</float>
+          <float>49.7682</float>
         </list>
         <int name="simple">0</int>
       </map>
@@ -18338,7 +18338,7 @@
         <list name="pos">
           <float>-568.94</float>
           <float>-448.572</float>
-          <float>49.8131</float>
+          <float>49.813</float>
         </list>
         <int name="simple">0</int>
       </map>
@@ -18493,7 +18493,7 @@
         <list name="pos">
           <float>-568.94</float>
           <float>-423.572</float>
-          <float>49.7338</float>
+          <float>49.7337</float>
         </list>
         <int name="simple">0</int>
       </map>
@@ -22692,7 +22692,7 @@
         <list name="pos">
           <float>-585.208</float>
           <float>-440.738</float>
-          <float>47.864</float>
+          <float>47.8678</float>
         </list>
         <string name="roof">shingle</string>
         <int name="simple">0</int>
@@ -31259,7 +31259,7 @@
         <string name="ruleset">mason</string>
         <string name="version">0.6.1</string>
       </map>
-      <string name="timestamp">1380531742964</string>
+      <string name="timestamp">1380539431056</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
@@ -31304,6 +31304,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
+            <string name="object">peck()
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+          </map>
+          <map>
             <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
 </string>
             <string name="predicate">goal</string>
@@ -31318,6 +31324,12 @@
             <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">peck()
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
           </map>
           <map>
             <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
@@ -31336,6 +31348,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
+            <string name="object">peck()
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+          </map>
+          <map>
             <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
 </string>
             <string name="predicate">goal</string>
@@ -31352,6 +31370,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
+            <string name="object">peck()
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+          </map>
+          <map>
             <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
 </string>
             <string name="predicate">goal</string>
@@ -31366,6 +31390,12 @@
             <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">peck()
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
           </map>
           <map>
             <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
