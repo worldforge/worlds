@@ -31259,7 +31259,7 @@
         <string name="ruleset">mason</string>
         <string name="version">0.6.1</string>
       </map>
-      <string name="timestamp">1380489669687</string>
+      <string name="timestamp">1380531742964</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
@@ -31292,6 +31292,86 @@
 </string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;add_help&apos;, &apos;#add_help_verb1&apos;)</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">583</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="predicate">location</string>
+            <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">584</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="predicate">location</string>
+            <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">585</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="predicate">location</string>
+            <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">586</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="predicate">location</string>
+            <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">587</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(&apos;0&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="predicate">location</string>
+            <string name="subject">w1</string>
+          </map>
+          <map>
+            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
           </map>
         </list>
       </map>
