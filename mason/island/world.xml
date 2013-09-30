@@ -31259,7 +31259,7 @@
         <string name="ruleset">mason</string>
         <string name="version">0.6.1</string>
       </map>
-      <string name="timestamp">1380539431056</string>
+      <string name="timestamp">1380569742413</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
@@ -31282,7 +31282,7 @@
             <string name="subject">village</string>
           </map>
           <map>
-            <string name="object">welcome(message=&apos;Welcome traveller! You look tired and hungry. Come closer and let me introduce this place.&apos;, player=&apos;settler&apos;)
+            <string name="object">welcome(message=&apos;Welcome traveller! You look tired and hungry. Come closer and let me introduce this place.&apos;, type=&apos;settler&apos;)
 </string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;welcome&apos;, &apos;#welcome_verb1&apos;)</string>
