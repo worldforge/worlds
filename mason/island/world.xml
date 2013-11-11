@@ -10264,6 +10264,10 @@
         </map>
         <string name="id">66</string>
         <float name="mass">60</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">Dyfed Searae</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -13149,6 +13153,10 @@
         <string name="id">150</string>
         <float name="mass">80</float>
         <float name="maxmass">2000</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">cow</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -13229,6 +13237,10 @@
         </map>
         <string name="id">152</string>
         <float name="mass">60</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">Gorun Iksa</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -15486,6 +15498,10 @@
         <float name="mass">5</float>
         <float name="maxmass">30</float>
         <string name="meat">ham</string>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">pig</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -15525,6 +15541,10 @@
         <float name="mass">5</float>
         <float name="maxmass">30</float>
         <string name="meat">ham</string>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">pig</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -15564,6 +15584,10 @@
         <float name="mass">5</float>
         <float name="maxmass">30</float>
         <string name="meat">ham</string>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">pig</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -15603,6 +15627,10 @@
         <float name="mass">5</float>
         <float name="maxmass">30</float>
         <string name="meat">ham</string>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">pig</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -15642,6 +15670,10 @@
         <float name="mass">5</float>
         <float name="maxmass">30</float>
         <string name="meat">ham</string>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">pig</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -16433,6 +16465,10 @@
         </map>
         <string name="id">241</string>
         <float name="mass">60</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">Vonaa Barile</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -18502,7 +18538,7 @@
         <list name="pos">
           <float>-568.94</float>
           <float>-453.572</float>
-          <float>49.7683</float>
+          <float>49.7682</float>
         </list>
         <int name="simple">0</int>
       </map>
@@ -18533,7 +18569,7 @@
         <list name="pos">
           <float>-568.94</float>
           <float>-448.572</float>
-          <float>49.8131</float>
+          <float>49.813</float>
         </list>
         <int name="simple">0</int>
       </map>
@@ -18688,7 +18724,7 @@
         <list name="pos">
           <float>-568.94</float>
           <float>-423.572</float>
-          <float>49.7338</float>
+          <float>49.7337</float>
         </list>
         <int name="simple">0</int>
       </map>
@@ -22887,7 +22923,7 @@
         <list name="pos">
           <float>-585.208</float>
           <float>-440.738</float>
-          <float>47.864</float>
+          <float>47.8678</float>
         </list>
         <string name="roof">shingle</string>
         <int name="simple">0</int>
@@ -29624,6 +29660,10 @@
         </list>
         <string name="id">583</string>
         <float name="mass">3</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -29659,6 +29699,10 @@
         </list>
         <string name="id">584</string>
         <float name="mass">3</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -29694,6 +29738,10 @@
         </list>
         <string name="id">585</string>
         <float name="mass">3</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -29729,6 +29777,10 @@
         </list>
         <string name="id">586</string>
         <float name="mass">3</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -29764,6 +29816,10 @@
         </list>
         <string name="id">587</string>
         <float name="mass">3</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -32894,6 +32950,10 @@
         <string name="decays">skull</string>
         <string name="id">682</string>
         <float name="mass">50</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -32929,6 +32989,10 @@
         <string name="decays">skull</string>
         <string name="id">683</string>
         <float name="mass">50</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -32964,6 +33028,10 @@
         <string name="decays">skull</string>
         <string name="id">684</string>
         <float name="mass">50</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -32999,6 +33067,10 @@
         <string name="decays">skull</string>
         <string name="id">685</string>
         <float name="mass">50</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -33034,6 +33106,10 @@
         <string name="decays">skull</string>
         <string name="id">686</string>
         <float name="mass">50</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -33069,6 +33145,10 @@
         <string name="decays">skull</string>
         <string name="id">687</string>
         <float name="mass">50</float>
+        <map name="mind">
+          <string name="language">python</string>
+          <string name="name">mind.NPCMind.NPCMind</string>
+        </map>
         <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -37826,7 +37906,7 @@
         <list name="pos">
           <float>-621.606</float>
           <float>-502.506</float>
-          <float>42.0413</float>
+          <float>42.0547</float>
         </list>
         <string name="roof">shale</string>
         <int name="simple">0</int>
@@ -37936,9 +38016,9 @@
         <string name="host">local</string>
         <string name="name">localhost.localdomain</string>
         <string name="ruleset">mason</string>
-        <string name="version">0.6.2</string>
+        <string name="version">0.6.3</string>
       </map>
-      <string name="timestamp">1380574892946</string>
+      <string name="timestamp">1384200044596</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
