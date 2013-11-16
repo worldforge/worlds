@@ -10927,13 +10927,14 @@
         </list>
         <int name="solid">0</int>
         <map name="spawn">
-          <list name="character_types">
-            <string>settler</string>
-          </list>
-          <list name="contains">
-            <string>coin</string>
-          </list>
-          <string name="name">Peninsula</string>
+          <map name="entities">
+            <map name="settler">
+              <list name="parents">
+                <string>settler</string>
+              </list>
+            </map>
+          </map>
+          <string name="name">entry</string>
         </map>
       </map>
       <map>
