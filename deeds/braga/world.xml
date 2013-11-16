@@ -11008,6 +11008,12 @@
               <list name="parents">
                 <string>settler</string>
               </list>
+              <string name="objtype">archetype</string>
+              <list name="entities">
+                <map>
+                  <string name="respawning">cemetery</string>
+                </map>
+              </list>
             </map>
           </map>
           <string name="name">entry</string>
