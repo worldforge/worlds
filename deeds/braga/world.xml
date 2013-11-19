@@ -23079,7 +23079,7 @@
         <list name="pos">
           <float>-585.208</float>
           <float>-440.738</float>
-          <float>47.8751</float>
+          <float>47.8766</float>
         </list>
         <string name="roof">shingle</string>
         <int name="simple">0</int>
@@ -38062,7 +38062,7 @@
         <list name="pos">
           <float>-621.606</float>
           <float>-502.506</float>
-          <float>42.0661</float>
+          <float>42.0669</float>
         </list>
         <string name="roof">shale</string>
         <int name="simple">0</int>
@@ -41045,7 +41045,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.6.3</string>
       </map>
-      <string name="timestamp">1384814661641</string>
+      <string name="timestamp">1384883087528</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
@@ -41073,13 +41073,13 @@
             <string name="subject">(&apos;avoid&apos;, &apos;#avoid_verb1&apos;)</string>
           </map>
           <map>
-            <string name="object">welcome(message=&apos;Welcome traveller! You look tired and hungry. Come closer and let me introduce this place.&apos;, type=&apos;human&apos;)
+            <string name="object">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, type=&apos;human&apos;)
 </string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;welcome&apos;, &apos;#welcome_verb1&apos;)</string>
           </map>
           <map>
-            <string name="object">add_help(messages=[&apos;I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])
+            <string name="object">add_help(messages=[&apos;Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])
 </string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;add_help&apos;, &apos;#add_help_verb1&apos;)</string>
