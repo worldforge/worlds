@@ -39,6 +39,18 @@
           <string>18</string>
           <string>19</string>
           <string>20</string>
+          <string>21</string>
+          <string>22</string>
+          <string>23</string>
+          <string>24</string>
+          <string>25</string>
+          <string>26</string>
+          <string>27</string>
+          <string>28</string>
+          <string>29</string>
+          <string>30</string>
+          <string>31</string>
+          <string>32</string>
         </list>
         <string name="id">0</string>
         <string name="name">demo world</string>
@@ -564,7 +576,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9786</float>
+        <float name="status">0.9775</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -579,14 +591,14 @@
           <float>2</float>
         </list>
         <list name="contains">
-          <string>21</string>
-          <string>22</string>
-          <string>23</string>
-          <string>24</string>
-          <string>25</string>
-          <string>26</string>
-          <string>27</string>
-          <string>28</string>
+          <string>33</string>
+          <string>34</string>
+          <string>35</string>
+          <string>36</string>
+          <string>37</string>
+          <string>38</string>
+          <string>39</string>
+          <string>40</string>
         </list>
         <string name="decays">skull</string>
         <map name="guise">
@@ -610,7 +622,7 @@
         </list>
         <map name="outfit">
           <map name="legs">
-            <string name="$eid">21</string>
+            <string name="$eid">33</string>
           </map>
         </map>
         <list name="parents">
@@ -628,7 +640,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9787</float>
+        <float name="status">0.9776</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -643,17 +655,17 @@
           <float>2</float>
         </list>
         <list name="contains">
-          <string>29</string>
-          <string>30</string>
-          <string>31</string>
-          <string>32</string>
-          <string>33</string>
-          <string>34</string>
-          <string>35</string>
-          <string>36</string>
-          <string>37</string>
-          <string>38</string>
-          <string>39</string>
+          <string>41</string>
+          <string>42</string>
+          <string>43</string>
+          <string>44</string>
+          <string>45</string>
+          <string>46</string>
+          <string>47</string>
+          <string>48</string>
+          <string>49</string>
+          <string>50</string>
+          <string>51</string>
         </list>
         <string name="decays">skull</string>
         <map name="guise">
@@ -677,19 +689,19 @@
         </list>
         <map name="outfit">
           <map name="back">
-            <string name="$eid">31</string>
+            <string name="$eid">43</string>
           </map>
           <map name="body">
-            <string name="$eid">29</string>
+            <string name="$eid">41</string>
           </map>
           <map name="feet">
-            <string name="$eid">32</string>
+            <string name="$eid">44</string>
           </map>
           <map name="head">
-            <string name="$eid">33</string>
+            <string name="$eid">45</string>
           </map>
           <map name="legs">
-            <string name="$eid">30</string>
+            <string name="$eid">42</string>
           </map>
         </map>
         <list name="parents">
@@ -707,7 +719,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9787</float>
+        <float name="status">0.9776</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -803,7 +815,7 @@
           <float>5.00955</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9988</float>
+        <float name="status">0.9977</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -842,7 +854,7 @@
           <float>5.00781</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9988</float>
+        <float name="status">0.9977</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -913,7 +925,7 @@
           <float>5.00783</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.999</float>
+        <float name="status">0.9979</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -1024,15 +1036,15 @@
         <list name="orientation">
           <float>0</float>
           <float>-0</float>
-          <float>-0.99326</float>
-          <float>-0.115904</float>
+          <float>-0.985146</float>
+          <float>-0.171717</float>
         </list>
         <list name="parents">
           <string>human</string>
         </list>
         <list name="pos">
-          <float>15.2015</float>
-          <float>-22.8696</float>
+          <float>15.2213</float>
+          <float>-23.0913</float>
           <float>5.00988</float>
         </list>
         <string name="respawning">respawn</string>
@@ -1043,7 +1055,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9992</float>
+        <float name="status">0.9981</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -1108,6 +1120,554 @@
         </list>
       </map>
       <map>
+        <list name="contains">
+        </list>
+        <string name="id">21</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>-0.601597</float>
+          <float>0.7988</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>6.71317</float>
+          <float>39.5399</float>
+          <float>5.01081</float>
+        </list>
+        <map name="terrainmod">
+          <float name="height">3</float>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1.83936</float>
+                <float>-1.96464</float>
+              </list>
+              <list>
+                <float>-1.81689</float>
+                <float>1.69086</float>
+              </list>
+              <list>
+                <float>1.9465</float>
+                <float>1.47857</float>
+              </list>
+              <list>
+                <float>1.34339</float>
+                <float>-2.01067</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+          <string name="type">adjustmod</string>
+        </map>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">22</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0.798061</float>
+          <float>0.602577</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>13.4862</float>
+          <float>38.9603</float>
+          <float>5.0097</float>
+        </list>
+        <map name="terrainmod">
+          <float name="height">3</float>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1.2412</float>
+                <float>-1.22757</float>
+              </list>
+              <list>
+                <float>-0.894152</float>
+                <float>1.07445</float>
+              </list>
+              <list>
+                <float>4.4736</float>
+                <float>1.76571</float>
+              </list>
+              <list>
+                <float>3.11164</float>
+                <float>-1.54872</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+          <string name="type">levelmod</string>
+        </map>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">23</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>0.756407</float>
+          <float>0.654102</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>20.2061</float>
+          <float>39.9311</float>
+          <float>5.00976</float>
+        </list>
+        <map name="terrainmod">
+          <float name="heightoffset">3</float>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1.7805</float>
+                <float>-1.13605</float>
+              </list>
+              <list>
+                <float>-1.40719</float>
+                <float>1.18541</float>
+              </list>
+              <list>
+                <float>2.5122</float>
+                <float>1.23951</float>
+              </list>
+              <list>
+                <float>2.51032</float>
+                <float>-1.23773</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+          <string name="type">adjustmod</string>
+        </map>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">24</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0.759608</float>
+          <float>0.650381</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>27.6659</float>
+          <float>40.4134</float>
+          <float>5.01026</float>
+        </list>
+        <map name="terrainmod">
+          <float name="heightoffset">3</float>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>1.88324</float>
+                <float>-4.11047</float>
+              </list>
+              <list>
+                <float>-0.948891</float>
+                <float>1.2442</float>
+              </list>
+              <list>
+                <float>2.1005</float>
+                <float>1.0712</float>
+              </list>
+              <list>
+                <float>6.83284</float>
+                <float>-3.73287</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+          <string name="type">levelmod</string>
+        </map>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">25</string>
+        <string name="message">This terrainmod is using fixed positioning, level type and height 3.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.643832</float>
+          <float>0.765167</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>13.8735</float>
+          <float>35.6554</float>
+          <float>5.00971</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">26</string>
+        <string name="message">This terrainmod is using relative positioning, fixed type and height 3.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.643832</float>
+          <float>0.765167</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>20.2984</float>
+          <float>36.1398</float>
+          <float>5.00941</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">27</string>
+        <string name="message">This terrainmod is using fixed positioning, adjust type and height 3.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.643832</float>
+          <float>0.765167</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>7.33226</float>
+          <float>35.412</float>
+          <float>5.01148</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">28</string>
+        <string name="message">This terrainmod is using relative positioning, level type and height 3.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.643832</float>
+          <float>0.765167</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>27.298</float>
+          <float>36.5904</float>
+          <float>5.0107</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">29</string>
+        <string name="message">These are the default terrain area types available.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.708071</float>
+          <float>0.706142</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>-14.305</float>
+          <float>20.8211</float>
+          <float>5.00485</float>
+        </list>
+      </map>
+      <map>
+        <map name="area">
+          <int name="layer">6</int>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1.49927</float>
+                <float>-1.50989</float>
+              </list>
+              <list>
+                <float>-1.26174</float>
+                <float>1.94639</float>
+              </list>
+              <list>
+                <float>1.086</float>
+                <float>1.29072</float>
+              </list>
+              <list>
+                <float>3.35209</float>
+                <float>0.884335</float>
+              </list>
+              <list>
+                <float>5.42486</float>
+                <float>2.57022</float>
+              </list>
+              <list>
+                <float>7.29898</float>
+                <float>4.30009</float>
+              </list>
+              <list>
+                <float>10.7457</float>
+                <float>4.53714</float>
+              </list>
+              <list>
+                <float>9.71975</float>
+                <float>2.20838</float>
+              </list>
+              <list>
+                <float>6.65529</float>
+                <float>0.191138</float>
+              </list>
+              <list>
+                <float>4.62044</float>
+                <float>-0.999145</float>
+              </list>
+              <list>
+                <float>2.41339</float>
+                <float>-1.61103</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+        </map>
+        <list name="contains">
+        </list>
+        <string name="id">30</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>0.765167</float>
+          <float>0.643832</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>-20.6304</float>
+          <float>22.6397</float>
+          <float>5.00573</float>
+        </list>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <map name="area">
+          <int name="layer">8</int>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1</float>
+                <float>-1</float>
+              </list>
+              <list>
+                <float>-1</float>
+                <float>1</float>
+              </list>
+              <list>
+                <float>1</float>
+                <float>1</float>
+              </list>
+              <list>
+                <float>3.24531</float>
+                <float>0.528563</float>
+              </list>
+              <list>
+                <float>7.27738</float>
+                <float>1.13743</float>
+              </list>
+              <list>
+                <float>11.2446</float>
+                <float>1.25173</float>
+              </list>
+              <list>
+                <float>11.2452</float>
+                <float>-1.04489</float>
+              </list>
+              <list>
+                <float>9.60893</float>
+                <float>-2.46711</float>
+              </list>
+              <list>
+                <float>7.08818</float>
+                <float>-3.60777</float>
+              </list>
+              <list>
+                <float>2.76052</float>
+                <float>-3.6273</float>
+              </list>
+              <list>
+                <float>1</float>
+                <float>-1</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+        </map>
+        <list name="contains">
+        </list>
+        <string name="id">31</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>0.765167</float>
+          <float>0.643832</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>-7.96424</float>
+          <float>24.313</float>
+          <float>5.00591</float>
+        </list>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <map name="area">
+          <int name="layer">7</int>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1</float>
+                <float>-1</float>
+              </list>
+              <list>
+                <float>-1</float>
+                <float>1</float>
+              </list>
+              <list>
+                <float>3.16439</float>
+                <float>1.01686</float>
+              </list>
+              <list>
+                <float>8.02219</float>
+                <float>3.30726</float>
+              </list>
+              <list>
+                <float>10.6159</float>
+                <float>1.54473</float>
+              </list>
+              <list>
+                <float>10.236</float>
+                <float>-1.61825</float>
+              </list>
+              <list>
+                <float>7.20063</float>
+                <float>-3.43364</float>
+              </list>
+              <list>
+                <float>3.22219</float>
+                <float>-1.41626</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+        </map>
+        <list name="contains">
+        </list>
+        <string name="id">32</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>0.765167</float>
+          <float>0.643832</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>-14.6812</float>
+          <float>23.5291</float>
+          <float>5.00476</float>
+        </list>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
         <list name="bbox">
           <float>-0.1</float>
           <float>-0.1</float>
@@ -1118,7 +1678,7 @@
         </list>
         <list name="contains">
         </list>
-        <string name="id">21</string>
+        <string name="id">33</string>
         <float name="mass">0.5</float>
         <string name="objtype">obj</string>
         <list name="parents">
@@ -1143,248 +1703,11 @@
         </list>
         <list name="contains">
         </list>
-        <string name="id">22</string>
+        <string name="id">34</string>
         <float name="mass">2</float>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>knife</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">23</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">24</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">25</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">26</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">27</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">28</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.1</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.1</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">29</string>
-        <float name="mass">0.5</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>shirt</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">body</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.1</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.1</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">30</string>
-        <float name="mass">0.5</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>trousers</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">legs</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.1</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.1</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">31</string>
-        <float name="mass">0.5</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>cloak</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">back</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.2</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.2</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">32</string>
-        <float name="mass">2</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>boots</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">feet</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.1</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.1</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">33</string>
-        <float name="mass">0.5</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>hat</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">head</string>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">34</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
         </list>
         <list name="pos">
           <float>0</float>
@@ -1472,6 +1795,243 @@
           <float>0</float>
         </list>
       </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">40</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">41</string>
+        <float name="mass">0.5</float>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>shirt</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+        <string name="worn">body</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">42</string>
+        <float name="mass">0.5</float>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>trousers</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+        <string name="worn">legs</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">43</string>
+        <float name="mass">0.5</float>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>cloak</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+        <string name="worn">back</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.2</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.2</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">44</string>
+        <float name="mass">2</float>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>boots</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+        <string name="worn">feet</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">45</string>
+        <float name="mass">0.5</float>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>hat</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+        <string name="worn">head</string>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">46</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">47</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">48</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">49</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">50</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">51</string>
+        <float name="mass">0.01</float>
+        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
     </list>
     <map name="meta">
       <string name="description"></string>
@@ -1483,7 +2043,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.6.3</string>
       </map>
-      <string name="timestamp">1384984359362</string>
+      <string name="timestamp">1384985342226</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
@@ -1494,17 +2054,6 @@
             <string name="object">(&apos;0&apos;, (15.000000, -23.000000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">home</string>
-          </map>
-          <map>
-            <string name="object">(&apos;0&apos;, (15.000000, -23.000000, 5.000000))</string>
-            <string name="predicate">location</string>
-            <string name="subject">w1</string>
-          </map>
-          <map>
-            <string name="object">move_me(location=&apos;home&apos;)
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;move_me&apos;, &apos;#move_me_verb1&apos;)</string>
           </map>
           <map>
             <string name="object">move_me(location=&apos;home&apos;)
