@@ -1,0 +1,299 @@
+<atlas>
+
+  <map>
+    <list name="entities">
+      <map>
+        <list name="bbox">
+          <float>-256</float>
+          <float>-256</float>
+          <float>5</float>
+          <float>128</float>
+          <float>128</float>
+          <float>5</float>
+        </list>
+        <map name="calendar">
+          <int name="days_per_month">28</int>
+          <int name="hours_per_day">24</int>
+          <int name="minutes_per_hour">60</int>
+          <int name="months_per_year">12</int>
+          <int name="seconds_per_minute">20</int>
+        </map>
+        <list name="contains">
+        </list>
+        <string name="id">0</string>
+        <string name="name">moraf</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>world</string>
+        </list>
+        <map name="terrain">
+          <map name="points">
+            <list name="-1x-1">
+              <float>-1</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="-1x-2">
+              <float>-1</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="-1x-3">
+              <float>-1</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="-1x-4">
+              <float>-1</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="-1x0">
+              <float>-1</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="-1x1">
+              <float>-1</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="-1x2">
+              <float>-1</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+            <list name="-2x-1">
+              <float>-2</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="-2x-2">
+              <float>-2</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="-2x-3">
+              <float>-2</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="-2x-4">
+              <float>-2</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="-2x0">
+              <float>-2</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="-2x1">
+              <float>-2</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="-2x2">
+              <float>-2</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+            <list name="-3x-1">
+              <float>-3</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="-3x-2">
+              <float>-3</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="-3x-3">
+              <float>-3</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="-3x-4">
+              <float>-3</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="-3x0">
+              <float>-3</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="-3x1">
+              <float>-3</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="-3x2">
+              <float>-3</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+            <list name="-4x-1">
+              <float>-4</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="-4x-2">
+              <float>-4</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="-4x-3">
+              <float>-4</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="-4x-4">
+              <float>-4</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="-4x0">
+              <float>-4</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="-4x1">
+              <float>-4</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="-4x2">
+              <float>-4</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+            <list name="0x-1">
+              <float>0</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="0x-2">
+              <float>0</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="0x-3">
+              <float>0</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="0x-4">
+              <float>0</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="0x0">
+              <float>0</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="0x1">
+              <float>0</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="0x2">
+              <float>0</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+            <list name="1x-1">
+              <float>1</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="1x-2">
+              <float>1</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="1x-3">
+              <float>1</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="1x-4">
+              <float>1</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="1x0">
+              <float>1</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="1x1">
+              <float>1</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="1x2">
+              <float>1</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+            <list name="2x-1">
+              <float>2</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="2x-2">
+              <float>2</float>
+              <float>-2</float>
+              <float>5</float>
+            </list>
+            <list name="2x-3">
+              <float>2</float>
+              <float>-3</float>
+              <float>5</float>
+            </list>
+            <list name="2x-4">
+              <float>2</float>
+              <float>-4</float>
+              <float>5</float>
+            </list>
+            <list name="2x0">
+              <float>2</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="2x1">
+              <float>2</float>
+              <float>1</float>
+              <float>5</float>
+            </list>
+            <list name="2x2">
+              <float>2</float>
+              <float>2</float>
+              <float>5</float>
+            </list>
+          </map>
+          <list name="surfaces">
+          </list>
+        </map>
+      </map>
+    </list>
+    <map name="meta">
+      <string name="description"></string>
+      <string name="name"></string>
+      <int name="preserved_ids">0</int>
+      <map name="server">
+        <string name="host">localhost.localdomain</string>
+        <string name="name">localhost.localdomain</string>
+        <string name="ruleset">deeds</string>
+        <string name="version">0.6.3</string>
+      </map>
+      <string name="timestamp">1384951614457</string>
+      <int name="transients">0</int>
+    </map>
+    <list name="minds">
+    </list>
+  </map>
+
+</atlas>
