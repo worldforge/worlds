@@ -19,6 +19,12 @@
           <int name="seconds_per_minute">20</int>
         </map>
         <list name="contains">
+          <string>1</string>
+          <string>2</string>
+          <string>3</string>
+          <string>4</string>
+          <string>5</string>
+          <string>6</string>
         </list>
         <string name="id">0</string>
         <string name="name">moraf</string>
@@ -71,7 +77,7 @@
             <list name="-2x-2">
               <float>-2</float>
               <float>-2</float>
-              <float>5</float>
+              <float>-9.48438</float>
             </list>
             <list name="-2x-3">
               <float>-2</float>
@@ -176,7 +182,7 @@
             <list name="0x-2">
               <float>0</float>
               <float>-2</float>
-              <float>5</float>
+              <float>22</float>
             </list>
             <list name="0x-3">
               <float>0</float>
@@ -278,6 +284,220 @@
           </list>
         </map>
       </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">1</string>
+        <string name="message">This is a demo world, meant to showcase different features of the Worldforge system.</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>-0.988501</float>
+          <float>-0.151214</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>-1.99845</float>
+          <float>4.30298</float>
+          <float>4.99854</float>
+        </list>
+      </map>
+      <map>
+        <map name="area">
+          <int name="layer">7</int>
+          <map name="shape">
+            <list name="points">
+              <list>
+                <float>-1.30836</float>
+                <float>-4.23772</float>
+              </list>
+              <list>
+                <float>-1.24255</float>
+                <float>4.53814</float>
+              </list>
+              <list>
+                <float>12.5044</float>
+                <float>6.12374</float>
+              </list>
+              <list>
+                <float>13.2259</float>
+                <float>-4.31211</float>
+              </list>
+            </list>
+            <string name="type">polygon</string>
+          </map>
+        </map>
+        <list name="contains">
+        </list>
+        <string name="id">2</string>
+        <string name="name">thing</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>0.99537</float>
+          <float>0.0961222</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>3.71981</float>
+          <float>3.19977</float>
+          <float>5.00429</float>
+        </list>
+        <float name="visibility">100</float>
+      </map>
+      <map>
+        <map name="area">
+          <list name="points">
+            <list>
+              <float>-1</float>
+              <float>-1</float>
+            </list>
+            <list>
+              <float>-1</float>
+              <float>1</float>
+            </list>
+            <list>
+              <float>1</float>
+              <float>1</float>
+            </list>
+            <list>
+              <float>1</float>
+              <float>-1</float>
+            </list>
+          </list>
+          <string name="type">polygon</string>
+        </map>
+        <list name="contains">
+        </list>
+        <string name="id">3</string>
+        <string name="message">This is a spawn point. New entities are created here.</string>
+        <string name="name">spawn_area</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>-0.704812</float>
+          <float>0.709394</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>-5.02695</float>
+          <float>5.13655</float>
+          <float>4.99789</float>
+        </list>
+        <map name="spawn">
+          <map name="entities">
+            <map name="human">
+              <list name="parents">
+                <string>human</string>
+              </list>
+            </map>
+          </map>
+        </map>
+        <float name="visibility">100</float>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">4</string>
+        <string name="message">The terrain can be altered by editing terrain points. Here&apos;s a mound.</string>
+        <string name="mode">fixed</string>
+        <string name="name">ocean</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>-0.470315</float>
+          <float>0.882499</float>
+        </list>
+        <list name="parents">
+          <string>ocean</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <int name="solid">0</int>
+        <float name="visibility">1000</float>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">5</string>
+        <string name="message">The terrain can be altered by editing terrain points. Here&apos;s a mound.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.632493</float>
+          <float>-0.774566</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>-4.10486</float>
+          <float>-66.5978</float>
+          <float>4.98977</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">6</string>
+        <string name="message">Lakes can be created by lowering height points below the water line.</string>
+        <string name="name">signpost</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.562578</float>
+          <float>-0.826744</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>-82.1314</float>
+          <float>-65.6924</float>
+          <float>4.65381</float>
+        </list>
+        <float name="visibility">1000</float>
+      </map>
     </list>
     <map name="meta">
       <string name="description"></string>
@@ -289,7 +509,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.6.3</string>
       </map>
-      <string name="timestamp">1384951614457</string>
+      <string name="timestamp">1384958776291</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
