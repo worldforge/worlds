@@ -1,0 +1,14 @@
+All files in this repository are free software, you can redistribute
+them and/or modify them under the terms of the GNU General Public 
+License as published by  the Free Software Foundation; either 
+version 2 of the License, or (at your option) any later version.
+The license in full can be read in the file "gpl-2.0.txt" which 
+always should accompany this file. 
+
+Note that a running server is NOT considered a "derivate works". I.e.
+this license only applies to the files in their source form. If you
+alter them in any way and populate a server with them, you are not
+obligated to release them to anyone accessing that server.
+This is important, because you often want game rules hidden to the user.
+There might be puzzles, or hidden areas, or secret recipes that you don't
+want the user to see immediately.
