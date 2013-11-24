@@ -480,6 +480,7 @@
               </list>
             </map>
           </map>
+          <string name="name">entry</string>
         </map>
         <float name="visibility">100</float>
       </map>
