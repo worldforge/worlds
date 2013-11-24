@@ -1,2 +1,22 @@
 # Ignore temporary files
 *~
+Makefile.in
+aclocal.m4
+autom4te.cache
+config.guess
+config.h.in
+config.log
+config.sub
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+config.status
+ember
+ember-media.spec
+ember.dox
+ember.spec
+mkinstalldirs
+Makefile
