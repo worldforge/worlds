@@ -474,9 +474,9 @@
         </list>
         <map name="spawn">
           <map name="entities">
-            <map name="human">
+            <map name="settler">
               <list name="parents">
-                <string>human</string>
+                <string>settler</string>
               </list>
             </map>
           </map>
