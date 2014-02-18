@@ -6547,7 +6547,7 @@
           <float>4.81376</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -6626,7 +6626,7 @@
           <float>6.63063</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -6705,7 +6705,7 @@
           <float>9.18413</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -6784,7 +6784,7 @@
           <float>6.54708</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7013,7 +7013,7 @@
           <float>14.1196</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7092,7 +7092,7 @@
           <float>9.01926</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7201,7 +7201,7 @@
           <float>6.13742</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -7311,7 +7311,7 @@
           <float>2.18556</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7452,7 +7452,7 @@
           <float>7.91318</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7531,7 +7531,7 @@
           <float>3.89538</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7610,7 +7610,7 @@
           <float>3.21247</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7689,7 +7689,7 @@
           <float>3.58352</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7768,7 +7768,7 @@
           <float>6.23806</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -7847,7 +7847,7 @@
           <float>3.82502</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -7926,7 +7926,7 @@
           <float>7.11369</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -8005,7 +8005,7 @@
           <float>11.1794</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -8084,7 +8084,7 @@
           <float>2.54743</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8163,7 +8163,7 @@
           <float>6.21174</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -8242,7 +8242,7 @@
           <float>17.2252</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8352,7 +8352,7 @@
           <float>10.9626</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -8585,7 +8585,7 @@
           <float>8.65357</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8664,7 +8664,7 @@
           <float>2.82781</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8743,7 +8743,7 @@
           <float>9.2584</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8822,7 +8822,7 @@
           <float>4.9121</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8901,7 +8901,7 @@
           <float>10.0459</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -8980,7 +8980,7 @@
           <float>7.99954</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -9059,7 +9059,7 @@
           <float>2.49462</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -9095,7 +9095,7 @@
           <float>-742.305</float>
           <float>3.10982</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -9131,7 +9131,7 @@
           <float>-737.171</float>
           <float>3.04627</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -9167,7 +9167,7 @@
           <float>-749.646</float>
           <float>4.09661</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -9203,7 +9203,7 @@
           <float>-803.346</float>
           <float>1.44523</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -9239,7 +9239,7 @@
           <float>-821.818</float>
           <float>1.84253</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -9275,7 +9275,7 @@
           <float>-767.157</float>
           <float>2.68819</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -9311,7 +9311,7 @@
           <float>-769.495</float>
           <float>4.88431</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -9347,7 +9347,7 @@
           <float>-799.857</float>
           <float>9.54036</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -9383,7 +9383,7 @@
           <float>-825.394</float>
           <float>9.0244</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -9419,7 +9419,7 @@
           <float>-812.715</float>
           <float>7.61943</float>
         </list>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -9498,7 +9498,7 @@
           <float>8.70202</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -9577,7 +9577,7 @@
           <float>10.4682</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -9656,7 +9656,7 @@
           <float>12.1212</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -10020,7 +10020,7 @@
           <float>8.19305</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -10256,7 +10256,7 @@
           <float>7.48793</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -10342,7 +10342,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9992</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -10421,7 +10421,7 @@
           <float>10.2242</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -10500,7 +10500,7 @@
           <float>9.58615</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -10641,7 +10641,7 @@
           <float>5.08882</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -10751,7 +10751,7 @@
           <float>7.86566</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -10923,7 +10923,7 @@
           <float>2.05436</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.2</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -13226,7 +13226,7 @@
           <float>6.37251</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -13343,7 +13343,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -14064,7 +14064,7 @@
           <float>-770.662</float>
           <float>6.26655</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14100,7 +14100,7 @@
           <float>-759.434</float>
           <float>5.2087</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14136,7 +14136,7 @@
           <float>-730.588</float>
           <float>3.12195</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -14172,7 +14172,7 @@
           <float>-741.249</float>
           <float>5.27735</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -14208,7 +14208,7 @@
           <float>-751.134</float>
           <float>5.94796</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14244,7 +14244,7 @@
           <float>-832.694</float>
           <float>12.3488</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14280,7 +14280,7 @@
           <float>-811.214</float>
           <float>1.42079</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -14316,7 +14316,7 @@
           <float>-795.024</float>
           <float>3.25235</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14352,7 +14352,7 @@
           <float>-786.171</float>
           <float>4.96297</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14388,7 +14388,7 @@
           <float>-744.808</float>
           <float>5.19539</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -14424,7 +14424,7 @@
           <float>-756.945</float>
           <float>5.09115</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -14460,7 +14460,7 @@
           <float>-775.272</float>
           <float>3.22081</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -14496,7 +14496,7 @@
           <float>-756.549</float>
           <float>1.60441</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -14532,7 +14532,7 @@
           <float>-735.997</float>
           <float>3.8793</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14568,7 +14568,7 @@
           <float>-767.551</float>
           <float>7.20802</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -14604,7 +14604,7 @@
           <float>-797.803</float>
           <float>8.02344</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -14640,7 +14640,7 @@
           <float>-818.035</float>
           <float>6.13646</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -14676,7 +14676,7 @@
           <float>-721.589</float>
           <float>4.54513</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -14712,7 +14712,7 @@
           <float>-716.672</float>
           <float>3.40745</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -15576,7 +15576,7 @@
           <float>2.346</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -15618,7 +15618,7 @@
           <float>2.38841</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -15660,7 +15660,7 @@
           <float>2.25932</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -15702,7 +15702,7 @@
           <float>2.11966</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -15744,7 +15744,7 @@
           <float>2.04036</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -16152,7 +16152,7 @@
           <float>-729.428</float>
           <float>3.74801</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -16188,7 +16188,7 @@
           <float>-716.318</float>
           <float>0.912993</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -16224,7 +16224,7 @@
           <float>-721.254</float>
           <float>-0.0700333</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -16260,7 +16260,7 @@
           <float>-782.922</float>
           <float>3.11221</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -16296,7 +16296,7 @@
           <float>-782.696</float>
           <float>5.41881</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -16332,7 +16332,7 @@
           <float>-761.358</float>
           <float>7.06179</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -16368,7 +16368,7 @@
           <float>-767.159</float>
           <float>3.30777</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -16404,7 +16404,7 @@
           <float>-733.518</float>
           <float>3.05049</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -16440,7 +16440,7 @@
           <float>-768.614</float>
           <float>2.57454</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -16476,7 +16476,7 @@
           <float>-767.098</float>
           <float>5.57235</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -16562,7 +16562,7 @@
           <float name="defend">21</float>
           <float name="strength">23</float>
         </map>
-        <float name="status">0.9998</float>
+        <float name="status">1</float>
         <float name="strength">0.3</float>
         <float name="ticks">0</float>
       </map>
@@ -16800,7 +16800,7 @@
           <float>-667.012</float>
           <float>2.59573</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -16836,7 +16836,7 @@
           <float>-682.826</float>
           <float>0.624711</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -16872,7 +16872,7 @@
           <float>-663.331</float>
           <float>4.53836</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -16908,7 +16908,7 @@
           <float>-648.497</float>
           <float>4.60173</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -16944,7 +16944,7 @@
           <float>-635.741</float>
           <float>5.12419</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -16980,7 +16980,7 @@
           <float>-698.82</float>
           <float>3.91895</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -17016,7 +17016,7 @@
           <float>-692.307</float>
           <float>1.01917</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -17052,7 +17052,7 @@
           <float>-648.821</float>
           <float>2.78138</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -17088,7 +17088,7 @@
           <float>-685.237</float>
           <float>6.01984</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -17124,7 +17124,7 @@
           <float>-676.523</float>
           <float>6.5307</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -17160,7 +17160,7 @@
           <float>-665.546</float>
           <float>7.17218</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -17196,7 +17196,7 @@
           <float>-650.017</float>
           <float>9.01206</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -17232,7 +17232,7 @@
           <float>-641.958</float>
           <float>6.9916</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -17268,7 +17268,7 @@
           <float>-617.556</float>
           <float>8.64214</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -17304,7 +17304,7 @@
           <float>-607.392</float>
           <float>-1.74595</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -17340,7 +17340,7 @@
           <float>-584.329</float>
           <float>2.68203</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -17376,7 +17376,7 @@
           <float>-608.122</float>
           <float>4.40483</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">bent</string>
         <float name="ticks">0</float>
       </map>
@@ -17412,7 +17412,7 @@
           <float>-616.515</float>
           <float>7.75804</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -17448,7 +17448,7 @@
           <float>-596.735</float>
           <float>11.119</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">straight</string>
         <float name="ticks">0</float>
       </map>
@@ -17887,7 +17887,7 @@
           <float>-680.227</float>
           <float>5.78767</float>
         </list>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -19907,7 +19907,7 @@
           <float>50.393</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -19987,7 +19987,7 @@
           <float>48.0848</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -20067,7 +20067,7 @@
           <float>50.3382</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20147,7 +20147,7 @@
           <float>41.2184</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -20227,7 +20227,7 @@
           <float>46.0226</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20307,7 +20307,7 @@
           <float>48.7778</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20387,7 +20387,7 @@
           <float>50.9524</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20467,7 +20467,7 @@
           <float>40.2971</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20547,7 +20547,7 @@
           <float>36.6456</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -20627,7 +20627,7 @@
           <float>37.0923</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -20707,7 +20707,7 @@
           <float>47.9699</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20787,7 +20787,7 @@
           <float>35.5227</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -20867,7 +20867,7 @@
           <float>33.9391</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -20947,7 +20947,7 @@
           <float>35.1182</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21027,7 +21027,7 @@
           <float>36.5527</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -21107,7 +21107,7 @@
           <float>35.4045</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -21187,7 +21187,7 @@
           <float>39.2771</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -21267,7 +21267,7 @@
           <float>49.2866</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21347,7 +21347,7 @@
           <float>47.1872</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21427,7 +21427,7 @@
           <float>46.9378</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -21507,7 +21507,7 @@
           <float>37.1507</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21587,7 +21587,7 @@
           <float>41.6328</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21667,7 +21667,7 @@
           <float>42.6894</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21747,7 +21747,7 @@
           <float>41.3481</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21827,7 +21827,7 @@
           <float>30.2407</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -21907,7 +21907,7 @@
           <float>31.1682</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -21987,7 +21987,7 @@
           <float>39.77</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -22067,7 +22067,7 @@
           <float>45.3531</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -22147,7 +22147,7 @@
           <float>45.946</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
@@ -22227,7 +22227,7 @@
           <float>49.7372</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">gnarly</string>
         <float name="ticks">0</float>
       </map>
@@ -22307,7 +22307,7 @@
           <float>41.1634</float>
         </list>
         <int name="sizeAdult">4</int>
-        <float name="status">0.8</float>
+        <float name="status">1</float>
         <string name="style">weathered</string>
         <float name="ticks">0</float>
       </map>
