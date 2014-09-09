@@ -20,6 +20,24 @@
         </map>
         <list name="contains">
           <string>1</string>
+        </list>
+        <string name="id">0</string>
+        <string name="name">root</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>world</string>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-256</float>
+          <float>-256</float>
+          <float>5</float>
+          <float>128</float>
+          <float>128</float>
+          <float>5</float>
+        </list>
+        <list name="contains">
           <string>2</string>
           <string>3</string>
           <string>4</string>
@@ -92,12 +110,19 @@
           <string>71</string>
           <string>72</string>
           <string>73</string>
+          <string>93</string>
         </list>
-        <string name="id">0</string>
+        <string name="id">1</string>
         <string name="name">demo world</string>
+        <string name="mode">fixed</string>
         <string name="objtype">obj</string>
         <list name="parents">
-          <string>world</string>
+          <string>land</string>
+        </list>
+	<list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
         </list>
         <map name="terrain">
           <map name="points">
@@ -347,7 +372,44 @@
               <float>5</float>
             </list>
           </map>
-          <list name="surfaces">
+	  <list name="surfaces">
+            <map>
+              <string name="name">rock</string>
+              <string name="pattern">fill</string>
+            </map>
+            <map>
+              <string name="name">sand</string>
+              <map name="params">
+                <float name="highThreshold">1.5</float>
+                <float name="lowThreshold">-2</float>
+              </map>
+              <string name="pattern">band</string>
+            </map>
+            <map>
+              <string name="name">grass</string>
+              <map name="params">
+                <float name="cutoff">0.5</float>
+                <float name="highThreshold">80</float>
+                <float name="intercept">1</float>
+                <float name="lowThreshold">1</float>
+              </map>
+              <string name="pattern">grass</string>
+            </map>
+            <map>
+              <string name="name">silt</string>
+              <map name="params">
+                <float name="murkyDepth">-10</float>
+                <float name="waterLevel">0</float>
+              </map>
+              <string name="pattern">depth</string>
+            </map>
+            <map>
+              <string name="name">snow</string>
+              <map name="params">
+                <float name="threshold">110</float>
+              </map>
+              <string name="pattern">high</string>
+            </map>
           </list>
         </map>
       </map>
@@ -362,7 +424,7 @@
         </list>
         <list name="contains">
         </list>
-        <string name="id">1</string>
+        <string name="id">93</string>
         <string name="message">This is a demo world, meant to showcase different features of the Worldforge system.</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -3453,7 +3515,7 @@
         <string name="id">18</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;0&apos;, (15.000000, -23.000000, 5.000000))</string>
+            <string name="object">(&apos;1&apos;, (15.000000, -23.000000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">home</string>
           </map>
@@ -3469,12 +3531,12 @@
         <string name="id">53</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;0&apos;, (40.000000, -5.200000, 5.000000))</string>
+            <string name="object">(&apos;1&apos;, (40.000000, -5.200000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">(&apos;0&apos;, (38.000000, -22.000000, 5.000000))</string>
+            <string name="object">(&apos;1&apos;, (38.000000, -22.000000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w2</string>
           </map>
@@ -3490,17 +3552,17 @@
         <string name="id">69</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;0&apos;, (40.200001, 12.000000, 5.000000))</string>
+            <string name="object">(&apos;1&apos;, (40.200001, 12.000000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">(&apos;0&apos;, (57.599998, 19.600000, 5.000000))</string>
+            <string name="object">(&apos;1&apos;, (57.599998, 19.600000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w2</string>
           </map>
           <map>
-            <string name="object">(&apos;0&apos;, (44.200001, 30.600000, 5.000000))</string>
+            <string name="object">(&apos;1&apos;, (44.200001, 30.600000, 5.000000))</string>
             <string name="predicate">location</string>
             <string name="subject">w3</string>
           </map>
