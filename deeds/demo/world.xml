@@ -112,6 +112,7 @@
           <string>73</string>
           <string>93</string>
         </list>
+	<int name="default_location">1</int>
         <string name="id">1</string>
         <string name="name">demo world</string>
         <string name="mode">fixed</string>
