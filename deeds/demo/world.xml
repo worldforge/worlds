@@ -3516,7 +3516,7 @@
         <string name="id">18</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;1&apos;, (15.000000, -23.000000, 5.000000))</string>
+            <string name="object">(15.000000, -23.000000, 5.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">home</string>
           </map>
@@ -3532,12 +3532,12 @@
         <string name="id">53</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;1&apos;, (40.000000, -5.200000, 5.000000))</string>
+            <string name="object">(40.000000, -5.200000, 5.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">(&apos;1&apos;, (38.000000, -22.000000, 5.000000))</string>
+            <string name="object">(38.000000, -22.000000, 5.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w2</string>
           </map>
@@ -3553,17 +3553,17 @@
         <string name="id">69</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;1&apos;, (40.200001, 12.000000, 5.000000))</string>
+            <string name="object">(40.200001, 12.000000, 5.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">(&apos;1&apos;, (57.599998, 19.600000, 5.000000))</string>
+            <string name="object">(57.599998, 19.600000, 5.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w2</string>
           </map>
           <map>
-            <string name="object">(&apos;1&apos;, (44.200001, 30.600000, 5.000000))</string>
+            <string name="object">(44.200001, 30.600000, 5.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w3</string>
           </map>
