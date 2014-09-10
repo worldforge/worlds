@@ -20,6 +20,25 @@
         </map>
         <list name="contains">
           <string>1</string>
+        </list>
+        <string name="id">0</string>
+        <string name="name">world</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>world</string>
+        </list>
+        <int name="suspended">1</int>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-1024</float>
+          <float>-1024</float>
+          <float>-4</float>
+          <float>1024</float>
+          <float>1024</float>
+          <float>-4</float>
+        </list>
+        <list name="contains">
           <string>2</string>
           <string>3</string>
           <string>4</string>
@@ -914,13 +933,19 @@
           <string>893</string>
           <string>894</string>
         </list>
-        <string name="id">0</string>
+        <int name="default_location">1</int>
+        <string name="id">1</string>
         <string name="name">braga</string>
+        <string name="mode">fixed</string>
         <string name="objtype">obj</string>
         <list name="parents">
-          <string>world</string>
+          <string>land</string>
         </list>
-        <int name="suspended">1</int>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
         <map name="terrain">
           <map name="points">
             <list name="-10x-1">
@@ -6409,37 +6434,6 @@
             </map>
           </list>
         </map>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-2.23092</float>
-          <float>-2.23092</float>
-          <float>0</float>
-          <float>2.23092</float>
-          <float>2.23092</float>
-          <float>4.46184</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">1</string>
-        <float name="mass">100000</float>
-        <string name="name">boulder</string>
-        <string name="objtype">obj</string>
-        <list name="orientation">
-          <float>0</float>
-          <float>0</float>
-          <float>-0.988034</float>
-          <float>0.154234</float>
-        </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
-        <list name="pos">
-          <float>-937.596</float>
-          <float>-919.265</float>
-          <float>4.5269</float>
-        </list>
-        <string name="style">c</string>
       </map>
       <map>
         <list name="bbox">
