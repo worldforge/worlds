@@ -19,6 +19,7 @@
           <int name="seconds_per_minute">20</int>
         </map>
         <list name="contains">
+          <string>94</string>
           <string>1</string>
         </list>
         <string name="id">0</string>
@@ -26,6 +27,16 @@
         <string name="objtype">obj</string>
         <list name="parents">
           <string>world</string>
+        </list>
+      </map>
+      <map>
+        <string name="domain">void</string>
+        <string name="id">94</string>
+        <string name="limbo">1</string>
+        <string name="objtype">obj</string>
+        <string name="name">Limbo</string>
+        <list name="parents">
+          <string>thing</string>
         </list>
       </map>
       <map>
@@ -112,7 +123,7 @@
           <string>73</string>
           <string>93</string>
         </list>
-	<int name="default_location">1</int>
+	    <int name="default_location">1</int>
         <string name="id">1</string>
         <string name="name">demo world</string>
         <string name="mode">fixed</string>
@@ -120,7 +131,7 @@
         <list name="parents">
           <string>land</string>
         </list>
-	<list name="pos">
+	    <list name="pos">
           <float>0</float>
           <float>0</float>
           <float>0</float>
@@ -3499,8 +3510,8 @@
       </map>
     </list>
     <map name="meta">
-      <string name="description"></string>
-      <string name="name"></string>
+      <string name="description">A demo world, meant to show off the various capabilities of the Worldforge system.</string>
+      <string name="name">Demo world</string>
       <int name="preserved_ids">0</int>
       <map name="server">
         <string name="host">localhost.localdomain</string>

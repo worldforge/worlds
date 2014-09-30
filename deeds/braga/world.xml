@@ -19,6 +19,7 @@
           <int name="seconds_per_minute">20</int>
         </map>
         <list name="contains">
+          <string>929</string>
           <string>1</string>
         </list>
         <string name="id">0</string>
@@ -29,6 +30,16 @@
         </list>
         <int name="suspended">1</int>
       </map>
+      <map>
+        <string name="domain">void</string>
+        <string name="id">929</string>
+        <string name="limbo">1</string>
+        <string name="objtype">obj</string>
+        <string name="name">Limbo</string>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+      </map>      
       <map>
         <list name="bbox">
           <float>-1024</float>
@@ -40892,8 +40903,8 @@
       </map>
     </list>
     <map name="meta">
-      <string name="description"></string>
-      <string name="name"></string>
+      <string name="description">The island of Braga, with its lush forests and deep woods.</string>
+      <string name="name">The island of Braga</string>
       <int name="preserved_ids">0</int>
       <map name="server">
         <string name="host">localhost.localdomain</string>
