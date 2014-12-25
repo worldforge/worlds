@@ -38373,7 +38373,7 @@
             <string name="subject">village</string>
           </map>
           <map>
-            <string name="object">avoid([&apos;wolf&apos;,&apos;goblin&apos;,&apos;bear&apos;,&apos;skeleton&apos;,&apos;lych&apos;],30.0)</string>
+            <string name="object">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;avoid&apos;, &apos;#avoid_verb1&apos;)</string>
           </map>
@@ -38395,7 +38395,7 @@
         <string name="id">153</string>
         <list name="thoughts">
           <map>
-            <string name="object">avoid([&apos;wolf&apos;,&apos;goblin&apos;,&apos;bear&apos;,&apos;skeleton&apos;,&apos;lych&apos;],30.0)</string>
+            <string name="object">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;avoid&apos;, &apos;#avoid_verb1&apos;)</string>
           </map>
