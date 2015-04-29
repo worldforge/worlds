@@ -38368,7 +38368,7 @@
             <string name="subject">village</string>
           </map>
           <map>
-            <string name="object">(&apos;3728363&apos;, (-881.000000, -795.000000, 4.000000))</string>
+            <string name="object">(-881.000000, -795.000000, 4.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">village</string>
           </map>
@@ -38405,7 +38405,7 @@
         <string name="id">584</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;3728363&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -38427,7 +38427,7 @@
         <string name="id">585</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;3728363&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -38449,7 +38449,7 @@
         <string name="id">586</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;3728363&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -38471,7 +38471,7 @@
         <string name="id">587</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;3728363&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -38493,7 +38493,7 @@
         <string name="id">588</string>
         <list name="thoughts">
           <map>
-            <string name="object">(&apos;3728363&apos;, (-886.000000, -787.000000, 3.000000))</string>
+            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
