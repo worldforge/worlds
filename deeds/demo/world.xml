@@ -28,6 +28,7 @@
         <list name="parents">
           <string>world</string>
         </list>
+        <int name="suspended">0</int>
       </map>
       <map>
         <list name="contains">
@@ -133,6 +134,9 @@
           <string>77</string>
           <string>78</string>
           <string>79</string>
+          <string>80</string>
+          <string>81</string>
+          <string>82</string>
         </list>
         <int name="default_location">1</int>
         <string name="id">2</string>
@@ -545,7 +549,6 @@
         </list>
         <string name="id">5</string>
         <string name="message">The terrain can be altered by editing terrain points. Here&apos;s a mound.</string>
-        <string name="mode">fixed</string>
         <string name="name">ocean</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -562,7 +565,6 @@
           <float>0</float>
           <float>0</float>
         </list>
-        <int name="solid">0</int>
         <float name="visibility">1000</float>
       </map>
       <map>
@@ -628,7 +630,6 @@
         <float name="visibility">1000</float>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -640,17 +641,8 @@
         <list name="contains">
         </list>
         <string name="decays">skull</string>
-        <map name="guise">
-          <map name="material">
-            <string name="head">simon</string>
-          </map>
-        </map>
         <string name="id">8</string>
         <float name="mass">60</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">human</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -667,19 +659,10 @@
           <float>-2.31681</float>
           <float>5.01769</float>
         </list>
-        <string name="sex">male</string>
         <float name="stamina">1</float>
-        <map name="statistics">
-          <float name="attack">25</float>
-          <float name="defend">21</float>
-          <float name="strength">23</float>
-        </map>
-        <float name="status">0.8862</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8706</float>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -689,27 +672,18 @@
           <float>2</float>
         </list>
         <list name="contains">
-          <string>80</string>
-          <string>81</string>
-          <string>82</string>
           <string>83</string>
           <string>84</string>
           <string>85</string>
           <string>86</string>
           <string>87</string>
+          <string>88</string>
+          <string>89</string>
+          <string>90</string>
         </list>
         <string name="decays">skull</string>
-        <map name="guise">
-          <map name="material">
-            <string name="head">simon</string>
-          </map>
-        </map>
         <string name="id">9</string>
         <float name="mass">60</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">settler</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -720,7 +694,7 @@
         </list>
         <map name="outfit">
           <map name="legs">
-            <string name="$eid">80</string>
+            <string name="$eid">83</string>
           </map>
         </map>
         <list name="parents">
@@ -731,19 +705,10 @@
           <float>-3.53641</float>
           <float>5.01505</float>
         </list>
-        <string name="sex">male</string>
         <float name="stamina">1</float>
-        <map name="statistics">
-          <float name="attack">25</float>
-          <float name="defend">21</float>
-          <float name="strength">23</float>
-        </map>
-        <float name="status">0.8863</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8707</float>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -753,9 +718,6 @@
           <float>2</float>
         </list>
         <list name="contains">
-          <string>88</string>
-          <string>89</string>
-          <string>90</string>
           <string>91</string>
           <string>92</string>
           <string>93</string>
@@ -764,19 +726,13 @@
           <string>96</string>
           <string>97</string>
           <string>98</string>
+          <string>99</string>
+          <string>100</string>
+          <string>101</string>
         </list>
         <string name="decays">skull</string>
-        <map name="guise">
-          <map name="material">
-            <string name="head">simon</string>
-          </map>
-        </map>
         <string name="id">10</string>
         <float name="mass">60</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">merchant</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -787,19 +743,19 @@
         </list>
         <map name="outfit">
           <map name="back">
-            <string name="$eid">90</string>
+            <string name="$eid">93</string>
           </map>
           <map name="body">
-            <string name="$eid">88</string>
-          </map>
-          <map name="feet">
             <string name="$eid">91</string>
           </map>
+          <map name="feet">
+            <string name="$eid">94</string>
+          </map>
           <map name="head">
-            <string name="$eid">92</string>
+            <string name="$eid">95</string>
           </map>
           <map name="legs">
-            <string name="$eid">89</string>
+            <string name="$eid">92</string>
           </map>
         </map>
         <list name="parents">
@@ -810,16 +766,8 @@
           <float>-4.97503</float>
           <float>5.01358</float>
         </list>
-        <string name="sex">male</string>
         <float name="stamina">1</float>
-        <map name="statistics">
-          <float name="attack">25</float>
-          <float name="defend">21</float>
-          <float name="strength">23</float>
-        </map>
-        <float name="status">0.8863</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8707</float>
       </map>
       <map>
         <list name="bbox">
@@ -879,7 +827,6 @@
         <float name="visibility">1000</float>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -893,10 +840,6 @@
         <string name="decays">skull</string>
         <string name="id">13</string>
         <float name="mass">50</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -913,12 +856,9 @@
           <float>5.00955</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9064</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8908</float>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -932,10 +872,6 @@
         <string name="decays">skull</string>
         <string name="id">14</string>
         <float name="mass">50</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -952,9 +888,7 @@
           <float>5.00781</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9064</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8908</float>
       </map>
       <map>
         <list name="bbox">
@@ -987,7 +921,6 @@
         </list>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-1.9</float>
           <float>-0.8</float>
@@ -996,16 +929,11 @@
           <float>0.8</float>
           <float>2.5</float>
         </list>
-        <float name="biomass">400</float>
         <list name="contains">
         </list>
         <string name="id">16</string>
         <int name="immortal">1</int>
         <float name="mass">400</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">bear</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -1023,9 +951,7 @@
           <float>5.00783</float>
         </list>
         <float name="stamina">1</float>
-        <float name="status">0.9066</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.891</float>
       </map>
       <map>
         <list name="bbox">
@@ -1106,7 +1032,6 @@
         <float name="visibility">1000</float>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -1118,17 +1043,8 @@
         <list name="contains">
         </list>
         <string name="decays">skull</string>
-        <map name="guise">
-          <map name="material">
-            <string name="head">simon</string>
-          </map>
-        </map>
         <string name="id">19</string>
         <float name="mass">60</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">human</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -1146,16 +1062,8 @@
           <float>5.00988</float>
         </list>
         <string name="respawning">respawn</string>
-        <string name="sex">male</string>
         <float name="stamina">1</float>
-        <map name="statistics">
-          <float name="attack">25</float>
-          <float name="defend">21</float>
-          <float name="strength">23</float>
-        </map>
-        <float name="status">0.9068</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8912</float>
       </map>
       <map>
         <list name="bbox">
@@ -1898,7 +1806,6 @@
         <list name="contains">
         </list>
         <string name="id">38</string>
-        <float name="mass">100</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1928,7 +1835,6 @@
         <list name="contains">
         </list>
         <string name="id">39</string>
-        <float name="mass">100</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1958,7 +1864,6 @@
         <list name="contains">
         </list>
         <string name="id">40</string>
-        <float name="mass">100</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1988,7 +1893,6 @@
         <list name="contains">
         </list>
         <string name="id">41</string>
-        <float name="mass">100</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2004,7 +1908,6 @@
           <float>3.77312</float>
           <float>5.00975</float>
         </list>
-        <string name="style">simple</string>
       </map>
       <map>
         <list name="bbox">
@@ -2018,7 +1921,6 @@
         <list name="contains">
         </list>
         <string name="id">42</string>
-        <float name="mass">100</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2063,7 +1965,6 @@
           <float>7.89046</float>
           <float>5.00823</float>
         </list>
-        <int name="simple">0</int>
         <string name="style">brokenA</string>
       </map>
       <map>
@@ -2093,7 +1994,6 @@
           <float>10.1526</float>
           <float>5.00808</float>
         </list>
-        <int name="simple">0</int>
         <string name="style">brokenB</string>
       </map>
       <map>
@@ -2123,8 +2023,6 @@
           <float>12.7071</float>
           <float>5.00777</float>
         </list>
-        <int name="simple">0</int>
-        <string name="style">whole</string>
       </map>
       <map>
         <list name="bbox">
@@ -2139,7 +2037,6 @@
         </list>
         <string name="direction">left</string>
         <string name="id">46</string>
-        <string name="message"></string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2168,7 +2065,6 @@
         <list name="contains">
         </list>
         <string name="id">47</string>
-        <string name="message"></string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2198,7 +2094,6 @@
         </list>
         <string name="direction">right</string>
         <string name="id">48</string>
-        <string name="message"></string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2354,7 +2249,6 @@
           <float>-5.83727</float>
           <float>5.0101</float>
         </list>
-        <int name="solid">0</int>
       </map>
       <map>
         <map name="area">
@@ -2400,10 +2294,8 @@
           <float>-22.7184</float>
           <float>5.01058</float>
         </list>
-        <int name="solid">0</int>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -2415,17 +2307,8 @@
         <list name="contains">
         </list>
         <string name="decays">skull</string>
-        <map name="guise">
-          <map name="material">
-            <string name="head">simon</string>
-          </map>
-        </map>
         <string name="id">54</string>
         <float name="mass">60</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">human</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2438,20 +2321,12 @@
           <string>human</string>
         </list>
         <list name="pos">
-          <float>39.7636</float>
-          <float>-7.18612</float>
-          <float>5.00988</float>
+          <float>39.4124</float>
+          <float>-10.136</float>
+          <float>5.00984</float>
         </list>
-        <string name="sex">male</string>
         <float name="stamina">1</float>
-        <map name="statistics">
-          <float name="attack">25</float>
-          <float name="defend">21</float>
-          <float name="strength">23</float>
-        </map>
-        <float name="status">0.9102</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8946</float>
         <float name="visibility">1000</float>
       </map>
       <map>
@@ -2529,7 +2404,6 @@
           <float>11.7202</float>
           <float>5.00754</float>
         </list>
-        <int name="solid">0</int>
       </map>
       <map>
         <map name="area">
@@ -2575,7 +2449,6 @@
           <float>19.5332</float>
           <float>5.00867</float>
         </list>
-        <int name="solid">0</int>
       </map>
       <map>
         <map name="area">
@@ -2621,7 +2494,6 @@
           <float>31.5875</float>
           <float>5.00832</float>
         </list>
-        <int name="solid">0</int>
       </map>
       <map>
         <list name="bbox">
@@ -2635,7 +2507,6 @@
         <list name="contains">
         </list>
         <string name="id">59</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2665,7 +2536,6 @@
         <list name="contains">
         </list>
         <string name="id">60</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2695,7 +2565,6 @@
         <list name="contains">
         </list>
         <string name="id">61</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2725,7 +2594,6 @@
         <list name="contains">
         </list>
         <string name="id">62</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2755,7 +2623,6 @@
         <list name="contains">
         </list>
         <string name="id">63</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2785,7 +2652,6 @@
         <list name="contains">
         </list>
         <string name="id">64</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2815,7 +2681,6 @@
         <list name="contains">
         </list>
         <string name="id">65</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2845,7 +2710,6 @@
         <list name="contains">
         </list>
         <string name="id">66</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2875,7 +2739,6 @@
         <list name="contains">
         </list>
         <string name="id">67</string>
-        <float name="mass">50</float>
         <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2920,7 +2783,6 @@
           <float>17.2742</float>
           <float>5.00514</float>
         </list>
-        <int name="simple">0</int>
         <string name="style">brokenB</string>
       </map>
       <map>
@@ -2950,11 +2812,9 @@
           <float>31.9655</float>
           <float>5.00679</float>
         </list>
-        <int name="simple">0</int>
         <string name="style">brokenB</string>
       </map>
       <map>
-        <float name="agility">0.3</float>
         <list name="bbox">
           <float>-0.25</float>
           <float>-0.25</float>
@@ -2966,17 +2826,8 @@
         <list name="contains">
         </list>
         <string name="decays">skull</string>
-        <map name="guise">
-          <map name="material">
-            <string name="head">simon</string>
-          </map>
-        </map>
         <string name="id">70</string>
         <float name="mass">60</float>
-        <map name="mind">
-          <string name="language">python</string>
-          <string name="name">mind.NPCMind.NPCMind</string>
-        </map>
         <string name="name">human</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2993,16 +2844,8 @@
           <float>22.0281</float>
           <float>5.00623</float>
         </list>
-        <string name="sex">male</string>
         <float name="stamina">1</float>
-        <map name="statistics">
-          <float name="attack">25</float>
-          <float name="defend">21</float>
-          <float name="strength">23</float>
-        </map>
-        <float name="status">0.9133</float>
-        <float name="strength">0.3</float>
-        <float name="ticks">0</float>
+        <float name="status">0.8977</float>
       </map>
       <map>
         <list name="bbox">
@@ -3031,8 +2874,6 @@
           <float>20.859</float>
           <float>5.0048</float>
         </list>
-        <int name="simple">0</int>
-        <string name="style">whole</string>
       </map>
       <map>
         <list name="bbox">
@@ -3061,7 +2902,6 @@
           <float>18.8589</float>
           <float>5.00417</float>
         </list>
-        <int name="simple">0</int>
         <string name="style">brokenA</string>
       </map>
       <map>
@@ -3091,7 +2931,6 @@
           <float>22.663</float>
           <float>5.00472</float>
         </list>
-        <int name="simple">0</int>
         <string name="style">brokenA</string>
       </map>
       <map>
@@ -3172,20 +3011,22 @@
         <list name="orientation">
           <float>0</float>
           <float>0</float>
-          <float>0.967087</float>
-          <float>0.254446</float>
+          <float>-0.552262</float>
+          <float>0.833671</float>
         </list>
         <list name="parents">
           <string>human</string>
         </list>
         <list name="pos">
-          <float>-12.4824</float>
-          <float>-26.4524</float>
-          <float>5.0081</float>
+          <float>-11.8715</float>
+          <float>-25.2875</float>
+          <float>5.00855</float>
         </list>
-        <string name="right_hand_wield"></string>
+        <map name="right_hand_wield">
+          <string name="$eid">12598305</string>
+        </map>
         <float name="stamina">1</float>
-        <float name="status">0.9147</float>
+        <float name="status">0.8991</float>
       </map>
       <map>
         <list name="contains">
@@ -3283,6 +3124,98 @@
       </map>
       <map>
         <list name="bbox">
+          <float>-0.25</float>
+          <float>-0.25</float>
+          <float>0</float>
+          <float>0.25</float>
+          <float>0.25</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">80</string>
+        <float name="mass">60</float>
+        <string name="name">Pig greeter</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0.801445</float>
+          <float>0.598068</float>
+        </list>
+        <list name="parents">
+          <string>human</string>
+        </list>
+        <list name="pos">
+          <float>-0.986571</float>
+          <float>-35.3169</float>
+          <float>5.01807</float>
+        </list>
+        <float name="stamina">1</float>
+        <float name="status">0.9849</float>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">81</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>-0</float>
+          <float>-0</float>
+          <float>-0.725937</float>
+          <float>0.687761</float>
+        </list>
+        <list name="parents">
+          <string>thing</string>
+        </list>
+        <list name="pos">
+          <float>-2.12336</float>
+          <float>-34.738</float>
+          <float>5.01566</float>
+        </list>
+        <map name="spawner">
+          <map name="entity">
+            <list name="parents">
+              <string>pig</string>
+            </list>
+            <int name="transient">4</int>
+          </map>
+          <int name="interval">5</int>
+          <int name="minamount">1</int>
+          <float name="radius">3</float>
+          <string name="type">pig</string>
+        </map>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.4</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.4</float>
+          <float>2</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">82</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>-0</float>
+          <float>-0.605294</float>
+          <float>-0.796002</float>
+        </list>
+        <list name="parents">
+          <string>signpost</string>
+        </list>
+        <list name="pos">
+          <float>-2.82468</float>
+          <float>-31.8398</float>
+          <float>5.01004</float>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
           <float>-0.1</float>
           <float>-0.1</float>
           <float>0</float>
@@ -3292,8 +3225,7 @@
         </list>
         <list name="contains">
         </list>
-        <string name="id">80</string>
-        <float name="mass">0.5</float>
+        <string name="id">83</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>trousers</string>
@@ -3304,7 +3236,6 @@
           <float>0</float>
         </list>
         <string name="style">burlap</string>
-        <string name="worn">legs</string>
       </map>
       <map>
         <list name="bbox">
@@ -3317,8 +3248,7 @@
         </list>
         <list name="contains">
         </list>
-        <string name="id">81</string>
-        <float name="mass">2</float>
+        <string name="id">84</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>knife</string>
@@ -3332,57 +3262,7 @@
       <map>
         <list name="contains">
         </list>
-        <string name="id">82</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">83</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">84</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
         <string name="id">85</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>coin</string>
@@ -3397,8 +3277,6 @@
         <list name="contains">
         </list>
         <string name="id">86</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>coin</string>
@@ -3413,8 +3291,48 @@
         <list name="contains">
         </list>
         <string name="id">87</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">88</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">89</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">90</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>coin</string>
@@ -3436,8 +3354,7 @@
         </list>
         <list name="contains">
         </list>
-        <string name="id">88</string>
-        <float name="mass">0.5</float>
+        <string name="id">91</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>shirt</string>
@@ -3448,82 +3365,6 @@
           <float>0</float>
         </list>
         <string name="style">fine</string>
-        <string name="worn">body</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.1</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.1</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">89</string>
-        <float name="mass">0.5</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>trousers</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">legs</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.1</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.1</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">90</string>
-        <float name="mass">0.5</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>cloak</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">back</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-0.2</float>
-          <float>-0.1</float>
-          <float>0</float>
-          <float>0.2</float>
-          <float>0.1</float>
-          <float>0.3</float>
-        </list>
-        <list name="contains">
-        </list>
-        <string name="id">91</string>
-        <float name="mass">2</float>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>boots</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <string name="style">fine</string>
-        <string name="worn">feet</string>
       </map>
       <map>
         <list name="bbox">
@@ -3537,7 +3378,75 @@
         <list name="contains">
         </list>
         <string name="id">92</string>
-        <float name="mass">0.5</float>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>trousers</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">93</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>cloak</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.2</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.2</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">94</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>boots</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <string name="style">fine</string>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-0.1</float>
+          <float>-0.1</float>
+          <float>0</float>
+          <float>0.1</float>
+          <float>0.1</float>
+          <float>0.3</float>
+        </list>
+        <list name="contains">
+        </list>
+        <string name="id">95</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>hat</string>
@@ -3548,62 +3457,11 @@
           <float>0</float>
         </list>
         <string name="style">fine</string>
-        <string name="worn">head</string>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">93</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">94</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
-        </list>
-        <string name="id">95</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
-        <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
       </map>
       <map>
         <list name="contains">
         </list>
         <string name="id">96</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>coin</string>
@@ -3618,8 +3476,6 @@
         <list name="contains">
         </list>
         <string name="id">97</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>coin</string>
@@ -3634,8 +3490,48 @@
         <list name="contains">
         </list>
         <string name="id">98</string>
-        <float name="mass">0.01</float>
-        <string name="material">gold</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">99</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">100</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>coin</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+      </map>
+      <map>
+        <list name="contains">
+        </list>
+        <string name="id">101</string>
         <string name="objtype">obj</string>
         <list name="parents">
           <string>coin</string>
@@ -3657,7 +3553,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.6.3</string>
       </map>
-      <string name="timestamp">1430418536853</string>
+      <string name="timestamp">1430519021884</string>
       <int name="transients">0</int>
     </map>
     <list name="minds">
@@ -3728,7 +3624,7 @@
         <string name="id">76</string>
         <list name="thoughts">
           <map>
-            <string name="object">12592529</string>
+            <string name="object">12598305</string>
             <string name="predicate">focus</string>
             <string name="subject">entity.type=types.mushroom &amp;&amp; entity.species = &apos;amanita&apos;</string>
           </map>
@@ -3737,6 +3633,24 @@
 </string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;gather&apos;, &apos;#gather_verb1&apos;)</string>
+          </map>
+          <map>
+            <map name="things">
+              <list name="mushroom">
+                <string>12598305</string>
+              </list>
+            </map>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">80</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">welcome(message=&apos;Hello piggie!&apos;, what=&apos;entity.type = types.pig&apos;)
+</string>
+            <string name="predicate">goal</string>
+            <string name="subject">(&apos;welcome&apos;, &apos;#welcome_verb1&apos;)</string>
           </map>
         </list>
       </map>
