@@ -38378,7 +38378,7 @@
             <string name="subject">(&apos;avoid&apos;, &apos;#avoid_verb1&apos;)</string>
           </map>
           <map>
-            <string name="object">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, type=&apos;human&apos;)
+            <string name="object">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, what=&apos;entity.type instance_of types.human&apos;)
 </string>
             <string name="predicate">goal</string>
             <string name="subject">(&apos;welcome&apos;, &apos;#welcome_verb1&apos;)</string>
