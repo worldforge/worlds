@@ -38373,21 +38373,16 @@
             <string name="subject">village</string>
           </map>
           <map>
-            <string name="object">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;avoid&apos;, &apos;#avoid_verb1&apos;)</string>
+            <string name="goal">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
+            <string name="id">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
           </map>
           <map>
-            <string name="object">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, what=&apos;entity.type instance_of types.human&apos;)
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;welcome&apos;, &apos;#welcome_verb1&apos;)</string>
+            <string name="goal">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, what=&apos;entity.type instance_of types.human&apos;)</string>
+            <string name="id">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, what=&apos;entity.type instance_of types.human&apos;)</string>
           </map>
           <map>
-            <string name="object">add_help(messages=[&apos;Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;add_help&apos;, &apos;#add_help_verb1&apos;)</string>
+            <string name="goal">add_help(messages=[&apos;Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])</string>
+            <string name="id">add_help(messages=[&apos;Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])</string>
           </map>
         </list>
       </map>
@@ -38395,9 +38390,8 @@
         <string name="id">153</string>
         <list name="thoughts">
           <map>
-            <string name="object">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;avoid&apos;, &apos;#avoid_verb1&apos;)</string>
+            <string name="goal">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
+            <string name="id">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
           </map>
         </list>
       </map>
@@ -38410,16 +38404,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">peck()
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+            <string name="goal">peck()</string>
+            <string name="id">peck()</string>
           </map>
           <map>
-            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
+            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
           </map>
         </list>
       </map>
@@ -38432,16 +38422,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">peck()
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+            <string name="goal">peck()</string>
+            <string name="id">peck()</string>
           </map>
           <map>
-            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
+            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
           </map>
         </list>
       </map>
@@ -38454,16 +38440,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">peck()
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+            <string name="goal">peck()</string>
+            <string name="id">peck()</string>
           </map>
           <map>
-            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
+            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
           </map>
         </list>
       </map>
@@ -38476,16 +38458,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">peck()
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+            <string name="goal">peck()</string>
+            <string name="id">peck()</string>
           </map>
           <map>
-            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
+            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
           </map>
         </list>
       </map>
@@ -38498,16 +38476,12 @@
             <string name="subject">w1</string>
           </map>
           <map>
-            <string name="object">peck()
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;peck&apos;, &apos;#peck_verb1&apos;)</string>
+            <string name="goal">peck()</string>
+            <string name="id">peck()</string>
           </map>
           <map>
-            <string name="object">roam(radius=30, locations=[&apos;w1&apos;])
-</string>
-            <string name="predicate">goal</string>
-            <string name="subject">(&apos;roam&apos;, &apos;#roam_verb1&apos;)</string>
+            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
+            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
           </map>
         </list>
       </map>
