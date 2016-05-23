@@ -38485,6 +38485,90 @@
           </map>
         </list>
       </map>
+      <map>
+        <string name="id">683</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(-268.43, -610.678, 13.9254)</string>
+            <string name="predicate">location</string>
+            <string name="subject">origin</string>
+          </map>
+          <map>
+            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">684</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(-270.145, -612.223, 13.4949)</string>
+            <string name="predicate">location</string>
+            <string name="subject">origin</string>
+          </map>
+          <map>
+            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">685</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(-264.711, -601.085, 13.5281)</string>
+            <string name="predicate">location</string>
+            <string name="subject">origin</string>
+          </map>
+          <map>
+            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">686</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(-263.781, -599.562, 13.2177)</string>
+            <string name="predicate">location</string>
+            <string name="subject">origin</string>
+          </map>
+          <map>
+            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">687</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(-277.817, -602.903, 12.36)</string>
+            <string name="predicate">location</string>
+            <string name="subject">origin</string>
+          </map>
+          <map>
+            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+          </map>
+        </list>
+      </map>
+      <map>
+        <string name="id">688</string>
+        <list name="thoughts">
+          <map>
+            <string name="object">(-260.719, -607.016, 14.3258)</string>
+            <string name="predicate">location</string>
+            <string name="subject">origin</string>
+          </map>
+          <map>
+            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
+          </map>
+        </list>
+      </map>      
     </list>
   </map>
 
