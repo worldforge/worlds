@@ -6466,7 +6466,6 @@
         </list>
         <string name="id">3</string>
         <float name="mass">100000</float>
-        <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -7065,7 +7064,6 @@
         </list>
         <string name="id">11</string>
         <float name="mass">5</float>
-        <string name="name">campfire</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8188,7 +8186,6 @@
         </list>
         <string name="id">30</string>
         <float name="mass">100000</float>
-        <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8219,7 +8216,6 @@
         </list>
         <string name="id">31</string>
         <float name="mass">100000</float>
-        <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8250,7 +8246,6 @@
         </list>
         <string name="id">32</string>
         <string name="message"></string>
-        <string name="name">signpost</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8280,7 +8275,6 @@
         </list>
         <string name="id">33</string>
         <float name="mass">100000</float>
-        <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8311,7 +8305,6 @@
         </list>
         <string name="id">34</string>
         <float name="mass">100000</float>
-        <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8832,7 +8825,6 @@
         </list>
         <string name="id">42</string>
         <float name="mass">772.184</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8863,7 +8855,6 @@
         </list>
         <string name="id">43</string>
         <float name="mass">87.1516</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8894,7 +8885,6 @@
         </list>
         <string name="id">44</string>
         <float name="mass">306.704</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8925,7 +8915,6 @@
         </list>
         <string name="id">45</string>
         <float name="mass">327.784</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8956,7 +8945,6 @@
         </list>
         <string name="id">46</string>
         <float name="mass">731.953</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -8987,7 +8975,6 @@
         </list>
         <string name="id">47</string>
         <float name="mass">965.112</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9018,7 +9005,6 @@
         </list>
         <string name="id">48</string>
         <float name="mass">134.012</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9049,7 +9035,6 @@
         </list>
         <string name="id">49</string>
         <float name="mass">55.0483</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9080,7 +9065,6 @@
         </list>
         <string name="id">50</string>
         <float name="mass">518.823</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9111,7 +9095,6 @@
         </list>
         <string name="id">51</string>
         <float name="mass">643.639</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9352,7 +9335,6 @@
         </list>
         <string name="id">55</string>
         <string name="message"></string>
-        <string name="name">signpost</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9382,7 +9364,6 @@
         </list>
         <string name="id">56</string>
         <string name="message"></string>
-        <string name="name">signpost</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -9692,7 +9673,6 @@
         </list>
         <string name="id">64</string>
         <float name="mass">100000</float>
-        <string name="name">boulder</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12351,7 +12331,6 @@
         </list>
         <string name="id">139</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12381,7 +12360,6 @@
         </list>
         <string name="id">140</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12411,7 +12389,6 @@
         </list>
         <string name="id">141</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12441,7 +12418,6 @@
         </list>
         <string name="id">142</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12471,7 +12447,6 @@
         </list>
         <string name="id">143</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12501,7 +12476,6 @@
         </list>
         <string name="id">144</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12531,7 +12505,6 @@
         </list>
         <string name="id">145</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12561,7 +12534,6 @@
         </list>
         <string name="id">146</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12591,7 +12563,6 @@
         </list>
         <string name="id">147</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12621,7 +12592,6 @@
         </list>
         <string name="id">148</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12651,7 +12621,6 @@
         </list>
         <string name="id">149</string>
         <string name="material">wood</string>
-        <string name="name">fence_gate</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12681,7 +12650,6 @@
         </list>
         <string name="id">150</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12716,7 +12684,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">cow</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12746,7 +12713,6 @@
         </list>
         <string name="id">152</string>
         <float name="mass">80</float>
-        <string name="name">stall</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12855,7 +12821,6 @@
         <list name="contains">
         </list>
         <string name="id">154</string>
-        <string name="name">crate_open</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12880,7 +12845,6 @@
         <string name="germinates">appletree</string>
         <string name="id">155</string>
         <float name="mass">0.2</float>
-        <string name="name">apple</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12906,7 +12870,6 @@
         <string name="germinates">appletree</string>
         <string name="id">156</string>
         <float name="mass">0.2</float>
-        <string name="name">apple</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12930,7 +12893,6 @@
         </list>
         <string name="id">157</string>
         <float name="mass">1</float>
-        <string name="name">ham</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -12959,7 +12921,6 @@
         <list name="contains">
         </list>
         <string name="id">158</string>
-        <string name="name">crate_open</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13041,7 +13002,6 @@
         <list name="contains">
         </list>
         <string name="id">160</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13063,7 +13023,6 @@
         <list name="contains">
         </list>
         <string name="id">161</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13085,7 +13044,6 @@
         <list name="contains">
         </list>
         <string name="id">162</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13107,7 +13065,6 @@
         <list name="contains">
         </list>
         <string name="id">163</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13129,7 +13086,6 @@
         <list name="contains">
         </list>
         <string name="id">164</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13151,7 +13107,6 @@
         <list name="contains">
         </list>
         <string name="id">165</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13173,7 +13128,6 @@
         <list name="contains">
         </list>
         <string name="id">166</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13195,7 +13149,6 @@
         <list name="contains">
         </list>
         <string name="id">167</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13217,7 +13170,6 @@
         <list name="contains">
         </list>
         <string name="id">168</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13239,7 +13191,6 @@
         <list name="contains">
         </list>
         <string name="id">169</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13261,7 +13212,6 @@
         <list name="contains">
         </list>
         <string name="id">170</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13283,7 +13233,6 @@
         <list name="contains">
         </list>
         <string name="id">171</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13305,7 +13254,6 @@
         <list name="contains">
         </list>
         <string name="id">172</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13327,7 +13275,6 @@
         <list name="contains">
         </list>
         <string name="id">173</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13349,7 +13296,6 @@
         <list name="contains">
         </list>
         <string name="id">174</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13371,7 +13317,6 @@
         <list name="contains">
         </list>
         <string name="id">175</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13393,7 +13338,6 @@
         <list name="contains">
         </list>
         <string name="id">176</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13415,7 +13359,6 @@
         <list name="contains">
         </list>
         <string name="id">177</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13437,7 +13380,6 @@
         <list name="contains">
         </list>
         <string name="id">178</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13459,7 +13401,6 @@
         <list name="contains">
         </list>
         <string name="id">179</string>
-        <string name="name">carrot</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13488,7 +13429,6 @@
         <list name="contains">
         </list>
         <string name="id">180</string>
-        <string name="name">cart</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13519,7 +13459,6 @@
         </list>
         <string name="id">181</string>
         <float name="mass">411.383</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13550,7 +13489,6 @@
         </list>
         <string name="id">182</string>
         <float name="mass">64.5109</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13581,7 +13519,6 @@
         </list>
         <string name="id">183</string>
         <float name="mass">641.146</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13612,7 +13549,6 @@
         </list>
         <string name="id">184</string>
         <float name="mass">593.729</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13643,7 +13579,6 @@
         </list>
         <string name="id">185</string>
         <float name="mass">18.4517</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13674,7 +13609,6 @@
         </list>
         <string name="id">186</string>
         <float name="mass">408.889</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13705,7 +13639,6 @@
         </list>
         <string name="id">187</string>
         <float name="mass">172.494</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13736,7 +13669,6 @@
         </list>
         <string name="id">188</string>
         <float name="mass">163.167</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13767,7 +13699,6 @@
         </list>
         <string name="id">189</string>
         <float name="mass">225.045</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13798,7 +13729,6 @@
         </list>
         <string name="id">190</string>
         <float name="mass">1004.82</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13829,7 +13759,6 @@
         </list>
         <string name="id">191</string>
         <float name="mass">158.356</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13860,7 +13789,6 @@
         </list>
         <string name="id">192</string>
         <float name="mass">255.869</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13891,7 +13819,6 @@
         </list>
         <string name="id">193</string>
         <float name="mass">677.39</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13922,7 +13849,6 @@
         </list>
         <string name="id">194</string>
         <float name="mass">546.52</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13953,7 +13879,6 @@
         </list>
         <string name="id">195</string>
         <float name="mass">247.872</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13984,7 +13909,6 @@
         </list>
         <string name="id">196</string>
         <float name="mass">1003.55</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14015,7 +13939,6 @@
         </list>
         <string name="id">197</string>
         <float name="mass">643.042</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14046,7 +13969,6 @@
         </list>
         <string name="id">198</string>
         <float name="mass">104.459</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14077,7 +13999,6 @@
         </list>
         <string name="id">199</string>
         <float name="mass">354.607</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14468,7 +14389,6 @@
         </list>
         <string name="id">202</string>
         <string name="material">wood</string>
-        <string name="name">fence_gate</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14498,7 +14418,6 @@
         </list>
         <string name="id">203</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14528,7 +14447,6 @@
         </list>
         <string name="id">204</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14558,7 +14476,6 @@
         </list>
         <string name="id">205</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14588,7 +14505,6 @@
         </list>
         <string name="id">206</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14618,7 +14534,6 @@
         </list>
         <string name="id">207</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14648,7 +14563,6 @@
         </list>
         <string name="id">208</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14678,7 +14592,6 @@
         </list>
         <string name="id">209</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14708,7 +14621,6 @@
         </list>
         <string name="id">210</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14738,7 +14650,6 @@
         </list>
         <string name="id">211</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14768,7 +14679,6 @@
         </list>
         <string name="id">212</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -14798,7 +14708,6 @@
         </list>
         <string name="id">213</string>
         <string name="material">wood</string>
-        <string name="name">fence_section</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15416,7 +15325,6 @@
         </list>
         <string name="id">232</string>
         <float name="mass">94.0613</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15447,7 +15355,6 @@
         </list>
         <string name="id">233</string>
         <float name="mass">61.3738</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15478,7 +15385,6 @@
         </list>
         <string name="id">234</string>
         <float name="mass">182.126</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15509,7 +15415,6 @@
         </list>
         <string name="id">235</string>
         <float name="mass">768.488</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15540,7 +15445,6 @@
         </list>
         <string name="id">236</string>
         <float name="mass">26.9773</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15571,7 +15475,6 @@
         </list>
         <string name="id">237</string>
         <float name="mass">362.66</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15602,7 +15505,6 @@
         </list>
         <string name="id">238</string>
         <float name="mass">287.218</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15633,7 +15535,6 @@
         </list>
         <string name="id">239</string>
         <float name="mass">337.243</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15664,7 +15565,6 @@
         </list>
         <string name="id">240</string>
         <float name="mass">115.19</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15695,7 +15595,6 @@
         </list>
         <string name="id">241</string>
         <float name="mass">22.1178</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15801,7 +15700,6 @@
         <list name="contains">
         </list>
         <string name="id">243</string>
-        <string name="name">castle_house_d</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15855,7 +15753,6 @@
         <list name="contains">
         </list>
         <string name="id">244</string>
-        <string name="name">castle_house_d</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15884,7 +15781,6 @@
         <list name="contains">
         </list>
         <string name="id">245</string>
-        <string name="name">castle_house_d</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15937,7 +15833,6 @@
         <list name="contains">
         </list>
         <string name="id">246</string>
-        <string name="name">castle_house_a</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -15992,7 +15887,6 @@
         </list>
         <string name="id">247</string>
         <float name="mass">873.887</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16023,7 +15917,6 @@
         </list>
         <string name="id">248</string>
         <float name="mass">90.0258</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16054,7 +15947,6 @@
         </list>
         <string name="id">249</string>
         <float name="mass">26.4188</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16085,7 +15977,6 @@
         </list>
         <string name="id">250</string>
         <float name="mass">1048.12</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16116,7 +16007,6 @@
         </list>
         <string name="id">251</string>
         <float name="mass">726.285</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16147,7 +16037,6 @@
         </list>
         <string name="id">252</string>
         <float name="mass">353.597</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16178,7 +16067,6 @@
         </list>
         <string name="id">253</string>
         <float name="mass">231.69</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16209,7 +16097,6 @@
         </list>
         <string name="id">254</string>
         <float name="mass">256.637</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16240,7 +16127,6 @@
         </list>
         <string name="id">255</string>
         <float name="mass">355.647</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16271,7 +16157,6 @@
         </list>
         <string name="id">256</string>
         <float name="mass">51.8174</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16302,7 +16187,6 @@
         </list>
         <string name="id">257</string>
         <float name="mass">337.119</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16333,7 +16217,6 @@
         </list>
         <string name="id">258</string>
         <float name="mass">1183.58</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16364,7 +16247,6 @@
         </list>
         <string name="id">259</string>
         <float name="mass">267.67</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16395,7 +16277,6 @@
         </list>
         <string name="id">260</string>
         <float name="mass">188.36</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16426,7 +16307,6 @@
         </list>
         <string name="id">261</string>
         <float name="mass">358.013</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16457,7 +16337,6 @@
         </list>
         <string name="id">262</string>
         <float name="mass">458.042</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16488,7 +16367,6 @@
         </list>
         <string name="id">263</string>
         <float name="mass">316.237</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16519,7 +16397,6 @@
         </list>
         <string name="id">264</string>
         <float name="mass">630.701</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16550,7 +16427,6 @@
         </list>
         <string name="id">265</string>
         <float name="mass">164.962</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -16971,7 +16847,6 @@
         </list>
         <string name="id">279</string>
         <float name="mass">329.8</float>
-        <string name="name">birch</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17361,7 +17236,6 @@
         <list name="contains">
         </list>
         <string name="id">292</string>
-        <string name="name">castle_wall_gate</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17439,7 +17313,6 @@
         <list name="contains">
         </list>
         <string name="id">293</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17468,7 +17341,6 @@
         <list name="contains">
         </list>
         <string name="id">294</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17497,7 +17369,6 @@
         <list name="contains">
         </list>
         <string name="id">295</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17526,7 +17397,6 @@
         <list name="contains">
         </list>
         <string name="id">296</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17555,7 +17425,6 @@
         <list name="contains">
         </list>
         <string name="id">297</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17584,7 +17453,6 @@
         <list name="contains">
         </list>
         <string name="id">298</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17613,7 +17481,6 @@
         <list name="contains">
         </list>
         <string name="id">299</string>
-        <string name="name">castle_wall_corner</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17642,7 +17509,6 @@
         <list name="contains">
         </list>
         <string name="id">300</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17671,7 +17537,6 @@
         <list name="contains">
         </list>
         <string name="id">301</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17700,7 +17565,6 @@
         <list name="contains">
         </list>
         <string name="id">302</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17729,7 +17593,6 @@
         <list name="contains">
         </list>
         <string name="id">303</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17758,7 +17621,6 @@
         <list name="contains">
         </list>
         <string name="id">304</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17787,7 +17649,6 @@
         <list name="contains">
         </list>
         <string name="id">305</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17816,7 +17677,6 @@
         <list name="contains">
         </list>
         <string name="id">306</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17845,7 +17705,6 @@
         <list name="contains">
         </list>
         <string name="id">307</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17874,7 +17733,6 @@
         <list name="contains">
         </list>
         <string name="id">308</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17903,7 +17761,6 @@
         <list name="contains">
         </list>
         <string name="id">309</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17932,7 +17789,6 @@
         <list name="contains">
         </list>
         <string name="id">310</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17961,7 +17817,6 @@
         <list name="contains">
         </list>
         <string name="id">311</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -17990,7 +17845,6 @@
         <list name="contains">
         </list>
         <string name="id">312</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18019,7 +17873,6 @@
         <list name="contains">
         </list>
         <string name="id">313</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18048,7 +17901,6 @@
         <list name="contains">
         </list>
         <string name="id">314</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18077,7 +17929,6 @@
         <list name="contains">
         </list>
         <string name="id">315</string>
-        <string name="name">castle_wall_corner</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18106,7 +17957,6 @@
         <list name="contains">
         </list>
         <string name="id">316</string>
-        <string name="name">castle_wall_corner</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18135,7 +17985,6 @@
         <list name="contains">
         </list>
         <string name="id">317</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18164,7 +18013,6 @@
         <list name="contains">
         </list>
         <string name="id">318</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18193,7 +18041,6 @@
         <list name="contains">
         </list>
         <string name="id">319</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18222,7 +18069,6 @@
         <list name="contains">
         </list>
         <string name="id">320</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18251,7 +18097,6 @@
         <list name="contains">
         </list>
         <string name="id">321</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18280,7 +18125,6 @@
         <list name="contains">
         </list>
         <string name="id">322</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18309,7 +18153,6 @@
         <list name="contains">
         </list>
         <string name="id">323</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18338,7 +18181,6 @@
         <list name="contains">
         </list>
         <string name="id">324</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18367,7 +18209,6 @@
         <list name="contains">
         </list>
         <string name="id">325</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18396,7 +18237,6 @@
         <list name="contains">
         </list>
         <string name="id">326</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18425,7 +18265,6 @@
         <list name="contains">
         </list>
         <string name="id">327</string>
-        <string name="name">castle_wall_corner</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18454,7 +18293,6 @@
         <list name="contains">
         </list>
         <string name="id">328</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18483,7 +18321,6 @@
         <list name="contains">
         </list>
         <string name="id">329</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18512,7 +18349,6 @@
         <list name="contains">
         </list>
         <string name="id">330</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18541,7 +18377,6 @@
         <list name="contains">
         </list>
         <string name="id">331</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18570,7 +18405,6 @@
         <list name="contains">
         </list>
         <string name="id">332</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18599,7 +18433,6 @@
         <list name="contains">
         </list>
         <string name="id">333</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18628,7 +18461,6 @@
         <list name="contains">
         </list>
         <string name="id">334</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18657,7 +18489,6 @@
         <list name="contains">
         </list>
         <string name="id">335</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18686,7 +18517,6 @@
         <list name="contains">
         </list>
         <string name="id">336</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18715,7 +18545,6 @@
         <list name="contains">
         </list>
         <string name="id">337</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18744,7 +18573,6 @@
         <list name="contains">
         </list>
         <string name="id">338</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18773,7 +18601,6 @@
         <list name="contains">
         </list>
         <string name="id">339</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -18802,7 +18629,6 @@
         <list name="contains">
         </list>
         <string name="id">340</string>
-        <string name="name">castle_wall_run</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21274,7 +21100,6 @@
         </list>
         <string name="id">374</string>
         <string name="mode">fixed</string>
-        <string name="name">ocean</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21343,7 +21168,6 @@
         <list name="contains">
         </list>
         <string name="id">375</string>
-        <string name="name">castle_house_c</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21438,7 +21262,6 @@
         <list name="contains">
         </list>
         <string name="id">376</string>
-        <string name="name">castle_house_a</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21493,7 +21316,6 @@
         <list name="contains">
         </list>
         <string name="id">377</string>
-        <string name="name">castle_house_d</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21523,7 +21345,6 @@
         <list name="contains">
         </list>
         <string name="id">378</string>
-        <string name="name">castle_house_d</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21617,7 +21438,6 @@
         <list name="contains">
         </list>
         <string name="id">379</string>
-        <string name="name">castle_inn</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -21986,7 +21806,6 @@
         <list name="contains">
         </list>
         <string name="id">389</string>
-        <string name="name">choppingblock</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22017,7 +21836,6 @@
         <string name="id">390</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22048,7 +21866,6 @@
         <string name="id">391</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22079,7 +21896,6 @@
         <string name="id">392</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22110,7 +21926,6 @@
         <string name="id">393</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22141,7 +21956,6 @@
         <string name="id">394</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22172,7 +21986,6 @@
         <string name="id">395</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22203,7 +22016,6 @@
         <string name="id">396</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22234,7 +22046,6 @@
         <string name="id">397</string>
         <float name="mass">10</float>
         <string name="material">wood</string>
-        <string name="name">lumber</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22263,7 +22074,6 @@
         <list name="contains">
         </list>
         <string name="id">398</string>
-        <string name="name">shelf_table</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22292,7 +22102,6 @@
         <list name="contains">
         </list>
         <string name="id">399</string>
-        <string name="name">jetty</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -22527,7 +22336,6 @@
         <string name="id">407</string>
         <float name="mass">250</float>
         <string name="mode">floating</string>
-        <string name="name">boat</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -27822,7 +27630,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -27857,7 +27664,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -27892,7 +27698,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -27927,7 +27732,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -27962,7 +27766,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">chicken</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -30750,7 +30553,6 @@
         <list name="contains">
         </list>
         <string name="id">675</string>
-        <string name="name">campfire</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -30779,7 +30581,6 @@
         <list name="contains">
         </list>
         <string name="id">676</string>
-        <string name="name">campfire</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -30808,7 +30609,6 @@
         <list name="contains">
         </list>
         <string name="id">677</string>
-        <string name="name">campfire</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -30837,7 +30637,6 @@
         <list name="contains">
         </list>
         <string name="id">678</string>
-        <string name="name">campfire</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -30983,7 +30782,6 @@
           <string name="language">python</string>
           <string name="name">mind.NPCMind.NPCMind</string>
         </map>
-        <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -31012,7 +30810,6 @@
         <list name="contains">
         </list>
         <string name="id">684</string>
-        <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -31041,7 +30838,6 @@
         <list name="contains">
         </list>
         <string name="id">685</string>
-        <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -31070,7 +30866,6 @@
         <list name="contains">
         </list>
         <string name="id">686</string>
-        <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -31099,7 +30894,6 @@
         <list name="contains">
         </list>
         <string name="id">687</string>
-        <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -31128,7 +30922,6 @@
         <list name="contains">
         </list>
         <string name="id">688</string>
-        <string name="name">goblin</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -35629,7 +35422,6 @@
         </list>
         <string name="id">832</string>
         <float name="mass">100</float>
-        <string name="name">gravestone</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
