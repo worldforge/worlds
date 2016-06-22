@@ -13002,6 +13002,7 @@
         <list name="contains">
         </list>
         <string name="id">160</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13023,6 +13024,7 @@
         <list name="contains">
         </list>
         <string name="id">161</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13044,6 +13046,7 @@
         <list name="contains">
         </list>
         <string name="id">162</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13065,6 +13068,7 @@
         <list name="contains">
         </list>
         <string name="id">163</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13086,6 +13090,7 @@
         <list name="contains">
         </list>
         <string name="id">164</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13107,6 +13112,7 @@
         <list name="contains">
         </list>
         <string name="id">165</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13128,6 +13134,7 @@
         <list name="contains">
         </list>
         <string name="id">166</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13149,6 +13156,7 @@
         <list name="contains">
         </list>
         <string name="id">167</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13170,6 +13178,7 @@
         <list name="contains">
         </list>
         <string name="id">168</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13191,6 +13200,7 @@
         <list name="contains">
         </list>
         <string name="id">169</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13212,6 +13222,7 @@
         <list name="contains">
         </list>
         <string name="id">170</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13233,6 +13244,7 @@
         <list name="contains">
         </list>
         <string name="id">171</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13254,6 +13266,7 @@
         <list name="contains">
         </list>
         <string name="id">172</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13275,6 +13288,7 @@
         <list name="contains">
         </list>
         <string name="id">173</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13296,6 +13310,7 @@
         <list name="contains">
         </list>
         <string name="id">174</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13317,6 +13332,7 @@
         <list name="contains">
         </list>
         <string name="id">175</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13338,6 +13354,7 @@
         <list name="contains">
         </list>
         <string name="id">176</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13359,6 +13376,7 @@
         <list name="contains">
         </list>
         <string name="id">177</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13380,6 +13398,7 @@
         <list name="contains">
         </list>
         <string name="id">178</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -13401,6 +13420,7 @@
         <list name="contains">
         </list>
         <string name="id">179</string>
+        <string name="mode">planted</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
