@@ -1,0 +1,192 @@
+<atlas>
+
+  <map>
+    <list name="entities">
+      <map>
+        <list name="bbox">
+          <float>-64</float>
+          <float>-64</float>
+          <float>5</float>
+          <float>64</float>
+          <float>64</float>
+          <float>5</float>
+        </list>
+        <map name="calendar">
+          <int name="days_per_month">28</int>
+          <int name="hours_per_day">24</int>
+          <int name="minutes_per_hour">60</int>
+          <int name="months_per_year">12</int>
+          <int name="seconds_per_minute">20</int>
+        </map>
+        <list name="contains">
+          <string>1</string>
+        </list>
+        <string name="id">0</string>
+        <string name="name">world</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>world</string>
+        </list>
+      </map>
+      <map>
+        <list name="bbox">
+          <float>-64</float>
+          <float>-64</float>
+          <float>5</float>
+          <float>64</float>
+          <float>64</float>
+          <float>5</float>
+        </list>
+        <list name="contains">
+          <string>2</string>
+        </list>
+	    <int name="default_location">1</int>
+        <string name="id">1</string>
+        <string name="name">the world</string>
+        <string name="mode">fixed</string>
+        <string name="objtype">obj</string>
+        <list name="parents">
+          <string>land</string>
+        </list>
+        <list name="pos">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+        </list>
+        <map name="terrain">
+          <map name="points">
+            <list name="-1x-1">
+              <float>-1</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="-1x0">
+              <float>-1</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+            <list name="0x-1">
+              <float>0</float>
+              <float>-1</float>
+              <float>5</float>
+            </list>
+            <list name="0x0">
+              <float>0</float>
+              <float>0</float>
+              <float>5</float>
+            </list>
+          </map>
+          <list name="surfaces">
+            <map>
+              <string name="name">rock</string>
+              <string name="pattern">fill</string>
+            </map>
+            <map>
+              <string name="name">sand</string>
+              <map name="params">
+                <float name="highThreshold">1.5</float>
+                <float name="lowThreshold">-2</float>
+              </map>
+              <string name="pattern">band</string>
+            </map>
+            <map>
+              <string name="name">grass</string>
+              <map name="params">
+                <float name="cutoff">0.5</float>
+                <float name="highThreshold">80</float>
+                <float name="intercept">1</float>
+                <float name="lowThreshold">1</float>
+              </map>
+              <string name="pattern">grass</string>
+            </map>
+            <map>
+              <string name="name">silt</string>
+              <map name="params">
+                <float name="murkyDepth">-10</float>
+                <float name="waterLevel">0</float>
+              </map>
+              <string name="pattern">depth</string>
+            </map>
+            <map>
+              <string name="name">snow</string>
+              <map name="params">
+                <float name="threshold">110</float>
+              </map>
+              <string name="pattern">high</string>
+            </map>
+          </list>
+        </map>
+      </map>
+      <map>
+        <string name="id">2</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+          <float>1</float>
+        </list>
+        <list name="parents">
+          <string>region</string>
+        </list>
+        <list name="pos">
+          <float>-32</float>
+          <float>-32</float>
+          <float>5</float>
+        </list>
+        <map name="spawn">
+          <map name="entities">
+            <map name="settler">
+              <list name="parents">
+                <string>settler</string>
+              </list>
+            </map>
+          </map>
+          <string name="name">entry</string>
+        </map>
+      </map>
+      <map>
+        <string name="id">3</string>
+        <string name="objtype">obj</string>
+        <list name="bbox">
+          <float>-1</float>
+          <float>-1</float>
+          <float>0</float>
+          <float>1</float>
+          <float>1</float>
+          <float>2</float>
+        </list>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+          <float>1</float>
+        </list>
+        <list name="parents">
+          <string>boulder</string>
+        </list>
+        <list name="pos">
+          <float>-32</float>
+          <float>-32</float>
+          <float>5</float>
+        </list>
+      </map>
+    </list>
+    <map name="meta">
+      <string name="description">An empty small world, containing nothing except for some flat terrain. This is mainly meant to be used as a starting ground for new worlds, or as a test world for development.</string>
+      <string name="name">Empty small</string>
+      <int name="preserved_ids">0</int>
+      <map name="server">
+        <string name="host">localhost.localdomain</string>
+        <string name="name">localhost.localdomain</string>
+        <string name="ruleset">deeds</string>
+        <string name="version">0.6.3</string>
+      </map>
+      <string name="timestamp">1394201004834</string>
+      <int name="transients">0</int>
+    </map>
+    <list name="minds">
+    </list>
+  </map>
+
+</atlas>
