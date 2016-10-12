@@ -6,10 +6,10 @@
         <list name="bbox">
           <float>-64</float>
           <float>-64</float>
-          <float>5</float>
+          <float>-5</float>
           <float>64</float>
           <float>64</float>
-          <float>5</float>
+          <float>512</float>
         </list>
         <map name="calendar">
           <int name="days_per_month">28</int>
@@ -32,7 +32,7 @@
         <list name="bbox">
           <float>-64</float>
           <float>-64</float>
-          <float>5</float>
+          <float>-5</float>
           <float>64</float>
           <float>64</float>
           <float>512</float>
