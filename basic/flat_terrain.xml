@@ -1010,7 +1010,7 @@
       </map>
     </list>
     <map name="meta">
-      <string name="description">A simple flat terrain. Mainly of used when testing things.</string>
+      <string name="description">A simple flat terrain. Mainly of use when testing things.</string>
       <string name="name">Flat terrain</string>
       <int name="preserved_ids">0</int>
       <map name="server">
