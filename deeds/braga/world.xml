@@ -15709,14 +15709,6 @@
         </map>
       </map>
       <map>
-        <list name="bbox">
-          <float>-11.6595</float>
-          <float>-0.90907</float>
-          <float>-1.09059</float>
-          <float>3.45192</float>
-          <float>9.03773</float>
-          <float>7.31214</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">243</string>
@@ -15762,14 +15754,6 @@
         </map>
       </map>
       <map>
-        <list name="bbox">
-          <float>-11.6595</float>
-          <float>-0.90907</float>
-          <float>-1.09059</float>
-          <float>3.45192</float>
-          <float>9.03773</float>
-          <float>7.31214</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">244</string>
@@ -15790,14 +15774,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-11.6595</float>
-          <float>-0.90907</float>
-          <float>-1.09059</float>
-          <float>3.45192</float>
-          <float>9.03773</float>
-          <float>7.31214</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">245</string>
@@ -15842,14 +15818,6 @@
             <string name="type">polygon</string>
           </map>
         </map>
-        <list name="bbox">
-          <float>-2.51547</float>
-          <float>-3.11357</float>
-          <float>-0.1488</float>
-          <float>2.5871</float>
-          <float>5.90999</float>
-          <float>5.38026</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">246</string>
@@ -17245,14 +17213,6 @@
         <string name="species">oakleaf</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>-0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>10</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">292</string>
@@ -17322,14 +17282,6 @@
         </map>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">293</string>
@@ -17350,14 +17302,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">294</string>
@@ -17378,14 +17322,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">295</string>
@@ -17406,14 +17342,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">296</string>
@@ -17434,14 +17362,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">297</string>
@@ -17462,14 +17382,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">298</string>
@@ -17490,14 +17402,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-6.22758</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>7.12148</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">299</string>
@@ -17518,14 +17422,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">300</string>
@@ -17546,14 +17442,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">301</string>
@@ -17574,14 +17462,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">302</string>
@@ -17602,14 +17482,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">303</string>
@@ -17630,14 +17502,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">304</string>
@@ -17658,14 +17522,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">305</string>
@@ -17686,14 +17542,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">306</string>
@@ -17714,14 +17562,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">307</string>
@@ -17742,14 +17582,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">308</string>
@@ -17770,14 +17602,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">309</string>
@@ -17798,14 +17622,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">310</string>
@@ -17826,14 +17642,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">311</string>
@@ -17854,14 +17662,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">312</string>
@@ -17882,14 +17682,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">313</string>
@@ -17910,14 +17702,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">314</string>
@@ -17938,14 +17722,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-6.22758</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>7.12148</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">315</string>
@@ -17966,14 +17742,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-6.22758</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>7.12148</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">316</string>
@@ -17994,14 +17762,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">317</string>
@@ -18022,14 +17782,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">318</string>
@@ -18050,14 +17802,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">319</string>
@@ -18078,14 +17822,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">320</string>
@@ -18106,14 +17842,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">321</string>
@@ -18134,14 +17862,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">322</string>
@@ -18162,14 +17882,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">323</string>
@@ -18190,14 +17902,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">324</string>
@@ -18218,14 +17922,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">325</string>
@@ -18246,14 +17942,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">326</string>
@@ -18274,14 +17962,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-6.22758</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>7.12148</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">327</string>
@@ -18302,14 +17982,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">328</string>
@@ -18330,14 +18002,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">329</string>
@@ -18358,14 +18022,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">330</string>
@@ -18386,14 +18042,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">331</string>
@@ -18414,14 +18062,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">332</string>
@@ -18442,14 +18082,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">333</string>
@@ -18470,14 +18102,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">334</string>
@@ -18498,14 +18122,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">335</string>
@@ -18526,14 +18142,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">336</string>
@@ -18554,14 +18162,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">337</string>
@@ -18582,14 +18182,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">338</string>
@@ -18610,14 +18202,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">339</string>
@@ -18638,14 +18222,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.33213</float>
-          <float>0</float>
-          <float>-3.05768</float>
-          <float>0.893906</float>
-          <float>5.00001</float>
-          <float>8.23158</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">340</string>
@@ -21177,14 +20753,6 @@
             <string name="type">polygon</string>
           </map>
         </map>
-        <list name="bbox">
-          <float>-5.43797</float>
-          <float>-6.76054</float>
-          <float>-0.103223</float>
-          <float>7.58183</float>
-          <float>5.41143</float>
-          <float>9.21597</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">375</string>
@@ -21271,14 +20839,6 @@
             <string name="type">polygon</string>
           </map>
         </map>
-        <list name="bbox">
-          <float>-2.51547</float>
-          <float>-3.11357</float>
-          <float>-0.1488</float>
-          <float>2.5871</float>
-          <float>5.90999</float>
-          <float>5.38026</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">376</string>
@@ -21325,14 +20885,6 @@
         </map>
       </map>
       <map>
-        <list name="bbox">
-          <float>-11.6595</float>
-          <float>-0.90907</float>
-          <float>-1.09059</float>
-          <float>3.45192</float>
-          <float>9.03773</float>
-          <float>7.31214</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">377</string>
@@ -21354,14 +20906,6 @@
         <string name="roof">shale</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-11.6595</float>
-          <float>-0.90907</float>
-          <float>-1.09059</float>
-          <float>3.45192</float>
-          <float>9.03773</float>
-          <float>7.31214</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">378</string>
@@ -21447,14 +20991,6 @@
             <string name="type">polygon</string>
           </map>
         </map>
-        <list name="bbox">
-          <float>-13.8315</float>
-          <float>-10.0225</float>
-          <float>-0.152639</float>
-          <float>3.67463</float>
-          <float>7.74018</float>
-          <float>11.1409</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">379</string>
@@ -21585,14 +21121,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>1</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">381</string>
@@ -21613,14 +21141,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>1</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">382</string>
@@ -34718,14 +34238,6 @@
         <string name="style">c</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-3.64054</float>
-          <float>-3.09246</float>
-          <float>-0.0577576</float>
-          <float>2.66366</float>
-          <float>1.63569</float>
-          <float>2.93437</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">816</string>
@@ -34795,14 +34307,6 @@
         </map>
       </map>
       <map>
-        <list name="bbox">
-          <float>-3.64054</float>
-          <float>-3.09246</float>
-          <float>-0.0577576</float>
-          <float>2.66366</float>
-          <float>1.63569</float>
-          <float>2.93437</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">817</string>
@@ -35288,14 +34792,6 @@
             <string name="type">polygon</string>
           </map>
         </map>
-        <list name="bbox">
-          <float>-13.8315</float>
-          <float>-10.0225</float>
-          <float>-0.152639</float>
-          <float>3.67463</float>
-          <float>7.74018</float>
-          <float>11.1409</float>
-        </list>
         <list name="contains">
         </list>
         <string name="id">830</string>
