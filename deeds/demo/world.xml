@@ -25,9 +25,7 @@
         <string name="id">0</string>
         <string name="name">root</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>world</string>
-        </list>
+        <string name="parent">world</string>
         <int name="suspended">0</int>
       </map>
       <map>
@@ -38,9 +36,7 @@
         <int name="limbo">0</int>
         <string name="name">Limbo</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -143,9 +139,7 @@
         <string name="mode">fixed</string>
         <string name="name">demo world</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>land</string>
-        </list>
+        <string name="parent">land</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -477,9 +471,7 @@
           <float>0.99537</float>
           <float>0.0961222</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>4.2311</float>
           <float>-0.207885</float>
@@ -524,9 +516,7 @@
           <float>-0.704812</float>
           <float>0.709394</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>-6.52238</float>
           <float>0.0793253</float>
@@ -535,9 +525,7 @@
         <map name="spawn">
           <map name="entities">
             <map name="settler">
-              <list name="parents">
-                <string>settler</string>
-              </list>
+              <string name="parent">settler</string>
             </map>
           </map>
           <string name="name">entry</string>
@@ -557,9 +545,7 @@
           <float>-0.470315</float>
           <float>0.882499</float>
         </list>
-        <list name="parents">
-          <string>ocean</string>
-        </list>
+        <string name="parent">ocean</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -588,9 +574,7 @@
           <float>-0.632493</float>
           <float>-0.774566</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-4.10486</float>
           <float>-66.5978</float>
@@ -619,9 +603,7 @@
           <float>-0.562578</float>
           <float>-0.826744</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-82.1314</float>
           <float>-65.6924</float>
@@ -651,9 +633,7 @@
           <float>-0.999668</float>
           <float>-0.0257683</float>
         </list>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>18.9777</float>
           <float>-2.31681</float>
@@ -697,9 +677,7 @@
             <string name="$eid">83</string>
           </map>
         </map>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>18.8913</float>
           <float>-3.53641</float>
@@ -758,9 +736,7 @@
             <string name="$eid">92</string>
           </map>
         </map>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>18.451</float>
           <float>-4.97503</float>
@@ -790,9 +766,7 @@
           <float>-0.979018</float>
           <float>-0.203775</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>14.2067</float>
           <float>-2.91485</float>
@@ -810,9 +784,7 @@
           <float>-0.999888</float>
           <float>-0.014985</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>21.3794</float>
           <float>12.461</float>
@@ -847,9 +819,7 @@
           <float>0.968969</float>
           <float>0.247182</float>
         </list>
-        <list name="parents">
-          <string>goblin</string>
-        </list>
+        <string name="parent">goblin</string>
         <list name="pos">
           <float>24.3961</float>
           <float>9.94004</float>
@@ -879,9 +849,7 @@
           <float>0.965958</float>
           <float>-0.2587</float>
         </list>
-        <list name="parents">
-          <string>goblin</string>
-        </list>
+        <string name="parent">goblin</string>
         <list name="pos">
           <float>23.8059</float>
           <float>14.1229</float>
@@ -911,9 +879,7 @@
           <float>-0.992907</float>
           <float>-0.118891</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>18.3637</float>
           <float>12.6444</float>
@@ -942,9 +908,7 @@
           <float>-0.999831</float>
           <float>-0.0184065</float>
         </list>
-        <list name="parents">
-          <string>bear</string>
-        </list>
+        <string name="parent">bear</string>
         <list name="pos">
           <float>22.6783</float>
           <float>25.1679</float>
@@ -974,9 +938,7 @@
           <float>-0.981445</float>
           <float>-0.191746</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>19.6353</float>
           <float>25.3341</float>
@@ -1018,9 +980,7 @@
           <float>0.989929</float>
           <float>0.141562</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>14.6568</float>
           <float>-14.4994</float>
@@ -1053,9 +1013,7 @@
           <float>-0.985146</float>
           <float>-0.171717</float>
         </list>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>15.2213</float>
           <float>-23.0913</float>
@@ -1086,9 +1044,7 @@
           <float>-0.979789</float>
           <float>-0.200035</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>12.548</float>
           <float>-13.6257</float>
@@ -1116,9 +1072,7 @@
           <float>-0.99652</float>
           <float>-0.0833513</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>11.3187</float>
           <float>-21.6193</float>
@@ -1138,9 +1092,7 @@
           <float>-0.601597</float>
           <float>0.7988</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>6.71317</float>
           <float>39.5399</float>
@@ -1185,9 +1137,7 @@
           <float>0.798061</float>
           <float>0.602577</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>13.4862</float>
           <float>38.9603</float>
@@ -1232,9 +1182,7 @@
           <float>0.756407</float>
           <float>0.654102</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>20.2061</float>
           <float>39.9311</float>
@@ -1279,9 +1227,7 @@
           <float>0.759608</float>
           <float>0.650381</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>27.6659</float>
           <float>40.4134</float>
@@ -1335,9 +1281,7 @@
           <float>-0.643832</float>
           <float>0.765167</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>13.8735</float>
           <float>35.6554</float>
@@ -1365,9 +1309,7 @@
           <float>-0.643832</float>
           <float>0.765167</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>20.2984</float>
           <float>36.1398</float>
@@ -1395,9 +1337,7 @@
           <float>-0.643832</float>
           <float>0.765167</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>7.33226</float>
           <float>35.412</float>
@@ -1425,9 +1365,7 @@
           <float>-0.643832</float>
           <float>0.765167</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>27.298</float>
           <float>36.5904</float>
@@ -1455,9 +1393,7 @@
           <float>-0.708071</float>
           <float>0.706142</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-14.305</float>
           <float>20.8211</float>
@@ -1528,9 +1464,7 @@
           <float>0.765167</float>
           <float>0.643832</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>-20.6304</float>
           <float>22.6397</float>
@@ -1602,9 +1536,7 @@
           <float>0.765167</float>
           <float>0.643832</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>-7.96424</float>
           <float>24.313</float>
@@ -1664,9 +1596,7 @@
           <float>0.765167</float>
           <float>0.643832</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>-14.6812</float>
           <float>23.5291</float>
@@ -1694,9 +1624,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>-30.9113</float>
           <float>1.54705</float>
@@ -1724,9 +1652,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>-30.8202</float>
           <float>6.41538</float>
@@ -1754,9 +1680,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>-31.4346</float>
           <float>10.665</float>
@@ -1784,9 +1708,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>-30.371</float>
           <float>15.192</float>
@@ -1813,9 +1735,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>gravestone</string>
-        </list>
+        <string name="parent">gravestone</string>
         <list name="pos">
           <float>-26.6711</float>
           <float>0.851109</float>
@@ -1842,9 +1762,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>gravestone</string>
-        </list>
+        <string name="parent">gravestone</string>
         <list name="pos">
           <float>-26.8393</float>
           <float>1.85034</float>
@@ -1871,9 +1789,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>gravestone</string>
-        </list>
+        <string name="parent">gravestone</string>
         <list name="pos">
           <float>-26.9967</float>
           <float>2.75259</float>
@@ -1900,9 +1816,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>gravestone</string>
-        </list>
+        <string name="parent">gravestone</string>
         <list name="pos">
           <float>-27.2168</float>
           <float>3.77312</float>
@@ -1928,9 +1842,7 @@
           <float>0.63684</float>
           <float>-0.770996</float>
         </list>
-        <list name="parents">
-          <string>gravestone</string>
-        </list>
+        <string name="parent">gravestone</string>
         <list name="pos">
           <float>-27.2566</float>
           <float>4.73913</float>
@@ -1957,9 +1869,7 @@
           <float>0.701613</float>
           <float>-0.712558</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-26.9286</float>
           <float>7.89046</float>
@@ -1986,9 +1896,7 @@
           <float>0.701613</float>
           <float>-0.712558</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-27.0132</float>
           <float>10.1526</float>
@@ -2015,9 +1923,7 @@
           <float>0.701613</float>
           <float>-0.712558</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-26.9147</float>
           <float>12.7071</float>
@@ -2044,9 +1950,7 @@
           <float>0.0794438</float>
           <float>-0.996839</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.6007</float>
           <float>7.83952</float>
@@ -2072,9 +1976,7 @@
           <float>0.0794438</float>
           <float>-0.996839</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.5367</float>
           <float>8.83468</float>
@@ -2101,9 +2003,7 @@
           <float>0.0794438</float>
           <float>-0.996839</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.5392</float>
           <float>9.94084</float>
@@ -2130,9 +2030,7 @@
           <float>0.0794438</float>
           <float>-0.996839</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-23.2635</float>
           <float>5.28046</float>
@@ -2152,9 +2050,7 @@
           <float>-0.042666</float>
           <float>0.999089</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>11.9503</float>
           <float>-30.6416</float>
@@ -2162,9 +2058,7 @@
         </list>
         <map name="spawner">
           <map name="entity">
-            <list name="parents">
-              <string>dog</string>
-            </list>
+            <string name="parent">dog</string>
             <int name="transient">5</int>
           </map>
           <int name="interval">5</int>
@@ -2195,9 +2089,7 @@
           <float>0.976502</float>
           <float>0.215508</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>9.73149</float>
           <float>-29.7654</float>
@@ -2241,9 +2133,7 @@
           <float>-0.0134982</float>
           <float>0.999909</float>
         </list>
-        <list name="parents">
-          <string>region</string>
-        </list>
+        <string name="parent">region</string>
         <list name="pos">
           <float>39.6966</float>
           <float>-5.83727</float>
@@ -2286,9 +2176,7 @@
           <float>-0.700131</float>
           <float>0.714015</float>
         </list>
-        <list name="parents">
-          <string>region</string>
-        </list>
+        <string name="parent">region</string>
         <list name="pos">
           <float>37.4533</float>
           <float>-22.7184</float>
@@ -2317,9 +2205,7 @@
           <float>-0.747734</float>
           <float>0.663998</float>
         </list>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>39.4124</float>
           <float>-10.136</float>
@@ -2350,9 +2236,7 @@
           <float>-0.951729</float>
           <float>-0.306941</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>34.0467</float>
           <float>-12.194</float>
@@ -2396,9 +2280,7 @@
           <float>-0.562692</float>
           <float>0.826667</float>
         </list>
-        <list name="parents">
-          <string>region</string>
-        </list>
+        <string name="parent">region</string>
         <list name="pos">
           <float>40.2732</float>
           <float>11.7202</float>
@@ -2441,9 +2323,7 @@
           <float>0.0772364</float>
           <float>0.997013</float>
         </list>
-        <list name="parents">
-          <string>region</string>
-        </list>
+        <string name="parent">region</string>
         <list name="pos">
           <float>57.7401</float>
           <float>19.5332</float>
@@ -2486,9 +2366,7 @@
           <float>-0.503538</float>
           <float>0.863973</float>
         </list>
-        <list name="parents">
-          <string>region</string>
-        </list>
+        <string name="parent">region</string>
         <list name="pos">
           <float>43.527</float>
           <float>31.5875</float>
@@ -2515,9 +2393,7 @@
           <float>-0.141873</float>
           <float>0.989885</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>47.4473</float>
           <float>27.1612</float>
@@ -2544,9 +2420,7 @@
           <float>-0.818996</float>
           <float>0.5738</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>51.9887</float>
           <float>26.9613</float>
@@ -2573,9 +2447,7 @@
           <float>-0.365613</float>
           <float>0.930767</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>53.3603</float>
           <float>22.0381</float>
@@ -2602,9 +2474,7 @@
           <float>-0.746692</float>
           <float>0.665169</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>42.2886</float>
           <float>23.7525</float>
@@ -2631,9 +2501,7 @@
           <float>-0.754799</float>
           <float>0.655956</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>38.4409</float>
           <float>16.338</float>
@@ -2660,9 +2528,7 @@
           <float>-0.721704</float>
           <float>0.692202</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>40.3427</float>
           <float>15.3023</float>
@@ -2689,9 +2555,7 @@
           <float>0.449612</float>
           <float>0.893224</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>46.4006</float>
           <float>20.77</float>
@@ -2718,9 +2582,7 @@
           <float>0.17942</float>
           <float>0.983773</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>48.8308</float>
           <float>15.675</float>
@@ -2747,9 +2609,7 @@
           <float>0.987879</float>
           <float>-0.155223</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>44.1521</float>
           <float>12.4895</float>
@@ -2775,9 +2635,7 @@
           <float>-0.5</float>
           <float>0.866026</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>52.0138</float>
           <float>17.2742</float>
@@ -2804,9 +2662,7 @@
           <float>-0.766044</float>
           <float>0.642788</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>47.2666</float>
           <float>31.9655</float>
@@ -2836,9 +2692,7 @@
           <float>-0.954306</float>
           <float>0.298831</float>
         </list>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>54.6421</float>
           <float>22.0281</float>
@@ -2866,9 +2720,7 @@
           <float>-0.965926</float>
           <float>-0.258819</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>45.7806</float>
           <float>20.859</float>
@@ -2894,9 +2746,7 @@
           <float>-0.707107</float>
           <float>-0.707107</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>49.6395</float>
           <float>18.8589</float>
@@ -2923,9 +2773,7 @@
           <float>-0.422619</float>
           <float>-0.906308</float>
         </list>
-        <list name="parents">
-          <string>stone_palisade</string>
-        </list>
+        <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>48.4584</float>
           <float>22.663</float>
@@ -2954,9 +2802,7 @@
           <float>-0.996566</float>
           <float>-0.082807</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>36.4229</float>
           <float>19.0121</float>
@@ -2984,9 +2830,7 @@
           <float>-0.993956</float>
           <float>0.109781</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>0.388492</float>
           <float>0.186268</float>
@@ -3014,9 +2858,7 @@
           <float>-0.552262</float>
           <float>0.833671</float>
         </list>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>-11.8715</float>
           <float>-25.2875</float>
@@ -3040,9 +2882,7 @@
           <float>-0.64101</float>
           <float>0.767533</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>-12.7685</float>
           <float>-24.8984</float>
@@ -3050,9 +2890,7 @@
         </list>
         <map name="spawner">
           <map name="entity">
-            <list name="parents">
-              <string>mushroom</string>
-            </list>
+            <string name="parent">mushroom</string>
             <string name="species">amanita</string>
             <int name="transient">15</int>
           </map>
@@ -3081,9 +2919,7 @@
           <float>0.0774917</float>
           <float>0.996993</float>
         </list>
-        <list name="parents">
-          <string>mushroom</string>
-        </list>
+        <string name="parent">mushroom</string>
         <list name="pos">
           <float>-12.5777</float>
           <float>-26.3645</float>
@@ -3113,9 +2949,7 @@
           <float>-0.526563</float>
           <float>-0.850136</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-12.075</float>
           <float>-22.0513</float>
@@ -3143,9 +2977,7 @@
           <float>0.801445</float>
           <float>0.598068</float>
         </list>
-        <list name="parents">
-          <string>human</string>
-        </list>
+        <string name="parent">human</string>
         <list name="pos">
           <float>-0.986571</float>
           <float>-35.3169</float>
@@ -3165,9 +2997,7 @@
           <float>-0.725937</float>
           <float>0.687761</float>
         </list>
-        <list name="parents">
-          <string>thing</string>
-        </list>
+        <string name="parent">thing</string>
         <list name="pos">
           <float>-2.12336</float>
           <float>-34.738</float>
@@ -3175,9 +3005,7 @@
         </list>
         <map name="spawner">
           <map name="entity">
-            <list name="parents">
-              <string>pig</string>
-            </list>
+            <string name="parent">pig</string>
             <int name="transient">4</int>
           </map>
           <int name="interval">5</int>
@@ -3205,9 +3033,7 @@
           <float>-0.605294</float>
           <float>-0.796002</float>
         </list>
-        <list name="parents">
-          <string>signpost</string>
-        </list>
+        <string name="parent">signpost</string>
         <list name="pos">
           <float>-2.82468</float>
           <float>-31.8398</float>
@@ -3227,9 +3053,7 @@
         </list>
         <string name="id">83</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>trousers</string>
-        </list>
+        <string name="parent">trousers</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3250,9 +3074,7 @@
         </list>
         <string name="id">84</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>knife</string>
-        </list>
+        <string name="parent">knife</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3264,9 +3086,7 @@
         </list>
         <string name="id">85</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3278,9 +3098,7 @@
         </list>
         <string name="id">86</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3292,9 +3110,7 @@
         </list>
         <string name="id">87</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3306,9 +3122,7 @@
         </list>
         <string name="id">88</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3320,9 +3134,7 @@
         </list>
         <string name="id">89</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3334,9 +3146,7 @@
         </list>
         <string name="id">90</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3356,9 +3166,7 @@
         </list>
         <string name="id">91</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>shirt</string>
-        </list>
+        <string name="parent">shirt</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3379,9 +3187,7 @@
         </list>
         <string name="id">92</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>trousers</string>
-        </list>
+        <string name="parent">trousers</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3402,9 +3208,7 @@
         </list>
         <string name="id">93</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>cloak</string>
-        </list>
+        <string name="parent">cloak</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3425,9 +3229,7 @@
         </list>
         <string name="id">94</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>boots</string>
-        </list>
+        <string name="parent">boots</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3448,9 +3250,7 @@
         </list>
         <string name="id">95</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>hat</string>
-        </list>
+        <string name="parent">hat</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3463,9 +3263,7 @@
         </list>
         <string name="id">96</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3477,9 +3275,7 @@
         </list>
         <string name="id">97</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3491,9 +3287,7 @@
         </list>
         <string name="id">98</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3505,9 +3299,7 @@
         </list>
         <string name="id">99</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3519,9 +3311,7 @@
         </list>
         <string name="id">100</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3533,9 +3323,7 @@
         </list>
         <string name="id">101</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>coin</string>
-        </list>
+        <string name="parent">coin</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>

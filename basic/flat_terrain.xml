@@ -23,9 +23,7 @@
         <string name="id">0</string>
         <string name="name"></string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>world</string>
-        </list>
+        <string name="parent">world</string>
         <map name="terrain">
           <map name="points">
             <list name="-1x-1">

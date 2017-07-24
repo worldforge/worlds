@@ -24,9 +24,7 @@
         <string name="id">0</string>
         <string name="name">world</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>world</string>
-        </list>
+        <string name="parent">world</string>
       </map>
       <map>
         <list name="bbox">
@@ -46,9 +44,7 @@
         <string name="name">the world</string>
         <string name="mode">fixed</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>land</string>
-        </list>
+        <string name="parent">land</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -152,9 +148,7 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <list name="parents">
-          <string>region</string>
-        </list>
+        <string name="parent">region</string>
         <list name="pos">
           <float>-32</float>
           <float>-32</float>
@@ -163,9 +157,7 @@
         <map name="spawn">
           <map name="entities">
             <map name="settler">
-              <list name="parents">
-                <string>settler</string>
-              </list>
+              <string name="parent">settler</string>
             </map>
           </map>
           <string name="name">entry</string>
@@ -189,9 +181,7 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <list name="parents">
-          <string>boulder</string>
-        </list>
+        <string name="parent">boulder</string>
         <list name="pos">
           <float>-32</float>
           <float>-20</float>

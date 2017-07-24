@@ -24,9 +24,7 @@
         <string name="id">0</string>
         <string name="name">world</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>world</string>
-        </list>
+        <string name="parent">world</string>
       </map>
       <map>
         <list name="bbox">
@@ -44,9 +42,7 @@
         <string name="name">the world</string>
         <string name="mode">fixed</string>
         <string name="objtype">obj</string>
-        <list name="parents">
-          <string>land</string>
-        </list>
+        <string name="parent">land</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
