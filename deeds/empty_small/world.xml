@@ -5,11 +5,11 @@
       <map>
         <list name="bbox">
           <float>-64</float>
-          <float>-64</float>
           <float>-5</float>
-          <float>64</float>
+          <float>-64</float>
           <float>64</float>
           <float>512</float>
+          <float>64</float>
         </list>
         <map name="calendar">
           <int name="days_per_month">28</int>
@@ -29,11 +29,11 @@
       <map>
         <list name="bbox">
           <float>-64</float>
-          <float>-64</float>
           <float>-5</float>
-          <float>64</float>
+          <float>-64</float>
           <float>64</float>
           <float>512</float>
+          <float>64</float>
         </list>
         <list name="contains">
           <string>2</string>
@@ -48,53 +48,53 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <map name="terrain">
           <map name="points">
             <list name="-1x-1">
               <float>-1</float>
-              <float>-1</float>
+              <float>1</float>
               <float>20</float>
             </list>
             <list name="-1x0">
               <float>-1</float>
-              <float>0</float>
+              <float>-0</float>
               <float>7</float>
             </list>
             <list name="-1x1">
               <float>-1</float>
-              <float>1</float>
+              <float>-1</float>
               <float>9</float>
             </list>
             <list name="0x-1">
               <float>0</float>
-              <float>-1</float>
+              <float>1</float>
               <float>6</float>
             </list>
             <list name="0x0">
               <float>0</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="0x1">
               <float>0</float>
-              <float>1</float>
+              <float>-1</float>
               <float>4</float>
             </list>
             <list name="1x-1">
               <float>1</float>
-              <float>-1</float>
+              <float>1</float>
               <float>4</float>
             </list>
             <list name="1x0">
               <float>1</float>
-              <float>0</float>
+              <float>-0</float>
               <float>3</float>
             </list>
             <list name="1x1">
               <float>1</float>
-              <float>1</float>
+              <float>-1</float>
               <float>10</float>
             </list>
           </map>
@@ -145,14 +145,14 @@
         <list name="orientation">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
           <float>1</float>
         </list>
         <string name="parent">region</string>
         <list name="pos">
           <float>-32</float>
-          <float>-32</float>
           <float>5</float>
+          <float>32</float>
         </list>
         <map name="spawn">
           <map name="entities">
@@ -169,23 +169,23 @@
         <float name="mass">1000</float>
         <list name="bbox">
           <float>-1</float>
-          <float>-1</float>
           <float>0</float>
-          <float>1</float>
+          <float>-1</float>
           <float>1</float>
           <float>2</float>
+          <float>1</float>
         </list>
         <list name="orientation">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
           <float>1</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>-32</float>
-          <float>-20</float>
           <float>10</float>
+          <float>20</float>
         </list>
       </map>
     </list>

@@ -5,8 +5,8 @@
       <map>
         <list name="bbox">
           <float>-256</float>
-          <float>-256</float>
           <float>-32</float>
+          <float>-256</float>
           <float>128</float>
           <float>128</float>
           <float>128</float>
@@ -40,14 +40,14 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-256</float>
-          <float>-256</float>
           <float>-32</float>
+          <float>-256</float>
           <float>128</float>
           <float>128</float>
           <float>128</float>
@@ -143,253 +143,253 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <map name="terrain">
           <map name="points">
             <list name="-1x-1">
               <float>-1</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="-1x-2">
               <float>-1</float>
-              <float>-2</float>
+              <float>2</float>
               <float>5</float>
             </list>
             <list name="-1x-3">
               <float>-1</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="-1x-4">
               <float>-1</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="-1x0">
               <float>-1</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="-1x1">
               <float>-1</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="-1x2">
               <float>-1</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
             <list name="-2x-1">
               <float>-2</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="-2x-2">
               <float>-2</float>
-              <float>-2</float>
+              <float>2</float>
               <float>-9.48438</float>
             </list>
             <list name="-2x-3">
               <float>-2</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="-2x-4">
               <float>-2</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="-2x0">
               <float>-2</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="-2x1">
               <float>-2</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="-2x2">
               <float>-2</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
             <list name="-3x-1">
               <float>-3</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="-3x-2">
               <float>-3</float>
-              <float>-2</float>
+              <float>2</float>
               <float>5</float>
             </list>
             <list name="-3x-3">
               <float>-3</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="-3x-4">
               <float>-3</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="-3x0">
               <float>-3</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="-3x1">
               <float>-3</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="-3x2">
               <float>-3</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
             <list name="-4x-1">
               <float>-4</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="-4x-2">
               <float>-4</float>
-              <float>-2</float>
+              <float>2</float>
               <float>5</float>
             </list>
             <list name="-4x-3">
               <float>-4</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="-4x-4">
               <float>-4</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="-4x0">
               <float>-4</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="-4x1">
               <float>-4</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="-4x2">
               <float>-4</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
             <list name="0x-1">
               <float>0</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="0x-2">
               <float>0</float>
-              <float>-2</float>
+              <float>2</float>
               <float>22</float>
             </list>
             <list name="0x-3">
               <float>0</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="0x-4">
               <float>0</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="0x0">
               <float>0</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="0x1">
               <float>0</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="0x2">
               <float>0</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
             <list name="1x-1">
               <float>1</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="1x-2">
               <float>1</float>
-              <float>-2</float>
+              <float>2</float>
               <float>5</float>
             </list>
             <list name="1x-3">
               <float>1</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="1x-4">
               <float>1</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="1x0">
               <float>1</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="1x1">
               <float>1</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="1x2">
               <float>1</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
             <list name="2x-1">
               <float>2</float>
-              <float>-1</float>
+              <float>1</float>
               <float>5</float>
             </list>
             <list name="2x-2">
               <float>2</float>
-              <float>-2</float>
+              <float>2</float>
               <float>5</float>
             </list>
             <list name="2x-3">
               <float>2</float>
-              <float>-3</float>
+              <float>3</float>
               <float>5</float>
             </list>
             <list name="2x-4">
               <float>2</float>
-              <float>-4</float>
+              <float>4</float>
               <float>5</float>
             </list>
             <list name="2x0">
               <float>2</float>
-              <float>0</float>
+              <float>-0</float>
               <float>5</float>
             </list>
             <list name="2x1">
               <float>2</float>
-              <float>1</float>
+              <float>-1</float>
               <float>5</float>
             </list>
             <list name="2x2">
               <float>2</float>
-              <float>2</float>
+              <float>-2</float>
               <float>5</float>
             </list>
           </map>
@@ -467,15 +467,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.99537</float>
+          <float>0</float>
           <float>0.0961222</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>4.2311</float>
-          <float>-0.207885</float>
           <float>5.00313</float>
+          <float>0.207885</float>
         </list>
         <float name="visibility">100</float>
       </map>
@@ -512,15 +512,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.704812</float>
+          <float>0</float>
           <float>0.709394</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>-6.52238</float>
-          <float>0.0793253</float>
           <float>4.99006</float>
+          <float>-0.0793253</float>
         </list>
         <map name="spawn">
           <map name="entities">
@@ -541,26 +541,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.470315</float>
+          <float>-0</float>
           <float>0.882499</float>
         </list>
         <string name="parent">ocean</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <float name="visibility">1000</float>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -570,26 +570,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.632493</float>
+          <float>0</float>
           <float>-0.774566</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-4.10486</float>
-          <float>-66.5978</float>
           <float>5.32118</float>
+          <float>66.5978</float>
         </list>
         <float name="visibility">1000</float>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -599,26 +599,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.562578</float>
+          <float>0</float>
           <float>-0.826744</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-82.1314</float>
-          <float>-65.6924</float>
           <float>4.65381</float>
+          <float>65.6924</float>
         </list>
         <float name="visibility">1000</float>
       </map>
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -629,15 +629,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.999668</float>
+          <float>0</float>
           <float>-0.0257683</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>18.9777</float>
-          <float>-2.31681</float>
           <float>5.01769</float>
+          <float>2.31681</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8706</float>
@@ -645,11 +645,11 @@
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
           <string>83</string>
@@ -668,8 +668,8 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.999668</float>
+          <float>0</float>
           <float>-0.0257684</float>
         </list>
         <map name="outfit">
@@ -680,8 +680,8 @@
         <string name="parent">human</string>
         <list name="pos">
           <float>18.8913</float>
-          <float>-3.53641</float>
           <float>5.01505</float>
+          <float>3.53641</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8707</float>
@@ -689,11 +689,11 @@
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
           <string>91</string>
@@ -715,8 +715,8 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.993618</float>
+          <float>0</float>
           <float>-0.112797</float>
         </list>
         <map name="outfit">
@@ -739,8 +739,8 @@
         <string name="parent">human</string>
         <list name="pos">
           <float>18.451</float>
-          <float>-4.97503</float>
           <float>5.01358</float>
+          <float>4.97503</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8707</float>
@@ -748,11 +748,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -762,15 +762,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.979018</float>
+          <float>0</float>
           <float>-0.203775</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>14.2067</float>
-          <float>-2.91485</float>
           <float>5.01176</float>
+          <float>2.91485</float>
         </list>
       </map>
       <map>
@@ -780,15 +780,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.999888</float>
+          <float>0</float>
           <float>-0.014985</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>21.3794</float>
-          <float>12.461</float>
           <float>5.00796</float>
+          <float>-12.461</float>
         </list>
         <map name="spawner">
           <int name="interval">5</int>
@@ -801,11 +801,11 @@
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -815,15 +815,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.968969</float>
+          <float>0</float>
           <float>0.247182</float>
         </list>
         <string name="parent">goblin</string>
         <list name="pos">
           <float>24.3961</float>
-          <float>9.94004</float>
           <float>5.00955</float>
+          <float>-9.94004</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8908</float>
@@ -831,11 +831,11 @@
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -845,15 +845,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.965958</float>
+          <float>0</float>
           <float>-0.2587</float>
         </list>
         <string name="parent">goblin</string>
         <list name="pos">
           <float>23.8059</float>
-          <float>14.1229</float>
           <float>5.00781</float>
+          <float>-14.1229</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8908</float>
@@ -861,11 +861,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -875,25 +875,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.992907</float>
+          <float>0</float>
           <float>-0.118891</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>18.3637</float>
-          <float>12.6444</float>
           <float>5.00678</float>
+          <float>-12.6444</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-1.9</float>
-          <float>-0.8</float>
           <float>0</float>
+          <float>-0.8</float>
           <float>1.9</float>
-          <float>0.8</float>
           <float>2.5</float>
+          <float>0.8</float>
         </list>
         <list name="contains">
         </list>
@@ -904,15 +904,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.999831</float>
+          <float>0</float>
           <float>-0.0184065</float>
         </list>
         <string name="parent">bear</string>
         <list name="pos">
           <float>22.6783</float>
-          <float>25.1679</float>
           <float>5.00783</float>
+          <float>-25.1679</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.891</float>
@@ -920,11 +920,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -934,15 +934,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.981445</float>
+          <float>0</float>
           <float>-0.191746</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>19.6353</float>
-          <float>25.3341</float>
           <float>5.00769</float>
+          <float>-25.3341</float>
         </list>
       </map>
       <map>
@@ -976,15 +976,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.989929</float>
+          <float>0</float>
           <float>0.141562</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>14.6568</float>
-          <float>-14.4994</float>
           <float>5.00958</float>
+          <float>14.4994</float>
         </list>
         <map name="spawn">
           <string name="name">respawn</string>
@@ -994,11 +994,11 @@
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -1009,15 +1009,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.985146</float>
+          <float>0</float>
           <float>-0.171717</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>15.2213</float>
-          <float>-23.0913</float>
           <float>5.00988</float>
+          <float>23.0913</float>
         </list>
         <string name="respawning">respawn</string>
         <float name="stamina">1</float>
@@ -1026,11 +1026,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1040,25 +1040,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.979789</float>
+          <float>0</float>
           <float>-0.200035</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>12.548</float>
-          <float>-13.6257</float>
           <float>5.00893</float>
+          <float>13.6257</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1068,15 +1068,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.99652</float>
+          <float>0</float>
           <float>-0.0833513</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>11.3187</float>
-          <float>-21.6193</float>
           <float>5.00921</float>
+          <float>21.6193</float>
         </list>
         <float name="visibility">1000</float>
       </map>
@@ -1088,15 +1088,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.601597</float>
+          <float>-0</float>
           <float>0.7988</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>6.71317</float>
-          <float>39.5399</float>
           <float>8.01081</float>
+          <float>-39.5399</float>
         </list>
         <map name="terrainmod">
           <float name="height">3</float>
@@ -1133,15 +1133,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.798061</float>
+          <float>-0</float>
           <float>0.602577</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>13.4862</float>
-          <float>38.9603</float>
           <float>3</float>
+          <float>-38.9603</float>
         </list>
         <map name="terrainmod">
           <float name="height">3</float>
@@ -1178,15 +1178,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.756407</float>
+          <float>0</float>
           <float>0.654102</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>20.2061</float>
-          <float>39.9311</float>
           <float>37.0489</float>
+          <float>-39.9311</float>
         </list>
         <map name="terrainmod">
           <float name="heightoffset">3</float>
@@ -1223,15 +1223,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.759608</float>
+          <float>-0</float>
           <float>0.650381</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>27.6659</float>
-          <float>40.4134</float>
           <float>11.1187</float>
+          <float>-40.4134</float>
         </list>
         <map name="terrainmod">
           <float name="heightoffset">3</float>
@@ -1263,11 +1263,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1277,25 +1277,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.643832</float>
+          <float>0</float>
           <float>0.765167</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>13.8735</float>
-          <float>35.6554</float>
           <float>5.00971</float>
+          <float>-35.6554</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1305,25 +1305,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.643832</float>
+          <float>0</float>
           <float>0.765167</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>20.2984</float>
-          <float>36.1398</float>
           <float>5.00941</float>
+          <float>-36.1398</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1333,25 +1333,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.643832</float>
+          <float>0</float>
           <float>0.765167</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>7.33226</float>
-          <float>35.412</float>
           <float>5.01148</float>
+          <float>-35.412</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1361,25 +1361,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.643832</float>
+          <float>0</float>
           <float>0.765167</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>27.298</float>
-          <float>36.5904</float>
           <float>5.0107</float>
+          <float>-36.5904</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1389,15 +1389,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.708071</float>
+          <float>0</float>
           <float>0.706142</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-14.305</float>
-          <float>20.8211</float>
           <float>5.00485</float>
+          <float>-20.8211</float>
         </list>
       </map>
       <map>
@@ -1460,15 +1460,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.765167</float>
+          <float>0</float>
           <float>0.643832</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>-20.6304</float>
-          <float>22.6397</float>
           <float>5.00573</float>
+          <float>-22.6397</float>
         </list>
         <float name="visibility">1000</float>
       </map>
@@ -1532,15 +1532,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.765167</float>
+          <float>0</float>
           <float>0.643832</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>-7.96424</float>
-          <float>24.313</float>
           <float>5.00591</float>
+          <float>-24.313</float>
         </list>
         <float name="visibility">1000</float>
       </map>
@@ -1592,26 +1592,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.765167</float>
+          <float>0</float>
           <float>0.643832</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>-14.6812</float>
-          <float>23.5291</float>
           <float>5.00476</float>
+          <float>-23.5291</float>
         </list>
         <float name="visibility">1000</float>
       </map>
       <map>
         <list name="bbox">
           <float>-2.12645</float>
-          <float>-2.12645</float>
           <float>0</float>
-          <float>2.12645</float>
+          <float>-2.12645</float>
           <float>2.12645</float>
           <float>4.2529</float>
+          <float>2.12645</float>
         </list>
         <list name="contains">
         </list>
@@ -1620,26 +1620,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>-30.9113</float>
-          <float>1.54705</float>
           <float>5.00939</float>
+          <float>-1.54705</float>
         </list>
         <string name="style">a</string>
       </map>
       <map>
         <list name="bbox">
           <float>-2.12645</float>
-          <float>-2.12645</float>
           <float>0</float>
-          <float>2.12645</float>
+          <float>-2.12645</float>
           <float>2.12645</float>
           <float>4.2529</float>
+          <float>2.12645</float>
         </list>
         <list name="contains">
         </list>
@@ -1648,26 +1648,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>-30.8202</float>
-          <float>6.41538</float>
           <float>5.01038</float>
+          <float>-6.41538</float>
         </list>
         <string name="style">b</string>
       </map>
       <map>
         <list name="bbox">
           <float>-2.12645</float>
-          <float>-2.12645</float>
           <float>0</float>
-          <float>2.12645</float>
+          <float>-2.12645</float>
           <float>2.12645</float>
           <float>4.2529</float>
+          <float>2.12645</float>
         </list>
         <list name="contains">
         </list>
@@ -1676,26 +1676,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>-31.4346</float>
-          <float>10.665</float>
           <float>5.00908</float>
+          <float>-10.665</float>
         </list>
         <string name="style">c</string>
       </map>
       <map>
         <list name="bbox">
           <float>-2.12645</float>
-          <float>-2.12645</float>
           <float>0</float>
-          <float>2.12645</float>
+          <float>-2.12645</float>
           <float>2.12645</float>
           <float>4.2529</float>
+          <float>2.12645</float>
         </list>
         <list name="contains">
         </list>
@@ -1704,26 +1704,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>-30.371</float>
-          <float>15.192</float>
           <float>5.00804</float>
+          <float>-15.192</float>
         </list>
         <string name="style">d</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.5</float>
-          <float>-0.1</float>
           <float>0</float>
+          <float>-0.1</float>
           <float>0.5</float>
-          <float>0.1</float>
           <float>1</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -1731,26 +1731,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">gravestone</string>
         <list name="pos">
           <float>-26.6711</float>
-          <float>0.851109</float>
           <float>5.00573</float>
+          <float>-0.851109</float>
         </list>
         <string name="style">cross</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.5</float>
-          <float>-0.1</float>
           <float>0</float>
+          <float>-0.1</float>
           <float>0.5</float>
-          <float>0.1</float>
           <float>1</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -1758,26 +1758,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">gravestone</string>
         <list name="pos">
           <float>-26.8393</float>
-          <float>1.85034</float>
           <float>5.00691</float>
+          <float>-1.85034</float>
         </list>
         <string name="style">cross broken</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.5</float>
-          <float>-0.1</float>
           <float>0</float>
+          <float>-0.1</float>
           <float>0.5</float>
-          <float>0.1</float>
           <float>1</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -1785,26 +1785,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">gravestone</string>
         <list name="pos">
           <float>-26.9967</float>
-          <float>2.75259</float>
           <float>5.0088</float>
+          <float>-2.75259</float>
         </list>
         <string name="style">rounded</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.5</float>
-          <float>-0.1</float>
           <float>0</float>
+          <float>-0.1</float>
           <float>0.5</float>
-          <float>0.1</float>
           <float>1</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -1812,25 +1812,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">gravestone</string>
         <list name="pos">
           <float>-27.2168</float>
-          <float>3.77312</float>
           <float>5.00975</float>
+          <float>-3.77312</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.5</float>
-          <float>-0.1</float>
           <float>0</float>
+          <float>-0.1</float>
           <float>0.5</float>
-          <float>0.1</float>
           <float>1</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -1838,26 +1838,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.63684</float>
+          <float>-0</float>
           <float>-0.770996</float>
         </list>
         <string name="parent">gravestone</string>
         <list name="pos">
           <float>-27.2566</float>
-          <float>4.73913</float>
           <float>5.01008</float>
+          <float>-4.73913</float>
         </list>
         <string name="style">stylish</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -1865,26 +1865,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.701613</float>
+          <float>0</float>
           <float>-0.712558</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-26.9286</float>
-          <float>7.89046</float>
           <float>5.00823</float>
+          <float>-7.89046</float>
         </list>
         <string name="style">brokenA</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -1892,26 +1892,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.701613</float>
+          <float>0</float>
           <float>-0.712558</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-27.0132</float>
-          <float>10.1526</float>
           <float>5.00808</float>
+          <float>-10.1526</float>
         </list>
         <string name="style">brokenB</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -1919,25 +1919,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.701613</float>
+          <float>0</float>
           <float>-0.712558</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-26.9147</float>
-          <float>12.7071</float>
           <float>5.00777</float>
+          <float>-12.7071</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1946,25 +1946,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.0794438</float>
+          <float>0</float>
           <float>-0.996839</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.6007</float>
-          <float>7.83952</float>
           <float>5.00793</float>
+          <float>-7.83952</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1972,25 +1972,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.0794438</float>
+          <float>0</float>
           <float>-0.996839</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.5367</float>
-          <float>8.83468</float>
           <float>5.00795</float>
+          <float>-8.83468</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -1999,25 +1999,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.0794438</float>
+          <float>0</float>
           <float>-0.996839</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.5392</float>
-          <float>9.94084</float>
           <float>5.00793</float>
+          <float>-9.94084</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -2026,15 +2026,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.0794438</float>
+          <float>0</float>
           <float>-0.996839</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-23.2635</float>
-          <float>5.28046</float>
           <float>5.00836</float>
+          <float>-5.28046</float>
         </list>
         <float name="visibility">1000</float>
       </map>
@@ -2046,15 +2046,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.042666</float>
+          <float>0</float>
           <float>0.999089</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>11.9503</float>
-          <float>-30.6416</float>
           <float>5.01008</float>
+          <float>30.6416</float>
         </list>
         <map name="spawner">
           <map name="entity">
@@ -2071,11 +2071,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -2085,15 +2085,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>0.976502</float>
+          <float>0</float>
           <float>0.215508</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>9.73149</float>
-          <float>-29.7654</float>
           <float>5.01077</float>
+          <float>29.7654</float>
         </list>
         <float name="visibility">1000</float>
       </map>
@@ -2129,15 +2129,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.0134982</float>
+          <float>-0</float>
           <float>0.999909</float>
         </list>
         <string name="parent">region</string>
         <list name="pos">
           <float>39.6966</float>
-          <float>-5.83727</float>
           <float>5.0101</float>
+          <float>5.83727</float>
         </list>
       </map>
       <map>
@@ -2172,25 +2172,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.700131</float>
+          <float>-0</float>
           <float>0.714015</float>
         </list>
         <string name="parent">region</string>
         <list name="pos">
           <float>37.4533</float>
-          <float>-22.7184</float>
           <float>5.01058</float>
+          <float>22.7184</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -2201,15 +2201,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.747734</float>
+          <float>-0</float>
           <float>0.663998</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>39.4124</float>
-          <float>-10.136</float>
           <float>5.00984</float>
+          <float>10.136</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8946</float>
@@ -2218,11 +2218,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -2232,15 +2232,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.951729</float>
+          <float>0</float>
           <float>-0.306941</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>34.0467</float>
-          <float>-12.194</float>
           <float>5.00996</float>
+          <float>12.194</float>
         </list>
         <float name="visibility">1000</float>
       </map>
@@ -2276,15 +2276,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.562692</float>
+          <float>-0</float>
           <float>0.826667</float>
         </list>
         <string name="parent">region</string>
         <list name="pos">
           <float>40.2732</float>
-          <float>11.7202</float>
           <float>5.00754</float>
+          <float>-11.7202</float>
         </list>
       </map>
       <map>
@@ -2319,15 +2319,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.0772364</float>
+          <float>-0</float>
           <float>0.997013</float>
         </list>
         <string name="parent">region</string>
         <list name="pos">
           <float>57.7401</float>
-          <float>19.5332</float>
           <float>5.00867</float>
+          <float>-19.5332</float>
         </list>
       </map>
       <map>
@@ -2362,15 +2362,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.503538</float>
+          <float>-0</float>
           <float>0.863973</float>
         </list>
         <string name="parent">region</string>
         <list name="pos">
           <float>43.527</float>
-          <float>31.5875</float>
           <float>5.00832</float>
+          <float>-31.5875</float>
         </list>
       </map>
       <map>
@@ -2389,15 +2389,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.141873</float>
+          <float>0</float>
           <float>0.989885</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>47.4473</float>
-          <float>27.1612</float>
           <float>5.00623</float>
+          <float>-27.1612</float>
         </list>
       </map>
       <map>
@@ -2416,15 +2416,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>-0</float>
-          <float>-0</float>
           <float>-0.818996</float>
+          <float>0</float>
           <float>0.5738</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>51.9887</float>
-          <float>26.9613</float>
           <float>5.00613</float>
+          <float>-26.9613</float>
         </list>
       </map>
       <map>
@@ -2443,15 +2443,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.365613</float>
+          <float>-0</float>
           <float>0.930767</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>53.3603</float>
-          <float>22.0381</float>
           <float>5.00576</float>
+          <float>-22.0381</float>
         </list>
       </map>
       <map>
@@ -2470,15 +2470,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>-0</float>
-          <float>-0</float>
           <float>-0.746692</float>
+          <float>0</float>
           <float>0.665169</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>42.2886</float>
-          <float>23.7525</float>
           <float>5.00606</float>
+          <float>-23.7525</float>
         </list>
       </map>
       <map>
@@ -2497,15 +2497,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>-0</float>
-          <float>-0</float>
           <float>-0.754799</float>
+          <float>0</float>
           <float>0.655956</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>38.4409</float>
-          <float>16.338</float>
           <float>5.00705</float>
+          <float>-16.338</float>
         </list>
       </map>
       <map>
@@ -2524,15 +2524,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>-0</float>
-          <float>-0</float>
           <float>-0.721704</float>
+          <float>0</float>
           <float>0.692202</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>40.3427</float>
-          <float>15.3023</float>
           <float>5.00663</float>
+          <float>-15.3023</float>
         </list>
       </map>
       <map>
@@ -2551,15 +2551,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.449612</float>
+          <float>-0</float>
           <float>0.893224</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>46.4006</float>
-          <float>20.77</float>
           <float>5.00477</float>
+          <float>-20.77</float>
         </list>
       </map>
       <map>
@@ -2578,15 +2578,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.17942</float>
+          <float>-0</float>
           <float>0.983773</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>48.8308</float>
-          <float>15.675</float>
           <float>5.00303</float>
+          <float>-15.675</float>
         </list>
       </map>
       <map>
@@ -2605,25 +2605,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.987879</float>
+          <float>-0</float>
           <float>-0.155223</float>
         </list>
         <string name="parent">boulder</string>
         <list name="pos">
           <float>44.1521</float>
-          <float>12.4895</float>
           <float>5.00683</float>
+          <float>-12.4895</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -2631,26 +2631,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.5</float>
+          <float>0</float>
           <float>0.866026</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>52.0138</float>
-          <float>17.2742</float>
           <float>5.00514</float>
+          <float>-17.2742</float>
         </list>
         <string name="style">brokenB</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -2658,26 +2658,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.766044</float>
+          <float>0</float>
           <float>0.642788</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>47.2666</float>
-          <float>31.9655</float>
           <float>5.00679</float>
+          <float>-31.9655</float>
         </list>
         <string name="style">brokenB</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -2688,15 +2688,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.954306</float>
+          <float>-0</float>
           <float>0.298831</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>54.6421</float>
-          <float>22.0281</float>
           <float>5.00623</float>
+          <float>-22.0281</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8977</float>
@@ -2704,11 +2704,11 @@
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -2716,25 +2716,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.965926</float>
+          <float>0</float>
           <float>-0.258819</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>45.7806</float>
-          <float>20.859</float>
           <float>5.0048</float>
+          <float>-20.859</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -2742,26 +2742,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.707107</float>
+          <float>0</float>
           <float>-0.707107</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>49.6395</float>
-          <float>18.8589</float>
           <float>5.00417</float>
+          <float>-18.8589</float>
         </list>
         <string name="style">brokenA</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.11901</float>
-          <float>-0.557705</float>
           <float>-0.14341</float>
+          <float>-0.557705</float>
           <float>2.12779</float>
-          <float>0.276439</float>
           <float>1.49924</float>
+          <float>0.276439</float>
         </list>
         <list name="contains">
         </list>
@@ -2769,26 +2769,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.422619</float>
+          <float>0</float>
           <float>-0.906308</float>
         </list>
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>48.4584</float>
-          <float>22.663</float>
           <float>5.00472</float>
+          <float>-22.663</float>
         </list>
         <string name="style">brokenA</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -2798,26 +2798,26 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.996566</float>
+          <float>0</float>
           <float>-0.082807</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>36.4229</float>
-          <float>19.0121</float>
           <float>5.00772</float>
+          <float>-19.0121</float>
         </list>
         <float name="visibility">1000</float>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -2826,25 +2826,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.993956</float>
+          <float>0</float>
           <float>0.109781</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>0.388492</float>
-          <float>0.186268</float>
           <float>5.00213</float>
+          <float>-0.186268</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -2854,15 +2854,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.552262</float>
+          <float>-0</float>
           <float>0.833671</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>-11.8715</float>
-          <float>-25.2875</float>
           <float>5.00855</float>
+          <float>25.2875</float>
         </list>
         <map name="right_hand_wield">
           <string name="$eid">12598305</string>
@@ -2878,15 +2878,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>-0.64101</float>
+          <float>-0</float>
           <float>0.767533</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>-12.7685</float>
-          <float>-24.8984</float>
           <float>5.00867</float>
+          <float>24.8984</float>
         </list>
         <map name="spawner">
           <map name="entity">
@@ -2903,11 +2903,11 @@
       <map>
         <list name="bbox">
           <float>-0.197863</float>
-          <float>-0.197863</float>
           <float>0</float>
-          <float>0.197863</float>
+          <float>-0.197863</float>
           <float>0.197863</float>
           <float>0.395726</float>
+          <float>0.197863</float>
         </list>
         <list name="contains">
         </list>
@@ -2915,15 +2915,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.0774917</float>
+          <float>-0</float>
           <float>0.996993</float>
         </list>
         <string name="parent">mushroom</string>
         <list name="pos">
           <float>-12.5777</float>
-          <float>-26.3645</float>
           <float>5.00815</float>
+          <float>26.3645</float>
         </list>
         <string name="species">galerina</string>
         <string name="type"></string>
@@ -2931,11 +2931,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -2945,25 +2945,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.526563</float>
+          <float>0</float>
           <float>-0.850136</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-12.075</float>
-          <float>-22.0513</float>
           <float>5.00904</float>
+          <float>22.0513</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.25</float>
-          <float>-0.25</float>
           <float>0</float>
-          <float>0.25</float>
+          <float>-0.25</float>
           <float>0.25</float>
           <float>2</float>
+          <float>0.25</float>
         </list>
         <list name="contains">
         </list>
@@ -2973,15 +2973,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0</float>
           <float>0.801445</float>
+          <float>-0</float>
           <float>0.598068</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>-0.986571</float>
-          <float>-35.3169</float>
           <float>5.01807</float>
+          <float>35.3169</float>
         </list>
         <float name="stamina">1</float>
         <float name="status">0.9849</float>
@@ -2993,15 +2993,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>-0</float>
-          <float>-0</float>
           <float>-0.725937</float>
+          <float>0</float>
           <float>0.687761</float>
         </list>
         <string name="parent">thing</string>
         <list name="pos">
           <float>-2.12336</float>
-          <float>-34.738</float>
           <float>5.01566</float>
+          <float>34.738</float>
         </list>
         <map name="spawner">
           <map name="entity">
@@ -3017,11 +3017,11 @@
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.4</float>
           <float>0</float>
+          <float>-0.4</float>
           <float>0.1</float>
-          <float>0.4</float>
           <float>2</float>
+          <float>0.4</float>
         </list>
         <list name="contains">
         </list>
@@ -3029,25 +3029,25 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0</float>
           <float>-0.605294</float>
+          <float>0</float>
           <float>-0.796002</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-2.82468</float>
-          <float>-31.8398</float>
           <float>5.01004</float>
+          <float>31.8398</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.1</float>
           <float>0</float>
-          <float>0.1</float>
+          <float>-0.1</float>
           <float>0.1</float>
           <float>0.3</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -3057,18 +3057,18 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <string name="style">burlap</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.01</float>
-          <float>-0.1</float>
           <float>-0.01</float>
+          <float>-0.1</float>
+          <float>0.01</float>
           <float>0.01</float>
           <float>0.1</float>
-          <float>0.01</float>
         </list>
         <list name="contains">
         </list>
@@ -3078,7 +3078,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3090,7 +3090,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3102,7 +3102,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3114,7 +3114,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3126,7 +3126,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3138,7 +3138,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3150,17 +3150,17 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.1</float>
           <float>0</float>
-          <float>0.1</float>
+          <float>-0.1</float>
           <float>0.1</float>
           <float>0.3</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -3170,18 +3170,18 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <string name="style">fine</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.1</float>
           <float>0</float>
-          <float>0.1</float>
+          <float>-0.1</float>
           <float>0.1</float>
           <float>0.3</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -3191,18 +3191,18 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <string name="style">fine</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.1</float>
           <float>0</float>
-          <float>0.1</float>
+          <float>-0.1</float>
           <float>0.1</float>
           <float>0.3</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -3212,18 +3212,18 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <string name="style">fine</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.2</float>
-          <float>-0.1</float>
           <float>0</float>
+          <float>-0.1</float>
           <float>0.2</float>
-          <float>0.1</float>
           <float>0.3</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -3233,18 +3233,18 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <string name="style">fine</string>
       </map>
       <map>
         <list name="bbox">
           <float>-0.1</float>
-          <float>-0.1</float>
           <float>0</float>
-          <float>0.1</float>
+          <float>-0.1</float>
           <float>0.1</float>
           <float>0.3</float>
+          <float>0.1</float>
         </list>
         <list name="contains">
         </list>
@@ -3254,7 +3254,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
         <string name="style">fine</string>
       </map>
@@ -3267,7 +3267,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3279,7 +3279,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3291,7 +3291,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3303,7 +3303,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3315,7 +3315,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
       <map>
@@ -3327,7 +3327,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>0</float>
+          <float>-0</float>
         </list>
       </map>
     </list>
