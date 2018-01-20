@@ -8019,14 +8019,7 @@
         <string name="style">gnarly</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">28</string>
@@ -9965,14 +9958,7 @@
         <string name="style">gnarly</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">70</string>
@@ -9992,14 +9978,7 @@
         <string name="style">brokenB</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">71</string>
@@ -10087,14 +10066,7 @@
         <string name="style">weathered</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">73</string>
@@ -10182,14 +10154,7 @@
         <string name="style">weathered</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">75</string>
@@ -10209,14 +10174,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">76</string>
@@ -10236,14 +10194,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">77</string>
@@ -20857,14 +20808,7 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">400</string>
@@ -20884,14 +20828,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">401</string>
@@ -20911,14 +20848,7 @@
         <string name="style">brokenB</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">402</string>
@@ -20938,14 +20868,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">403</string>
@@ -20965,14 +20888,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">404</string>
@@ -20992,14 +20908,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">405</string>
@@ -21019,14 +20928,7 @@
         <string name="style">brokenA</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">406</string>
@@ -27403,14 +27305,7 @@
         <string name="style">weathered</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">627</string>
@@ -27430,14 +27325,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">628</string>
@@ -27457,14 +27345,7 @@
         <string name="style">brokenA</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">629</string>
@@ -27484,14 +27365,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">630</string>
@@ -27511,14 +27385,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">631</string>
@@ -27538,14 +27405,7 @@
         <string name="style">brokenA</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">632</string>
@@ -27565,14 +27425,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">633</string>
@@ -27592,14 +27445,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">634</string>
@@ -27619,14 +27465,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">635</string>
@@ -33596,14 +33435,7 @@
         <string name="style">cross broken</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">844</string>
@@ -33623,14 +33455,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">845</string>
@@ -33650,14 +33475,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">846</string>
@@ -33677,14 +33495,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">847</string>
@@ -33704,14 +33515,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">848</string>
@@ -33731,14 +33535,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">849</string>
@@ -33758,14 +33555,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">850</string>
@@ -33785,14 +33575,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">851</string>
@@ -33812,14 +33595,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">852</string>
@@ -33839,14 +33615,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">853</string>
@@ -33866,14 +33635,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">854</string>
@@ -33893,14 +33655,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">855</string>
@@ -33920,14 +33675,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">856</string>
@@ -33947,14 +33695,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">857</string>
@@ -33974,14 +33715,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">858</string>
@@ -34001,14 +33735,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">859</string>
@@ -34028,14 +33755,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">860</string>
@@ -34055,14 +33775,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">861</string>
@@ -34082,14 +33795,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">862</string>
@@ -34109,14 +33815,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">863</string>
@@ -34136,14 +33835,7 @@
         <string name="style">brokenB</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">864</string>
@@ -34163,14 +33855,7 @@
         <string name="style">whole</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">865</string>
@@ -34190,14 +33875,7 @@
         <string name="style">brokenA</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">866</string>
@@ -34217,14 +33895,7 @@
         <string name="style">brokenB</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">867</string>
@@ -34244,14 +33915,7 @@
         <string name="style">brokenA</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">868</string>
@@ -34271,14 +33935,7 @@
         <string name="style">brokenA</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.11901</float>
-          <float>-0.14341</float>
-          <float>-0.557705</float>
-          <float>2.12779</float>
-          <float>1.49924</float>
-          <float>0.276439</float>
-        </list>
+        
         <list name="contains">
         </list>
         <string name="id">869</string>
