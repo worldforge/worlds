@@ -18807,7 +18807,7 @@
             <string>coin</string>
             <string>coin</string>
             <string>shirt</string>
-            <string>trousers</string>
+            <string>pants</string>
             <string>cloak</string>
             <string>boots</string>
             <string>hat</string>
@@ -21432,7 +21432,7 @@
           </list>
           <list name="contains">
             <string>shirt</string>
-            <string>trousers</string>
+            <string>pants</string>
             <string>cloak</string>
             <string>boots</string>
             <string>hat</string>
@@ -25774,9 +25774,9 @@
         </list>
         <string name="id">757</string>
         <float name="mass">0.5</float>
-        <string name="name">fine trousers</string>
+        <string name="name">fine pants</string>
         <string name="objtype">obj</string>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>0.000507752</float>
@@ -25866,9 +25866,9 @@
         </list>
         <string name="id">761</string>
         <float name="mass">0.5</float>
-        <string name="name">fine trousers</string>
+        <string name="name">fine pants</string>
         <string name="objtype">obj</string>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>-0.000629425</float>
@@ -29620,7 +29620,7 @@
           <map>
             <string name="object">5</string>
             <string name="predicate">price</string>
-            <string name="subject">trousers</string>
+            <string name="subject">pants</string>
           </map>
           <map>
             <string name="object">add_help([&apos;Get your clothes here.&apos;,&apos;Everything to keep you looking your best is here.&apos;])</string>
@@ -35316,7 +35316,7 @@
           <string>tinderbox</string>
           <string>tongs</string>
           <string>torch</string>
-          <string>trousers</string>
+          <string>pants</string>
           <string>trowel</string>
           <string>tuber</string>
           <string>twobyfour</string>
@@ -35548,7 +35548,7 @@
             <string name="visibility">public</string>
           </map>
         </map>
-        <string name="id">trousers</string>
+        <string name="id">pants</string>
         <string name="objtype">class</string>
         <string name="parent">thing</string>
       </map>

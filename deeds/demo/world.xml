@@ -3053,7 +3053,7 @@
         </list>
         <string name="id">83</string>
         <string name="objtype">obj</string>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -3187,7 +3187,7 @@
         </list>
         <string name="id">92</string>
         <string name="objtype">obj</string>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>

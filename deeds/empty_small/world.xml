@@ -42,7 +42,6 @@
 	    <int name="default_location">1</int>
         <string name="id">1</string>
         <string name="name">the world</string>
-        <string name="mode">fixed</string>
         <string name="objtype">obj</string>
         <string name="parent">land</string>
         <list name="pos">
@@ -181,7 +180,7 @@
           <float>-0</float>
           <float>1</float>
         </list>
-        <string name="parent">boulder</string>
+        <string name="parent">granite_a</string>
         <list name="pos">
           <float>-32</float>
           <float>10</float>

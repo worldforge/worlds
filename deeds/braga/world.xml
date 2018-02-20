@@ -6463,13 +6463,12 @@
           <float>0</float>
           <float>0.966378</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-908.568</float>
           <float>4.23091</float>
           <float>926.393</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <map name="area">
@@ -8038,13 +8037,12 @@
           <float>-0</float>
           <float>0.316121</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-839.737</float>
           <float>10.7543</float>
           <float>811.895</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -8064,13 +8062,12 @@
           <float>0</float>
           <float>0.350719</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-843.109</float>
           <float>9.77621</float>
           <float>812.581</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <string name="id">32</string>
@@ -8107,13 +8104,12 @@
           <float>0</float>
           <float>-0.551376</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-814.461</float>
           <float>3.75104</float>
           <float>848.178</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -8133,13 +8129,12 @@
           <float>0</float>
           <float>-0.397378</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-906.282</float>
           <float>5.49912</float>
           <float>923.353</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <map name="area">
@@ -9330,13 +9325,12 @@
           <float>-0</float>
           <float>0.039219</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-842.188</float>
           <float>9.79679</float>
           <float>809.577</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <map name="area">
@@ -10102,13 +10096,12 @@
           <float>0</float>
           <float>0.240047</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-905.847</float>
           <float>8.95836</float>
           <float>904.183</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10128,13 +10121,12 @@
           <float>0</float>
           <float>-0.991031</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-908.997</float>
           <float>8.46074</float>
           <float>902.012</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10154,13 +10146,12 @@
           <float>0</float>
           <float>0.151868</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-907.195</float>
           <float>9.42617</float>
           <float>902.67</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10180,13 +10171,12 @@
           <float>-0</float>
           <float>0.588029</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-907.4</float>
           <float>6.86524</float>
           <float>904.385</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10206,13 +10196,12 @@
           <float>0</float>
           <float>0.722785</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-938.285</float>
           <float>4.18322</float>
           <float>901.091</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10232,13 +10221,12 @@
           <float>-0</float>
           <float>-0.114609</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-937.059</float>
           <float>4.35295</float>
           <float>900.318</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10258,13 +10246,12 @@
           <float>0</float>
           <float>-0.123788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-936.914</float>
           <float>5.52794</float>
           <float>902.383</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10284,13 +10271,12 @@
           <float>-0</float>
           <float>-0.837091</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-902.96</float>
           <float>5.12761</float>
           <float>930.024</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10310,13 +10296,12 @@
           <float>-0</float>
           <float>-0.994709</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-900.89</float>
           <float>4.92987</float>
           <float>931.06</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10336,13 +10321,12 @@
           <float>-0</float>
           <float>-0.882018</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-898.587</float>
           <float>6.06488</float>
           <float>929.958</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10362,13 +10346,12 @@
           <float>-0</float>
           <float>-0.914566</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-899.05</float>
           <float>4.93032</float>
           <float>932.084</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10388,13 +10371,12 @@
           <float>0</float>
           <float>0.96824</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-933.656</float>
           <float>2.022</float>
           <float>931.312</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10414,13 +10396,12 @@
           <float>-0</float>
           <float>0.0824047</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-930.02</float>
           <float>2.19056</float>
           <float>930.394</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10440,13 +10421,12 @@
           <float>-0</float>
           <float>0.437248</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-928.58</float>
           <float>2.02123</float>
           <float>933.589</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10466,13 +10446,12 @@
           <float>0</float>
           <float>0.243615</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-926.545</float>
           <float>2.22979</float>
           <float>933.199</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -10492,13 +10471,12 @@
           <float>-0</float>
           <float>-0.941473</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-899.017</float>
           <float>8.76725</float>
           <float>913.257</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10518,13 +10496,12 @@
           <float>-0</float>
           <float>-0.748851</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-897.596</float>
           <float>10.3118</float>
           <float>913.761</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10544,13 +10521,12 @@
           <float>-0</float>
           <float>-0.142253</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-901.052</float>
           <float>6.94965</float>
           <float>914.096</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10570,13 +10546,12 @@
           <float>0</float>
           <float>-0.380371</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-899.71</float>
           <float>7.50411</float>
           <float>916.692</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10596,13 +10571,12 @@
           <float>-0</float>
           <float>-0.988934</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-924.069</float>
           <float>10.8708</float>
           <float>886.002</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10622,13 +10596,12 @@
           <float>-0</float>
           <float>-0.393198</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-922.394</float>
           <float>11.4581</float>
           <float>886.042</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10648,13 +10621,12 @@
           <float>0</float>
           <float>0.983639</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-923.698</float>
           <float>10.9964</float>
           <float>886.434</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10674,13 +10646,12 @@
           <float>0</float>
           <float>0.854382</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-923.956</float>
           <float>10.9292</float>
           <float>887.996</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -10700,13 +10671,12 @@
           <float>0</float>
           <float>0.973778</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-871.283</float>
           <float>9.32418</float>
           <float>887.353</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10726,13 +10696,12 @@
           <float>0</float>
           <float>-0.142224</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-871.931</float>
           <float>9.89463</float>
           <float>884.504</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10752,13 +10721,12 @@
           <float>-0</float>
           <float>0.0837115</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-870.199</float>
           <float>9.46358</float>
           <float>885.028</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10778,13 +10746,12 @@
           <float>-0</float>
           <float>-0.852905</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-871.009</float>
           <float>10.0322</float>
           <float>877.118</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10804,13 +10771,12 @@
           <float>0</float>
           <float>0.970333</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-870.259</float>
           <float>9.90289</float>
           <float>876.903</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10830,13 +10796,12 @@
           <float>-0</float>
           <float>-0.357575</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-919.262</float>
           <float>12.2247</float>
           <float>871.62</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10856,13 +10821,12 @@
           <float>-0</float>
           <float>-0.712274</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-919.833</float>
           <float>11.4343</float>
           <float>869.864</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10882,13 +10846,12 @@
           <float>0</float>
           <float>0.948664</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-917.321</float>
           <float>11.9372</float>
           <float>869.358</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10908,13 +10871,12 @@
           <float>0</float>
           <float>0.996915</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-917.114</float>
           <float>12.7095</float>
           <float>871.561</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10934,13 +10896,12 @@
           <float>0</float>
           <float>0.993873</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-892.768</float>
           <float>8.8806</float>
           <float>842.499</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10960,13 +10921,12 @@
           <float>0</float>
           <float>0.997964</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-892.797</float>
           <float>9.39545</float>
           <float>845.293</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -10986,13 +10946,12 @@
           <float>0</float>
           <float>0.962718</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-914.82</float>
           <float>5.31272</float>
           <float>840.018</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11012,13 +10971,12 @@
           <float>-0</float>
           <float>-0.943268</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-914.744</float>
           <float>5.42523</float>
           <float>838.631</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11038,13 +10996,12 @@
           <float>-0</float>
           <float>-0.7909</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-912.643</float>
           <float>5.59548</float>
           <float>839.593</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11064,13 +11021,12 @@
           <float>-0</float>
           <float>-0.599503</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-912.67</float>
           <float>5.74302</float>
           <float>837.744</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11090,13 +11046,12 @@
           <float>0</float>
           <float>-0.266294</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-857.152</float>
           <float>10.5925</float>
           <float>835.368</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11116,13 +11071,12 @@
           <float>-0</float>
           <float>-0.77205</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-856.288</float>
           <float>10.7728</float>
           <float>833.716</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11142,13 +11096,12 @@
           <float>-0</float>
           <float>-0.635822</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-856.175</float>
           <float>10.732</float>
           <float>834.745</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11168,13 +11121,12 @@
           <float>-0</float>
           <float>-0.735477</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-851.904</float>
           <float>6.37289</float>
           <float>864.137</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11194,13 +11146,12 @@
           <float>-0</float>
           <float>0.0906384</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-850.135</float>
           <float>5.89568</float>
           <float>865.891</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11220,13 +11171,12 @@
           <float>-0</float>
           <float>-0.676841</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-849.443</float>
           <float>5.50602</float>
           <float>865.642</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11246,13 +11196,12 @@
           <float>0</float>
           <float>-0.39296</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-864.918</float>
           <float>9.02674</float>
           <float>879.338</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11272,13 +11221,12 @@
           <float>-0</float>
           <float>0.1596</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-865.926</float>
           <float>9.08613</float>
           <float>879.111</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -11298,13 +11246,12 @@
           <float>0</float>
           <float>0.998885</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-903.057</float>
           <float>6.63964</float>
           <float>834.58</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11324,13 +11271,12 @@
           <float>0</float>
           <float>0.872297</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-901.997</float>
           <float>6.76604</float>
           <float>834.617</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11350,13 +11296,12 @@
           <float>-0</float>
           <float>-0.33936</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-903.021</float>
           <float>6.5618</float>
           <float>836.098</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11376,13 +11321,12 @@
           <float>-0</float>
           <float>-0.986909</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-907.291</float>
           <float>6.2553</float>
           <float>836.968</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11402,13 +11346,12 @@
           <float>0</float>
           <float>0.998023</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-911.689</float>
           <float>3.82454</float>
           <float>788.172</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11428,13 +11371,12 @@
           <float>-0</float>
           <float>0.598087</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-913.209</float>
           <float>3.51761</float>
           <float>787.756</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11454,13 +11396,12 @@
           <float>-0</float>
           <float>0.0273113</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-912.487</float>
           <float>3.11244</float>
           <float>785.942</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11480,13 +11421,12 @@
           <float>-0</float>
           <float>0.106313</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-914.033</float>
           <float>3.19462</float>
           <float>786.502</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11506,13 +11446,12 @@
           <float>-0</float>
           <float>-0.901718</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-872.847</float>
           <float>2.16505</float>
           <float>752.559</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11532,13 +11471,12 @@
           <float>0</float>
           <float>0.881499</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-873.849</float>
           <float>2.13519</float>
           <float>752.641</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11558,13 +11496,12 @@
           <float>0</float>
           <float>0.660345</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-879.684</float>
           <float>2.25225</float>
           <float>756.283</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11584,13 +11521,12 @@
           <float>-0</float>
           <float>-0.837131</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-879.835</float>
           <float>2.16066</float>
           <float>755.312</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -11610,13 +11546,12 @@
           <float>0</float>
           <float>0.913492</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-881.011</float>
           <float>2.22398</float>
           <float>756.058</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <string name="id">139</string>
@@ -11852,14 +11787,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.5</float>
-          <float>0</float>
-          <float>-1.5</float>
-          <float>3</float>
-          <float>2</float>
-          <float>1.5</float>
-        </list>
         <string name="id">152</string>
         <float name="mass">42000</float>
         <string name="objtype">obj</string>
@@ -11869,7 +11796,7 @@
           <float>0</float>
           <float>-0.258819</float>
         </list>
-        <string name="parent">stall</string>
+        <string name="parent">marketstall_canvas_a</string>
         <list name="pos">
           <float>-882.17</float>
           <float>5.13737</float>
@@ -11877,14 +11804,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>0</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>2</float>
-          <float>0.25</float>
-        </list>
         <list name="contains">
           <string>907</string>
           <string>908</string>
@@ -13879,13 +13798,12 @@
           <float>-0</float>
           <float>-0.979585</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-692.182</float>
           <float>2.55984</float>
           <float>742.983</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -13905,13 +13823,12 @@
           <float>-0</float>
           <float>-0.832614</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-692.663</float>
           <float>2.36185</float>
           <float>744.451</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -13931,13 +13848,12 @@
           <float>0</float>
           <float>0.93795</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-693.431</float>
           <float>2.3552</float>
           <float>743.332</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -13957,13 +13873,12 @@
           <float>0</float>
           <float>0.401108</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-694.239</float>
           <float>2.15718</float>
           <float>744.337</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -13983,13 +13898,12 @@
           <float>-0</float>
           <float>-0.990822</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-700.1</float>
           <float>1.22296</float>
           <float>758.077</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -14009,13 +13923,12 @@
           <float>0</float>
           <float>0.67614</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-701.004</float>
           <float>1.12551</float>
           <float>760.421</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -14035,13 +13948,12 @@
           <float>-0</float>
           <float>-0.876574</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-702.416</float>
           <float>1.00549</float>
           <float>761.346</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -14061,13 +13973,12 @@
           <float>-0</float>
           <float>-0.32266</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-704.125</float>
           <float>1.05474</float>
           <float>760.648</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -14087,13 +13998,12 @@
           <float>0</float>
           <float>0.990398</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-702.92</float>
           <float>1.17853</float>
           <float>757.367</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -14439,31 +14349,6 @@
           <float>4.72781</float>
           <float>782.158</float>
         </list>
-        <map name="terrainmod">
-          <float name="heightoffset">0</float>
-          <map name="shape">
-            <list name="points">
-              <list>
-                <float>1.46911</float>
-                <float>-0.0463305</float>
-              </list>
-              <list>
-                <float>4.57642</float>
-                <float>-0.358249</float>
-              </list>
-              <list>
-                <float>4.30428</float>
-                <float>3.16033</float>
-              </list>
-              <list>
-                <float>1.5651</float>
-                <float>2.45538</float>
-              </list>
-            </list>
-            <string name="type">polygon</string>
-          </map>
-          <string name="type">levelmod</string>
-        </map>
       </map>
       <map>
         <string name="id">244</string>
@@ -15028,13 +14913,12 @@
           <float>-0</float>
           <float>-0.459806</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-787.779</float>
           <float>1.56668</float>
           <float>687.688</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -15054,13 +14938,12 @@
           <float>0</float>
           <float>0.71525</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-800.117</float>
           <float>0.892787</float>
           <float>666.983</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -15080,13 +14963,12 @@
           <float>-0</float>
           <float>-0.860436</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-792.785</float>
           <float>2.28929</float>
           <float>653.855</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -15106,13 +14988,12 @@
           <float>-0</float>
           <float>0.558888</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-774.118</float>
           <float>2.39963</float>
           <float>671.311</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -15132,13 +15013,12 @@
           <float>0</float>
           <float>0.711672</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-776.365</float>
           <float>2.58727</float>
           <float>670.556</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -15158,13 +15038,12 @@
           <float>-0</float>
           <float>-0.791379</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-740.61</float>
           <float>5.29112</float>
           <float>650.638</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15184,13 +15063,12 @@
           <float>0</float>
           <float>0.982173</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-741.911</float>
           <float>4.17768</float>
           <float>650.105</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15210,13 +15088,12 @@
           <float>0</float>
           <float>0.894974</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-742.992</float>
           <float>4.03592</float>
           <float>650.953</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15236,13 +15113,12 @@
           <float>0</float>
           <float>0.267385</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-741.7</float>
           <float>4.22484</float>
           <float>651.784</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15262,13 +15138,12 @@
           <float>0</float>
           <float>0.991797</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-723.056</float>
           <float>2.18822</float>
           <float>680.152</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15288,13 +15163,12 @@
           <float>0</float>
           <float>0.769554</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-723.04</float>
           <float>1.80709</float>
           <float>681.828</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15314,13 +15188,12 @@
           <float>0</float>
           <float>0.0360462</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-724.519</float>
           <float>1.59914</float>
           <float>681.341</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15340,13 +15213,12 @@
           <float>-0</float>
           <float>0.705357</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-724.029</float>
           <float>1.29367</float>
           <float>683.206</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -15392,13 +15264,12 @@
           <float>-0</float>
           <float>-0.929377</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-732.7</float>
           <float>2.08634</float>
           <float>702.235</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15418,13 +15289,12 @@
           <float>-0</float>
           <float>-0.255995</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-733.657</float>
           <float>1.96696</float>
           <float>702.918</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15444,13 +15314,12 @@
           <float>0</float>
           <float>-0.527775</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-734.055</float>
           <float>1.96313</float>
           <float>700.952</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15470,13 +15339,12 @@
           <float>-0</float>
           <float>-0.250836</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-749.903</float>
           <float>1.45544</float>
           <float>678.026</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15496,13 +15364,12 @@
           <float>-0</float>
           <float>0.62772</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-750.152</float>
           <float>1.47021</float>
           <float>677.148</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15522,13 +15389,12 @@
           <float>0</float>
           <float>0.832042</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-751.043</float>
           <float>1.46274</float>
           <float>678.054</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15548,13 +15414,12 @@
           <float>0</float>
           <float>0.816409</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-788.561</float>
           <float>2.73668</float>
           <float>650.987</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15574,13 +15439,12 @@
           <float>-0</float>
           <float>-0.975272</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-789.785</float>
           <float>2.40049</float>
           <float>651.193</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15600,13 +15464,12 @@
           <float>-0</float>
           <float>-0.99835</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-788.907</float>
           <float>2.98553</float>
           <float>651.878</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15626,13 +15489,12 @@
           <float>0</float>
           <float>0.0537231</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-799.137</float>
           <float>3.30412</float>
           <float>608.373</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15652,13 +15514,12 @@
           <float>-0</float>
           <float>-0.998748</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-798.417</float>
           <float>3.24654</float>
           <float>609.591</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -15678,13 +15539,12 @@
           <float>-0</float>
           <float>0.0103641</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-795.96</float>
           <float>3.50684</float>
           <float>609.039</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <string name="id">292</string>
@@ -18661,7 +18521,6 @@
           <float>47.7048</float>
           <float>434.441</float>
         </list>
-        <string name="variant">b</string>
       </map>
       <map>
         <map name="area">
@@ -18874,68 +18733,28 @@
       <map>
         <list name="bbox">
           <float>-512</float>
-          <float>-0.5</float>
+          <float>-32</float>
           <float>-512</float>
           <float>512</float>
-          <float>0.5</float>
+          <float>0</float>
           <float>512</float>
         </list>
         <string name="id">374</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0.707107</float>
           <float>0</float>
-          <float>0.707107</float>
+          <float>0</float>
+          <float>0</float>
         </list>
         <string name="parent">ocean</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>-0</float>
+          <float>0</float>
         </list>
       </map>
       <map>
-        <map name="area">
-          <int name="layer">7</int>
-          <map name="shape">
-            <list name="points">
-              <list>
-                <float>-6.34274</float>
-                <float>-3.31533</float>
-              </list>
-              <list>
-                <float>0.686108</float>
-                <float>-3.26379</float>
-              </list>
-              <list>
-                <float>0.734425</float>
-                <float>-5.10046</float>
-              </list>
-              <list>
-                <float>5.2547</float>
-                <float>-5.37558</float>
-              </list>
-              <list>
-                <float>5.23085</float>
-                <float>4.30876</float>
-              </list>
-              <list>
-                <float>1.44866</float>
-                <float>4.44796</float>
-              </list>
-              <list>
-                <float>1.26146</float>
-                <float>7.31457</float>
-              </list>
-              <list>
-                <float>-6.33775</float>
-                <float>7.43932</float>
-              </list>
-            </list>
-            <string name="type">polygon</string>
-          </map>
-        </map>
         <string name="id">375</string>
         <float name="mass">1.7423e+07</float>
         <string name="objtype">obj</string>
@@ -18952,47 +18771,6 @@
           <float>410.65</float>
         </list>
         <string name="roof">shingle</string>
-        <map name="terrainmod">
-          <float name="heightoffset">0</float>
-          <map name="shape">
-            <list name="points">
-              <list>
-                <float>-6.34274</float>
-                <float>-3.31533</float>
-              </list>
-              <list>
-                <float>0.686108</float>
-                <float>-3.26379</float>
-              </list>
-              <list>
-                <float>0.734425</float>
-                <float>-5.10046</float>
-              </list>
-              <list>
-                <float>5.2547</float>
-                <float>-5.37558</float>
-              </list>
-              <list>
-                <float>5.23085</float>
-                <float>4.30876</float>
-              </list>
-              <list>
-                <float>1.44866</float>
-                <float>4.44796</float>
-              </list>
-              <list>
-                <float>1.26146</float>
-                <float>7.31457</float>
-              </list>
-              <list>
-                <float>-6.33775</float>
-                <float>7.43932</float>
-              </list>
-            </list>
-            <string name="type">polygon</string>
-          </map>
-          <string name="type">levelmod</string>
-        </map>
       </map>
       <map>
         <string name="id">376</string>
@@ -19049,80 +18827,6 @@
         <string name="roof">shale</string>
       </map>
       <map>
-        <map name="area">
-          <int name="layer">7</int>
-          <map name="shape">
-            <list name="points">
-              <list>
-                <float>-0.0330088</float>
-                <float>3.35904</float>
-              </list>
-              <list>
-                <float>-8.21518</float>
-                <float>2.93664</float>
-              </list>
-              <list>
-                <float>-8.27803</float>
-                <float>2.38888</float>
-              </list>
-              <list>
-                <float>-10.0172</float>
-                <float>2.40824</float>
-              </list>
-              <list>
-                <float>-10.0154</float>
-                <float>0.235201</float>
-              </list>
-              <list>
-                <float>-8.26947</float>
-                <float>0.228893</float>
-              </list>
-              <list>
-                <float>-8.44085</float>
-                <float>-12.1663</float>
-              </list>
-              <list>
-                <float>3.99713</float>
-                <float>-12.5411</float>
-              </list>
-              <list>
-                <float>3.85007</float>
-                <float>-9.92374</float>
-              </list>
-              <list>
-                <float>6.66209</float>
-                <float>-10.1851</float>
-              </list>
-              <list>
-                <float>6.56119</float>
-                <float>-8.55103</float>
-              </list>
-              <list>
-                <float>7.0901</float>
-                <float>-8.5686</float>
-              </list>
-              <list>
-                <float>7.05797</float>
-                <float>-0.183271</float>
-              </list>
-              <list>
-                <float>-0.231897</float>
-                <float>-0.19835</float>
-              </list>
-            </list>
-            <string name="type">polygon</string>
-          </map>
-        </map>
-        <list name="bbox">
-          <float>-13.8315</float>
-          <float>-0.8411</float>
-          <float>-10.1009</float>
-          <float>3.6746</float>
-          <float>11.1409</float>
-          <float>7.7402</float>
-        </list>
-        <list name="contains">
-        </list>
         <string name="id">379</string>
         <float name="mass">7.48463e+06</float>
         <string name="objtype">obj</string>
@@ -19139,71 +18843,6 @@
           <float>441.628</float>
         </list>
         <string name="roof">shingle</string>
-        <map name="terrainmod">
-          <float name="heightoffset">0</float>
-          <map name="shape">
-            <list name="points">
-              <list>
-                <float>-0.0330088</float>
-                <float>3.35904</float>
-              </list>
-              <list>
-                <float>-8.21518</float>
-                <float>2.93664</float>
-              </list>
-              <list>
-                <float>-8.27803</float>
-                <float>2.38888</float>
-              </list>
-              <list>
-                <float>-10.5308</float>
-                <float>3.42031</float>
-              </list>
-              <list>
-                <float>-10.4019</float>
-                <float>-1.22491</float>
-              </list>
-              <list>
-                <float>-8.26947</float>
-                <float>0.228893</float>
-              </list>
-              <list>
-                <float>-8.44085</float>
-                <float>-12.1663</float>
-              </list>
-              <list>
-                <float>3.99713</float>
-                <float>-12.5411</float>
-              </list>
-              <list>
-                <float>4.16605</float>
-                <float>-11.2218</float>
-              </list>
-              <list>
-                <float>6.31959</float>
-                <float>-11.0032</float>
-              </list>
-              <list>
-                <float>6.56119</float>
-                <float>-8.55103</float>
-              </list>
-              <list>
-                <float>7.0901</float>
-                <float>-8.5686</float>
-              </list>
-              <list>
-                <float>7.05797</float>
-                <float>-0.183271</float>
-              </list>
-              <list>
-                <float>-0.231897</float>
-                <float>-0.19835</float>
-              </list>
-            </list>
-            <string name="type">polygon</string>
-          </map>
-          <string name="type">levelmod</string>
-        </map>
       </map>
       <map>
         <map name="area">
@@ -19334,16 +18973,13 @@
         <string name="id">386</string>
         <float name="mass">6.4</float>
         <string name="objtype">obj</string>
-        <list name="operations">
-          <string>sow</string>
-        </list>
         <list name="orientation">
           <float>0</float>
           <float>-0.274422</float>
           <float>-0</float>
           <float>-0.961609</float>
         </list>
-        <string name="parent">fishingrod</string>
+        <string name="parent">fishing_rod</string>
         <list name="pos">
           <float>-779.801</float>
           <float>2.83872</float>
@@ -19360,7 +18996,7 @@
           <float>0</float>
           <float>-0.593671</float>
         </list>
-        <string name="parent">fishingrod</string>
+        <string name="parent">fishing_rod</string>
         <list name="pos">
           <float>-779.876</float>
           <float>2.88122</float>
@@ -19377,7 +19013,7 @@
           <float>0</float>
           <float>-0.644709</float>
         </list>
-        <string name="parent">fishingrod</string>
+        <string name="parent">fishing_rod</string>
         <list name="pos">
           <float>-779.683</float>
           <float>2.79847</float>
@@ -19547,7 +19183,7 @@
           <float>0</float>
           <float>-0.197259</float>
         </list>
-        <string name="parent">shelf_table</string>
+        <string name="parent">table_shelf</string>
         <list name="pos">
           <float>-782.325</float>
           <float>3.02203</float>
@@ -21519,13 +21155,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-693.554</float>
           <float>10.1484</float>
           <float>658.772</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21545,13 +21180,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-726.3</float>
           <float>2.02941</float>
           <float>768.095</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -21571,13 +21205,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-728.801</float>
           <float>3.14317</float>
           <float>773.068</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21597,13 +21230,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-733.91</float>
           <float>4.57635</float>
           <float>780.166</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21623,13 +21255,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-732.311</float>
           <float>2.65094</float>
           <float>768.645</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21649,13 +21280,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-736.774</float>
           <float>4.28381</float>
           <float>772.676</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -21675,13 +21305,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-734.543</float>
           <float>2.63152</float>
           <float>759.844</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -21701,13 +21330,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-740.837</float>
           <float>3.57844</float>
           <float>768.045</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -21727,13 +21355,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-745.784</float>
           <float>3.56066</float>
           <float>765.897</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -21753,13 +21380,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-748.637</float>
           <float>4.85435</float>
           <float>771.942</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -21779,13 +21405,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-734.98</float>
           <float>4.77768</float>
           <float>791.601</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21805,13 +21430,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-739.792</float>
           <float>4.94693</float>
           <float>795.981</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21831,13 +21455,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-744.2</float>
           <float>5.27707</float>
           <float>791.672</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -21857,13 +21480,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-753.966</float>
           <float>4.28055</float>
           <float>803.673</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -21883,13 +21505,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-751.142</float>
           <float>4.01838</float>
           <float>805.303</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -21909,13 +21530,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-791.117</float>
           <float>8.5736</float>
           <float>820.744</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -21935,13 +21555,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-795.552</float>
           <float>10.6772</float>
           <float>819.225</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -21961,13 +21580,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-800.98</float>
           <float>10.5968</float>
           <float>830.544</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -21987,13 +21605,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-808.944</float>
           <float>12.0973</float>
           <float>829.904</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -22013,13 +21630,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-787.699</float>
           <float>5.61793</float>
           <float>827.432</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -22039,13 +21655,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-792.475</float>
           <float>9.44287</float>
           <float>823.985</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -22065,13 +21680,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-786.995</float>
           <float>6.37814</float>
           <float>822.347</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -22091,13 +21705,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-782.248</float>
           <float>4.31088</float>
           <float>824.477</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -22117,13 +21730,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-781.282</float>
           <float>5.16797</float>
           <float>816.34</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -22143,13 +21755,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-781.127</float>
           <float>9.08033</float>
           <float>805.094</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -22169,13 +21780,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-775.961</float>
           <float>7.53579</float>
           <float>803.291</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -22195,13 +21805,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-784.361</float>
           <float>10.7205</float>
           <float>792.209</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -22221,13 +21830,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-774.756</float>
           <float>7.65223</float>
           <float>795.314</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -22247,13 +21855,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-771.275</float>
           <float>6.33812</float>
           <float>799.828</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -22273,13 +21880,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-771.075</float>
           <float>5.48111</float>
           <float>807.438</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -23729,13 +23335,12 @@
           <float>0</float>
           <float>-0.0871552</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-536.435</float>
           <float>6.18111</float>
           <float>622.256</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -23755,13 +23360,12 @@
           <float>0</float>
           <float>-0.0871552</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-539.363</float>
           <float>6.4544</float>
           <float>621.073</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -23781,13 +23385,12 @@
           <float>-0</float>
           <float>-0.920928</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-538.288</float>
           <float>5.97932</float>
           <float>623.988</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -23807,13 +23410,12 @@
           <float>-0</float>
           <float>-0.82403</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-561.054</float>
           <float>7.35575</float>
           <float>626.086</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -23833,13 +23435,12 @@
           <float>-0</float>
           <float>0.565457</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-562.739</float>
           <float>7.41056</float>
           <float>627.841</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -23859,13 +23460,12 @@
           <float>-0</float>
           <float>-0.959485</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-570.175</float>
           <float>7.84242</float>
           <float>628.49</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -23885,13 +23485,12 @@
           <float>0</float>
           <float>0.484689</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-623.298</float>
           <float>23.5536</float>
           <float>609.494</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -23911,13 +23510,12 @@
           <float>-0</float>
           <float>-0.215868</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-623.341</float>
           <float>23.5666</float>
           <float>613.899</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -23937,13 +23535,12 @@
           <float>-0</float>
           <float>-0.823939</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-620.347</float>
           <float>23.471</float>
           <float>611.604</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -23963,13 +23560,12 @@
           <float>0</float>
           <float>0.892399</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-630.69</float>
           <float>24.9992</float>
           <float>601.805</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -23989,13 +23585,12 @@
           <float>-0</float>
           <float>0.474783</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-623.952</float>
           <float>24.7888</float>
           <float>623.066</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -24015,13 +23610,12 @@
           <float>-0</float>
           <float>0.658741</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-594.762</float>
           <float>23.6616</float>
           <float>575.531</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -24041,13 +23635,12 @@
           <float>0</float>
           <float>0.705212</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-597.065</float>
           <float>23.0639</float>
           <float>578.495</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -24067,13 +23660,12 @@
           <float>-0</float>
           <float>0.0014948</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-590.239</float>
           <float>22.3634</float>
           <float>578.138</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -24093,13 +23685,12 @@
           <float>0</float>
           <float>-0.149648</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-635.694</float>
           <float>22.9812</float>
           <float>602.424</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -24119,13 +23710,12 @@
           <float>-0</float>
           <float>-0.997322</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-646.679</float>
           <float>13.3109</float>
           <float>630.349</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24145,13 +23735,12 @@
           <float>-0</float>
           <float>-0.86277</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-649.256</float>
           <float>12.9426</float>
           <float>631.378</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -24171,13 +23760,12 @@
           <float>0</float>
           <float>0.996891</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-684.129</float>
           <float>3.82323</float>
           <float>730.994</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24197,13 +23785,12 @@
           <float>0</float>
           <float>-0.663243</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-681.178</float>
           <float>4.16145</float>
           <float>727.478</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24223,13 +23810,12 @@
           <float>0</float>
           <float>-0.411733</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-680.399</float>
           <float>4.09373</float>
           <float>730.729</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -24249,13 +23835,12 @@
           <float>-0</float>
           <float>-0.999898</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-659.361</float>
           <float>6.41102</float>
           <float>722.546</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24275,13 +23860,12 @@
           <float>-0</float>
           <float>0.674118</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-657.678</float>
           <float>6.51306</float>
           <float>724.779</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <string name="id">584</string>
@@ -24640,13 +24224,12 @@
           <float>-0</float>
           <float>-0.822456</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-627.902</float>
           <float>7.91124</float>
           <float>652.246</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24666,13 +24249,12 @@
           <float>0</float>
           <float>0.867159</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-632.185</float>
           <float>9.11738</float>
           <float>660.078</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -24692,13 +24274,12 @@
           <float>0</float>
           <float>0.128345</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-631.504</float>
           <float>8.53503</float>
           <float>656.121</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -24718,13 +24299,12 @@
           <float>0</float>
           <float>0.88827</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-640.238</float>
           <float>9.12896</float>
           <float>657.473</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24744,13 +24324,12 @@
           <float>0</float>
           <float>0.511403</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-636.797</float>
           <float>9.32699</float>
           <float>662.056</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -24770,13 +24349,12 @@
           <float>-0</float>
           <float>-0.571545</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-633.816</float>
           <float>8.68915</float>
           <float>655.518</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24796,13 +24374,12 @@
           <float>0</float>
           <float>0.832656</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-632.026</float>
           <float>9.39477</float>
           <float>663.416</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -24822,13 +24399,12 @@
           <float>-0</float>
           <float>-0.740809</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-638.923</float>
           <float>9.38773</float>
           <float>666.105</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -24848,13 +24424,12 @@
           <float>0</float>
           <float>-0.0664461</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-643.075</float>
           <float>9.50292</float>
           <float>662.737</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -24874,13 +24449,12 @@
           <float>0</float>
           <float>-0.369079</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-665.851</float>
           <float>10.2295</float>
           <float>673.61</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -24900,13 +24474,12 @@
           <float>0</float>
           <float>0.304244</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-662.504</float>
           <float>10.4413</float>
           <float>674.122</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -24926,13 +24499,12 @@
           <float>-0</float>
           <float>-0.896389</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-665.247</float>
           <float>10.0664</float>
           <float>677.101</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -24952,13 +24524,12 @@
           <float>0</float>
           <float>-0.192889</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-667.008</float>
           <float>9.54458</float>
           <float>680.528</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -24978,13 +24549,12 @@
           <float>0</float>
           <float>0.770267</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-654.716</float>
           <float>10.6475</float>
           <float>673.125</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -25004,13 +24574,12 @@
           <float>0</float>
           <float>-0.280846</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-652.033</float>
           <float>10.4077</float>
           <float>670.123</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -25030,13 +24599,12 @@
           <float>0</float>
           <float>0.611973</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-649.729</float>
           <float>10.0657</float>
           <float>664.698</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <map name="area">
@@ -26671,13 +26239,12 @@
           <float>0</float>
           <float>-0.422619</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-260.572</float>
           <float>15.3435</float>
           <float>612.208</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -28647,13 +28214,12 @@
           <float>0</float>
           <float>-0.422619</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-285.031</float>
           <float>10.9319</float>
           <float>586.153</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -28673,13 +28239,12 @@
           <float>0</float>
           <float>-0.422619</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-287.057</float>
           <float>12.6963</float>
           <float>611.996</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -28699,13 +28264,12 @@
           <float>0</float>
           <float>-0.422619</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-287.769</float>
           <float>13.0874</float>
           <float>609.051</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -28725,13 +28289,12 @@
           <float>0</float>
           <float>0.866025</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-290.57</float>
           <float>12.5222</float>
           <float>610.161</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -28751,13 +28314,12 @@
           <float>0</float>
           <float>0.866025</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-285.894</float>
           <float>10.8455</float>
           <float>584.736</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -28777,13 +28339,12 @@
           <float>0</float>
           <float>0.866025</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-277.315</float>
           <float>9.37914</float>
           <float>567.276</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -28803,13 +28364,12 @@
           <float>0</float>
           <float>0.866025</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-257.378</float>
           <float>14.1581</float>
           <float>575.72</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -28829,13 +28389,12 @@
           <float>0</float>
           <float>0.866025</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-257.515</float>
           <float>14.2122</float>
           <float>578.809</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -28855,13 +28414,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-279.787</float>
           <float>7.70802</float>
           <float>564.943</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -28881,13 +28439,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-338.677</float>
           <float>6.84228</float>
           <float>627.437</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -28907,13 +28464,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-338.513</float>
           <float>6.80012</float>
           <float>628.705</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -28933,13 +28489,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-339.653</float>
           <float>6.72411</float>
           <float>628.174</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -28959,13 +28514,12 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-340.024</float>
           <float>6.7982</float>
           <float>626.281</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -28985,13 +28539,12 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-310.855</float>
           <float>7.41964</float>
           <float>573.686</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29011,13 +28564,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-310.117</float>
           <float>7.74596</float>
           <float>574.884</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29037,13 +28589,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-312.1</float>
           <float>7.5639</float>
           <float>575.206</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29063,13 +28614,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-321.814</float>
           <float>6.38619</float>
           <float>597.138</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -29089,13 +28639,12 @@
           <float>0</float>
           <float>0.939693</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-323.031</float>
           <float>6.34793</float>
           <float>595.512</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29115,13 +28664,12 @@
           <float>0</float>
           <float>0.939693</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-322.403</float>
           <float>6.33826</float>
           <float>594.949</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29141,13 +28689,12 @@
           <float>0</float>
           <float>0.866025</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-258.189</float>
           <float>15.1055</float>
           <float>609.417</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -29167,13 +28714,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-262.098</float>
           <float>15.5687</float>
           <float>615.387</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29193,13 +28739,12 @@
           <float>0</float>
           <float>0.173649</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-262.1</float>
           <float>15.6388</float>
           <float>616.915</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29219,13 +28764,12 @@
           <float>0</float>
           <float>0.173649</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-258.618</float>
           <float>14.67</float>
           <float>601.017</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -29245,13 +28789,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-258.854</float>
           <float>14.5805</float>
           <float>599.656</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29271,13 +28814,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-604.251</float>
           <float>10.8531</float>
           <float>709.15</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29297,13 +28839,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-602.427</float>
           <float>10.8503</float>
           <float>708.336</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29323,13 +28864,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-603.318</float>
           <float>10.8895</float>
           <float>706.849</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29349,13 +28889,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-567.377</float>
           <float>25.0947</float>
           <float>552.833</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29375,13 +28914,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-566.249</float>
           <float>22.5142</float>
           <float>554.973</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29401,13 +28939,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-566.123</float>
           <float>23.3849</float>
           <float>552.258</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -29427,13 +28964,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-559.971</float>
           <float>17.6742</float>
           <float>543.867</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29453,13 +28989,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-558.327</float>
           <float>18.2129</float>
           <float>543.709</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29479,13 +29014,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-558.906</float>
           <float>18.8901</float>
           <float>546.329</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29505,13 +29039,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-558.997</float>
           <float>18.2324</float>
           <float>544.952</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29531,13 +29064,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-561.802</float>
           <float>15.0931</float>
           <float>561.166</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29557,13 +29089,12 @@
           <float>0</float>
           <float>-0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-561.486</float>
           <float>15.4436</float>
           <float>561.99</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29583,13 +29114,12 @@
           <float>0</float>
           <float>0.702016</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-545.507</float>
           <float>20.4358</float>
           <float>536.028</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29609,13 +29139,12 @@
           <float>-0</float>
           <float>-0.0587365</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-544.032</float>
           <float>20.2583</float>
           <float>535.894</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29635,13 +29164,12 @@
           <float>0</float>
           <float>0.989189</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-544.372</float>
           <float>20.1038</float>
           <float>537.286</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29661,13 +29189,12 @@
           <float>-0</float>
           <float>0.0904389</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-543.487</float>
           <float>20.8535</float>
           <float>543.304</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29687,13 +29214,12 @@
           <float>0</float>
           <float>0.236108</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-522.533</float>
           <float>13.1766</float>
           <float>557.964</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29713,13 +29239,12 @@
           <float>0</float>
           <float>0.998726</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-524.389</float>
           <float>13.1913</float>
           <float>559.997</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29739,13 +29264,12 @@
           <float>0</float>
           <float>0.92636</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-673.182</float>
           <float>29.9949</float>
           <float>528.933</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29765,13 +29289,12 @@
           <float>-0</float>
           <float>-0.995606</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-674.575</float>
           <float>29.3614</float>
           <float>528.916</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -29791,13 +29314,12 @@
           <float>0</float>
           <float>0.56852</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-675.137</float>
           <float>28.7773</float>
           <float>529.63</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29817,13 +29339,12 @@
           <float>-0</float>
           <float>-0.834157</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-696.112</float>
           <float>32.4783</float>
           <float>519.534</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29843,13 +29364,12 @@
           <float>0</float>
           <float>0.701046</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-694.537</float>
           <float>32.8835</float>
           <float>519.182</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -29869,13 +29389,12 @@
           <float>0</float>
           <float>-0.117273</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-694.371</float>
           <float>32.9516</float>
           <float>520.986</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -29895,13 +29414,12 @@
           <float>-0</float>
           <float>-0.522932</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-677.104</float>
           <float>22.3463</float>
           <float>540.302</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -29921,13 +29439,12 @@
           <float>-0</float>
           <float>-0.478962</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-678.046</float>
           <float>22.5966</float>
           <float>540.494</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -29947,13 +29464,12 @@
           <float>0</float>
           <float>0.935112</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-677.322</float>
           <float>22.1541</float>
           <float>540.97</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <string name="id">816</string>
@@ -30007,13 +29523,12 @@
           <float>0</float>
           <float>0.996195</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-638.254</float>
           <float>25.7501</float>
           <float>581.77</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -30033,13 +29548,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-639.596</float>
           <float>26.1994</float>
           <float>580.251</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -30059,13 +29573,12 @@
           <float>0</float>
           <float>0.984808</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-641.276</float>
           <float>25.4823</float>
           <float>580.762</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -30085,13 +29598,12 @@
           <float>0</float>
           <float>0.939693</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-643.443</float>
           <float>25.3925</float>
           <float>578.342</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -30111,13 +29623,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-640.454</float>
           <float>24.969</float>
           <float>583.031</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -30137,13 +29648,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-638.489</float>
           <float>25.0035</float>
           <float>583.593</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -30163,13 +29673,12 @@
           <float>0</float>
           <float>0.642788</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-643.578</float>
           <float>24.9352</float>
           <float>582.366</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -30382,71 +29891,6 @@
           <float>502.506</float>
         </list>
         <string name="roof">shale</string>
-        <map name="terrainmod">
-          <float name="heightoffset">0</float>
-          <map name="shape">
-            <list name="points">
-              <list>
-                <float>-0.0330088</float>
-                <float>3.35904</float>
-              </list>
-              <list>
-                <float>-8.21518</float>
-                <float>2.93664</float>
-              </list>
-              <list>
-                <float>-8.27803</float>
-                <float>2.38888</float>
-              </list>
-              <list>
-                <float>-10.0172</float>
-                <float>2.40824</float>
-              </list>
-              <list>
-                <float>-10.0154</float>
-                <float>0.235201</float>
-              </list>
-              <list>
-                <float>-8.26947</float>
-                <float>0.228893</float>
-              </list>
-              <list>
-                <float>-8.44085</float>
-                <float>-12.1663</float>
-              </list>
-              <list>
-                <float>3.99713</float>
-                <float>-12.5411</float>
-              </list>
-              <list>
-                <float>3.85007</float>
-                <float>-9.92374</float>
-              </list>
-              <list>
-                <float>6.66209</float>
-                <float>-10.1851</float>
-              </list>
-              <list>
-                <float>6.56119</float>
-                <float>-8.55103</float>
-              </list>
-              <list>
-                <float>7.0901</float>
-                <float>-8.5686</float>
-              </list>
-              <list>
-                <float>7.05797</float>
-                <float>-0.183271</float>
-              </list>
-              <list>
-                <float>-0.231897</float>
-                <float>-0.19835</float>
-              </list>
-            </list>
-            <string name="type">polygon</string>
-          </map>
-          <string name="type">levelmod</string>
-        </map>
       </map>
       <map>
         <map name="area">
@@ -31508,13 +30952,12 @@
           <float>0</float>
           <float>0.91855</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-768.815</float>
           <float>2.36108</float>
           <float>898.391</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -31534,13 +30977,12 @@
           <float>-0</float>
           <float>-0.993497</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-773.488</float>
           <float>1.3177</float>
           <float>902.871</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -31560,13 +31002,12 @@
           <float>-0</float>
           <float>-0.0728765</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-776.875</float>
           <float>1.34217</float>
           <float>901.355</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -31586,13 +31027,12 @@
           <float>-0</float>
           <float>0.124618</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-796.87</float>
           <float>2.0213</float>
           <float>893.17</float>
         </list>
-        <string name="species">oakleaf</string>
+        <string name="parent">oakleaf</string>
       </map>
       <map>
         <list name="bbox">
@@ -31612,13 +31052,12 @@
           <float>-0</float>
           <float>-0.954673</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-791.479</float>
           <float>2.7038</float>
           <float>892.222</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -31638,13 +31077,12 @@
           <float>-0</float>
           <float>-0.752628</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-793.629</float>
           <float>3.70057</float>
           <float>885.089</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -31664,13 +31102,12 @@
           <float>-0</float>
           <float>-0.827796</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-796.044</float>
           <float>4.88758</float>
           <float>870.426</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -31690,13 +31127,12 @@
           <float>0</float>
           <float>-0.612323</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-790.597</float>
           <float>4.83507</float>
           <float>875.514</float>
         </list>
-        <string name="species">magnolia</string>
+        <string name="parent">magnolia</string>
       </map>
       <map>
         <list name="bbox">
@@ -31716,13 +31152,12 @@
           <float>0</float>
           <float>0.506487</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-770.732</float>
           <float>2.41327</float>
           <float>861.526</float>
         </list>
-        <string name="species">wormwood</string>
+        <string name="parent">wormwood</string>
       </map>
       <map>
         <list name="bbox">
@@ -31742,13 +31177,12 @@
           <float>-0</float>
           <float>-0.646602</float>
         </list>
-        <string name="parent">shrub</string>
         <list name="pos">
           <float>-770.44</float>
           <float>2.63466</float>
           <float>870.384</float>
         </list>
-        <string name="species">willow</string>
+        <string name="parent">willow_bush</string>
       </map>
       <map>
         <list name="bbox">
@@ -31768,13 +31202,12 @@
           <float>-0</float>
           <float>-0.30136</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-767.569</float>
           <float>1.82516</float>
           <float>900.603</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -31794,13 +31227,12 @@
           <float>0</float>
           <float>-0.679683</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-798.946</float>
           <float>5.2626</float>
           <float>867.699</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -31820,13 +31252,12 @@
           <float>0</float>
           <float>-0.996252</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-796.527</float>
           <float>5.08706</float>
           <float>866.805</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -31846,13 +31277,12 @@
           <float>-0</float>
           <float>-0.200133</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-795.651</float>
           <float>3.24344</float>
           <float>889.091</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -31872,13 +31302,12 @@
           <float>-0</float>
           <float>0.616236</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-796.826</float>
           <float>3.04703</float>
           <float>890.071</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -31898,13 +31327,12 @@
           <float>0</float>
           <float>0.976691</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-795.622</float>
           <float>2.79465</float>
           <float>890.76</float>
         </list>
-        <string name="style">b</string>
+        <string name="parent">granite_b</string>
       </map>
       <map>
         <list name="bbox">
@@ -31924,13 +31352,12 @@
           <float>0</float>
           <float>0.941185</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-796.924</float>
           <float>4.96514</float>
           <float>869.195</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <list name="bbox">
@@ -31950,13 +31377,12 @@
           <float>0</float>
           <float>0.644021</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-769.617</float>
           <float>2.1826</float>
           <float>898.986</float>
         </list>
-        <string name="style">a</string>
+        <string name="parent">granite_a</string>
       </map>
       <map>
         <list name="bbox">
@@ -31976,13 +31402,12 @@
           <float>0</float>
           <float>0.999964</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-769.642</float>
           <float>1.9185</float>
           <float>900.557</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
       <map>
         <list name="bbox">
@@ -32002,13 +31427,12 @@
           <float>-0</float>
           <float>-0.93454</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-769.977</float>
           <float>1.68308</float>
           <float>901.913</float>
         </list>
-        <string name="style">d</string>
+        <string name="parent">granite_d</string>
       </map>
       <map>
         <string name="id">896</string>
@@ -32038,7 +31462,7 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -32224,7 +31648,7 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -32410,7 +31834,7 @@
           <float>0</float>
           <float>1</float>
         </list>
-        <string name="parent">trousers</string>
+        <string name="parent">pants</string>
         <list name="pos">
           <float>0</float>
           <float>0</float>
@@ -32586,13 +32010,12 @@
           <float>0</float>
           <float>-0.422619</float>
         </list>
-        <string name="parent">boulder</string>
         <list name="pos">
           <float>-261.375</float>
           <float>-2.41143</float>
           <float>611.928</float>
         </list>
-        <string name="style">c</string>
+        <string name="parent">granite_c</string>
       </map>
     </list>
     <map name="meta">
@@ -32623,7 +32046,7 @@
             <string name="subject">village</string>
           </map>
           <map>
-            <string name="object">(-881.000000, -795.000000, 4.000000)</string>
+            <string name="object">(-881.000000, 4.000000, 795.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">village</string>
           </map>
@@ -32654,7 +32077,7 @@
         <string name="id">584</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
+            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -32672,7 +32095,7 @@
         <string name="id">585</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
+            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -32690,7 +32113,7 @@
         <string name="id">586</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
+            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -32708,7 +32131,7 @@
         <string name="id">587</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
+            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -32726,7 +32149,7 @@
         <string name="id">588</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-886.000000, -787.000000, 3.000000)</string>
+            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
             <string name="predicate">location</string>
             <string name="subject">w1</string>
           </map>
@@ -32744,7 +32167,7 @@
         <string name="id">683</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-268.43, -610.678, 13.9254)</string>
+            <string name="object">(-268.43, 13.9254, 610.678)</string>
             <string name="predicate">location</string>
             <string name="subject">origin</string>
           </map>
@@ -32758,7 +32181,7 @@
         <string name="id">684</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-270.145, -612.223, 13.4949)</string>
+            <string name="object">(-270.145, 13.4949, 612.223)</string>
             <string name="predicate">location</string>
             <string name="subject">origin</string>
           </map>
@@ -32772,7 +32195,7 @@
         <string name="id">685</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-264.711, -601.085, 13.5281)</string>
+            <string name="object">(-264.711, 13.5281, 601.085)</string>
             <string name="predicate">location</string>
             <string name="subject">origin</string>
           </map>
@@ -32786,7 +32209,7 @@
         <string name="id">686</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-263.781, -599.562, 13.2177)</string>
+            <string name="object">(-263.781, 13.2177, 599.562)</string>
             <string name="predicate">location</string>
             <string name="subject">origin</string>
           </map>
@@ -32800,7 +32223,7 @@
         <string name="id">687</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-277.817, -602.903, 12.36)</string>
+            <string name="object">(-277.817, 12.36, 602.903)</string>
             <string name="predicate">location</string>
             <string name="subject">origin</string>
           </map>
@@ -32814,7 +32237,7 @@
         <string name="id">688</string>
         <list name="thoughts">
           <map>
-            <string name="object">(-260.719, -607.016, 14.3258)</string>
+            <string name="object">(-260.719, 14.3258, 607.016)</string>
             <string name="predicate">location</string>
             <string name="subject">origin</string>
           </map>
