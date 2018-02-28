@@ -18731,14 +18731,6 @@
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-512</float>
-          <float>-32</float>
-          <float>-512</float>
-          <float>512</float>
-          <float>0</float>
-          <float>512</float>
-        </list>
         <string name="id">374</string>
         <string name="objtype">obj</string>
         <list name="orientation">
