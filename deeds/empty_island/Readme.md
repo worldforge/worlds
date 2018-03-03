@@ -1,4 +1,4 @@
-#Empty Flat World
+# Empty Flat World
 
 A flat and empty world surrounded by water, suitable for starting out.
 

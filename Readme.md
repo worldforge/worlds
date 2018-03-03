@@ -1,4 +1,4 @@
-#Worldforge Worlds
+# Worldforge Worlds
 
 This is a collection of worlds for the [Worldforge](http://www.worldforge.org/) system. They are meant to be imported into a running [Cyphesis](https://github.com/worldforge/cyphesis) server using either the `cyimport` console command, or the [Ember](https://github.com/worldforge/ember) client.
 The worlds are organized by rulesets. The current default ruleset of Cyphesis is "Deeds".
@@ -7,7 +7,7 @@ If you want to build and run a server yourself we recommend using the [Hammer](h
 
 For licensing see the file COPYING.
 
-##Importing worlds
+## Importing worlds
 
 Use the `cyimport` command to import worlds into a running instance of Cyphesis.
 ```
@@ -20,7 +20,7 @@ For example
 cyimport --clear deeds/empty_island/world.xml
 ```
 
-##Exporting worlds
+## Exporting worlds
 
 Use the `cyexport` command to export worlds from a running instance of Cyphesis.
 ```
