@@ -37,7 +37,6 @@
         </list>
         <list name="contains">
           <string>2</string>
-          <string>3</string>
         </list>
 	    <int name="default_location">1</int>
         <string name="id">1</string>
@@ -47,7 +46,7 @@
         <list name="pos">
           <float>0</float>
           <float>0</float>
-          <float>-0</float>
+          <float>0</float>
         </list>
         <map name="terrain">
           <map name="points">
@@ -144,7 +143,7 @@
         <list name="orientation">
           <float>0</float>
           <float>0</float>
-          <float>-0</float>
+          <float>0</float>
           <float>1</float>
         </list>
         <string name="parent">region</string>
@@ -161,31 +160,6 @@
           </map>
           <string name="name">entry</string>
         </map>
-      </map>
-      <map>
-        <string name="id">3</string>
-        <string name="objtype">obj</string>
-        <float name="mass">1000</float>
-        <list name="bbox">
-          <float>-1</float>
-          <float>0</float>
-          <float>-1</float>
-          <float>1</float>
-          <float>2</float>
-          <float>1</float>
-        </list>
-        <list name="orientation">
-          <float>0</float>
-          <float>0</float>
-          <float>-0</float>
-          <float>1</float>
-        </list>
-        <string name="parent">granite_a</string>
-        <list name="pos">
-          <float>-32</float>
-          <float>10</float>
-          <float>20</float>
-        </list>
       </map>
     </list>
     <map name="meta">
