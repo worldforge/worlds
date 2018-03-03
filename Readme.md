@@ -1,5 +1,7 @@
 # Worldforge Worlds
 
+[![Join us on Gitter!](https://badges.gitter.im/Worldforge.svg)](https://gitter.im/Worldforge/Lobby)
+
 This is a collection of worlds for the [Worldforge](http://www.worldforge.org/) system. They are meant to be imported into a running [Cyphesis](https://github.com/worldforge/cyphesis) server using either the `cyimport` console command, or the [Ember](https://github.com/worldforge/ember) client.
 The worlds are organized by rulesets. The current default ruleset of Cyphesis is "Deeds".
 
