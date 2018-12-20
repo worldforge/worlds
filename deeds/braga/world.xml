@@ -9656,6 +9656,42 @@
           <float>8.28854</float>
           <float>910.143</float>
         </list>
+        <map name="_knowledge">
+          <string name="about:this place">This is the main docks of this small island. Most visitors arrive here by boat.</string>
+          <string name="about:village">The village lies beyond this path. Follow it left when it forks</string>
+          <list name="location:village">
+            <float>-881.000000</float>
+            <float>4.000000</float>
+            <float>795.000000</float>
+          </list>
+        </map>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.humanoid.mason.add_help</string>
+            <map name="params">
+              <list name="messages">
+                <string>Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.</string>
+              </list>
+              <list name="responses">
+                <string>Tell me about this place.&apos;, &apos;Tell me about village.</string>
+              </list>
+            </map>
+          </map>
+          <map>
+            <string name="class">mind.goals.common.move.avoid</string>
+            <map name="params">
+              <string name="what">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
+              <float name="range">30</float>
+            </map>
+          </map>
+          <map>
+            <string name="class">mind.goals.humanoid.mason.welcome</string>
+            <map name="params">
+              <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
+              <string name="what">entity instance_of types.human</string>
+            </map>
+          </map>
+        </list>
       </map>
       <map>
         <map name="area">
@@ -12019,6 +12055,13 @@
           <float>5.20955</float>
           <float>784.648</float>
         </list>
+        <map>
+          <string name="class">mind.goals.common.move.avoid</string>
+          <map name="params">
+            <string name="what">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
+            <float name="range">30</float>
+          </map>
+        </map>
       </map>
       <map>
         <string name="id">154</string>
@@ -26799,6 +26842,24 @@
           <float>14.2777</float>
           <float>610.678</float>
         </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.roam</string>
+            <map name="params">
+              <float name="radius">30</float>
+              <list name="locations">
+                <string>origin</string>
+              </list>
+              <map name="extragoal">
+                <string name="class">mind.goals.common.misc_goal.Linger</string>
+                <map name="params">
+                  <int name="min_ticks">5</int>
+                  <int name="max_ticks">10</int>
+                </map>
+              </map>
+            </map>
+          </map>
+        </list>
       </map>
       <map>
         <string name="id">684</string>
@@ -26816,6 +26877,24 @@
           <float>-270.145</float>
           <float>14.6124</float>
           <float>612.223</float>
+        </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.roam</string>
+            <map name="params">
+              <float name="radius">30</float>
+              <list name="locations">
+                <string>origin</string>
+              </list>
+              <map name="extragoal">
+                <string name="class">mind.goals.common.misc_goal.Linger</string>
+                <map name="params">
+                  <int name="min_ticks">5</int>
+                  <int name="max_ticks">10</int>
+                </map>
+              </map>
+            </map>
+          </map>
         </list>
       </map>
       <map>
@@ -26835,6 +26914,24 @@
           <float>13.5281</float>
           <float>601.085</float>
         </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.roam</string>
+            <map name="params">
+              <float name="radius">30</float>
+              <list name="locations">
+                <string>origin</string>
+              </list>
+              <map name="extragoal">
+                <string name="class">mind.goals.common.misc_goal.Linger</string>
+                <map name="params">
+                  <int name="min_ticks">5</int>
+                  <int name="max_ticks">10</int>
+                </map>
+              </map>
+            </map>
+          </map>
+        </list>
       </map>
       <map>
         <string name="id">686</string>
@@ -26853,6 +26950,24 @@
           <float>13.2177</float>
           <float>599.562</float>
         </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.roam</string>
+            <map name="params">
+              <float name="radius">30</float>
+              <list name="locations">
+                <string>origin</string>
+              </list>
+              <map name="extragoal">
+                <string name="class">mind.goals.common.misc_goal.Linger</string>
+                <map name="params">
+                  <int name="min_ticks">5</int>
+                  <int name="max_ticks">10</int>
+                </map>
+              </map>
+            </map>
+          </map>
+        </list>
       </map>
       <map>
         <string name="id">687</string>
@@ -26870,6 +26985,24 @@
           <float>-277.817</float>
           <float>12.8046</float>
           <float>602.903</float>
+        </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.roam</string>
+            <map name="params">
+              <float name="radius">30</float>
+              <list name="locations">
+                <string>origin</string>
+              </list>
+              <map name="extragoal">
+                <string name="class">mind.goals.common.misc_goal.Linger</string>
+                <map name="params">
+                  <int name="min_ticks">5</int>
+                  <int name="max_ticks">10</int>
+                </map>
+              </map>
+            </map>
+          </map>
         </list>
       </map>
       <map>
@@ -26896,6 +27029,24 @@
           <float>-260.719</float>
           <float>14.4717</float>
           <float>607.016</float>
+        </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.roam</string>
+            <map name="params">
+              <float name="radius">30</float>
+              <list name="locations">
+                <string>origin</string>
+              </list>
+              <map name="extragoal">
+                <string name="class">mind.goals.common.misc_goal.Linger</string>
+                <map name="params">
+                  <int name="min_ticks">5</int>
+                  <int name="max_ticks">10</int>
+                </map>
+              </map>
+            </map>
+          </map>
         </list>
       </map>
       <map>
@@ -32916,223 +33067,6 @@
       <string name="timestamp">1516653731487</string>
       <int name="transients">0</int>
     </map>
-    <list name="minds">
-      <map>
-        <string name="id">67</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">This is the main docks of this small island. Most visitors arrive here by boat</string>
-            <string name="predicate">about</string>
-            <string name="subject">this place</string>
-          </map>
-          <map>
-            <string name="object">The village lies beyond this path. Follow it left when it forks.</string>
-            <string name="predicate">about</string>
-            <string name="subject">village</string>
-          </map>
-          <map>
-            <string name="object">(-881.000000, 4.000000, 795.000000)</string>
-            <string name="predicate">location</string>
-            <string name="subject">village</string>
-          </map>
-          <map>
-            <string name="goal">add_help(messages=[&apos;Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])</string>
-            <string name="id">add_help(messages=[&apos;Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.&apos;], responses=[&apos;Tell me about this place.&apos;, &apos;Tell me about village.&apos;])</string>
-          </map>
-          <map>
-            <string name="goal">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
-            <string name="id">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
-          </map>
-          <map>
-            <string name="goal">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, what=&apos;entity.type instance_of types.human&apos;)</string>
-            <string name="id">welcome(message=&apos;Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.&apos;, what=&apos;entity.type instance_of types.human&apos;)</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">153</string>
-        <list name="thoughts">
-          <map>
-            <string name="goal">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
-            <string name="id">avoid(&apos;entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych&apos;,30.0)</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">584</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
-            <string name="predicate">location</string>
-            <string name="subject">w1</string>
-          </map>
-          <map>
-            <string name="goal">peck()</string>
-            <string name="id">peck()</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
-            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">585</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
-            <string name="predicate">location</string>
-            <string name="subject">w1</string>
-          </map>
-          <map>
-            <string name="goal">peck()</string>
-            <string name="id">peck()</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
-            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">586</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
-            <string name="predicate">location</string>
-            <string name="subject">w1</string>
-          </map>
-          <map>
-            <string name="goal">peck()</string>
-            <string name="id">peck()</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
-            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">587</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
-            <string name="predicate">location</string>
-            <string name="subject">w1</string>
-          </map>
-          <map>
-            <string name="goal">peck()</string>
-            <string name="id">peck()</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
-            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">588</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-886.000000, 3.000000, 787.000000)</string>
-            <string name="predicate">location</string>
-            <string name="subject">w1</string>
-          </map>
-          <map>
-            <string name="goal">peck()</string>
-            <string name="id">peck()</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;w1&apos;])</string>
-            <string name="id">roam(radius=30, locations=[&apos;w1&apos;])</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">683</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-268.43, 13.9254, 610.678)</string>
-            <string name="predicate">location</string>
-            <string name="subject">origin</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">684</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-270.145, 13.4949, 612.223)</string>
-            <string name="predicate">location</string>
-            <string name="subject">origin</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">685</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-264.711, 13.5281, 601.085)</string>
-            <string name="predicate">location</string>
-            <string name="subject">origin</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">686</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-263.781, 13.2177, 599.562)</string>
-            <string name="predicate">location</string>
-            <string name="subject">origin</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">687</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-277.817, 12.36, 602.903)</string>
-            <string name="predicate">location</string>
-            <string name="subject">origin</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-          </map>
-        </list>
-      </map>
-      <map>
-        <string name="id">688</string>
-        <list name="thoughts">
-          <map>
-            <string name="object">(-260.719, 14.3258, 607.016)</string>
-            <string name="predicate">location</string>
-            <string name="subject">origin</string>
-          </map>
-          <map>
-            <string name="goal">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-            <string name="id">roam(radius=30, locations=[&apos;origin&apos;], extragoal = mind.goals.linger(5,10))</string>
-          </map>
-        </list>
-      </map>
-    </list>
   </map>
 
 </atlas>
