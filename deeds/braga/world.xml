@@ -9585,14 +9585,6 @@
         <string name="style">gnarly</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>0</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>2</float>
-          <float>0.25</float>
-        </list>
         <list name="contains">
           <string>896</string>
           <string>897</string>
@@ -9633,22 +9625,17 @@
           <float>0</float>
           <float>0.962792</float>
         </list>
-        <map name="outfit">
-          <map name="back">
-            <string name="$eid">898</string>
-          </map>
-          <map name="body">
-            <string name="$eid">896</string>
-          </map>
-          <map name="feet">
-            <string name="$eid">899</string>
-          </map>
-          <map name="head">
-            <string name="$eid">900</string>
-          </map>
-          <map name="legs">
-            <string name="$eid">897</string>
-          </map>
+        <map name="attached_torso">
+          <string name="$eid">896</string>
+        </map>
+        <map name="attached_feet">
+          <string name="$eid">899</string>
+        </map>
+        <map name="attached_head">
+          <string name="$eid">900</string>
+        </map>
+        <map name="attached_legs">
+          <string name="$eid">897</string>
         </map>
         <string name="parent">human</string>
         <list name="pos">
@@ -12032,22 +12019,17 @@
           <float>0</float>
           <float>0.906308</float>
         </list>
-        <map name="outfit">
-          <map name="back">
-            <string name="$eid">909</string>
-          </map>
-          <map name="body">
-            <string name="$eid">907</string>
-          </map>
-          <map name="feet">
-            <string name="$eid">910</string>
-          </map>
-          <map name="head">
-            <string name="$eid">911</string>
-          </map>
-          <map name="legs">
-            <string name="$eid">908</string>
-          </map>
+        <map name="attached_torso">
+          <string name="$eid">907</string>
+        </map>
+        <map name="attached_feet">
+          <string name="$eid">910</string>
+        </map>
+        <map name="attached_head">
+          <string name="$eid">911</string>
+        </map>
+        <map name="attached_legs">
+          <string name="$eid">908</string>
         </map>
         <string name="parent">human</string>
         <list name="pos">
@@ -14594,22 +14576,17 @@
           <float>0</float>
           <float>0.906308</float>
         </list>
-        <map name="outfit">
-          <map name="back">
-            <string name="$eid">920</string>
-          </map>
-          <map name="body">
-            <string name="$eid">918</string>
-          </map>
-          <map name="feet">
-            <string name="$eid">921</string>
-          </map>
-          <map name="head">
-            <string name="$eid">922</string>
-          </map>
-          <map name="legs">
-            <string name="$eid">919</string>
-          </map>
+        <map name="attached_body">
+          <string name="$eid">918</string>
+        </map>
+        <map name="attached_feet">
+          <string name="$eid">921</string>
+        </map>
+        <map name="attached_head">
+          <string name="$eid">922</string>
+        </map>
+        <map name="attached_legs">
+          <string name="$eid">919</string>
         </map>
         <string name="parent">human</string>
         <list name="pos">
