@@ -1,182 +1,258 @@
 <atlas>
 
-  <map>
-    <list name="entities">
-      <map>
-        <list name="bbox">
-          <float>-64</float>
-          <float>-5</float>
-          <float>-64</float>
-          <float>64</float>
-          <float>512</float>
-          <float>64</float>
+    <map>
+        <list name="entities">
+            <map>
+                <list name="bbox">
+                    <float>-64</float>
+                    <float>-5</float>
+                    <float>-64</float>
+                    <float>64</float>
+                    <float>512</float>
+                    <float>64</float>
+                </list>
+                <map name="calendar">
+                    <int name="days_per_month">28</int>
+                    <int name="hours_per_day">24</int>
+                    <int name="minutes_per_hour">60</int>
+                    <int name="months_per_year">12</int>
+                    <int name="seconds_per_minute">20</int>
+                </map>
+                <list name="contains">
+                    <string>1</string>
+                </list>
+                <string name="id">0</string>
+                <string name="name">world</string>
+                <string name="objtype">obj</string>
+                <string name="parent">world</string>
+            </map>
+            <map>
+                <list name="bbox">
+                    <float>-64</float>
+                    <float>-5</float>
+                    <float>-64</float>
+                    <float>64</float>
+                    <float>512</float>
+                    <float>64</float>
+                </list>
+                <list name="contains">
+                    <string>2</string>
+                    <string>3</string>
+                </list>
+                <int name="default_location">1</int>
+                <string name="id">1</string>
+                <string name="name">the world</string>
+                <string name="objtype">obj</string>
+                <string name="parent">land</string>
+                <list name="pos">
+                    <float>0</float>
+                    <float>0</float>
+                    <float>0</float>
+                </list>
+                <map name="terrain">
+                    <map name="points">
+                        <list name="-1x-1">
+                            <float>-1</float>
+                            <float>1</float>
+                            <float>20</float>
+                        </list>
+                        <list name="-1x0">
+                            <float>-1</float>
+                            <float>-0</float>
+                            <float>7</float>
+                        </list>
+                        <list name="-1x1">
+                            <float>-1</float>
+                            <float>-1</float>
+                            <float>9</float>
+                        </list>
+                        <list name="0x-1">
+                            <float>0</float>
+                            <float>1</float>
+                            <float>6</float>
+                        </list>
+                        <list name="0x0">
+                            <float>0</float>
+                            <float>-0</float>
+                            <float>5</float>
+                        </list>
+                        <list name="0x1">
+                            <float>0</float>
+                            <float>-1</float>
+                            <float>4</float>
+                        </list>
+                        <list name="1x-1">
+                            <float>1</float>
+                            <float>1</float>
+                            <float>4</float>
+                        </list>
+                        <list name="1x0">
+                            <float>1</float>
+                            <float>-0</float>
+                            <float>3</float>
+                        </list>
+                        <list name="1x1">
+                            <float>1</float>
+                            <float>-1</float>
+                            <float>10</float>
+                        </list>
+                    </map>
+                    <list name="surfaces">
+                        <map>
+                            <string name="name">rock</string>
+                            <string name="pattern">fill</string>
+                        </map>
+                        <map>
+                            <string name="name">sand</string>
+                            <map name="params">
+                                <float name="highThreshold">1.5</float>
+                                <float name="lowThreshold">-2</float>
+                            </map>
+                            <string name="pattern">band</string>
+                        </map>
+                        <map>
+                            <string name="name">grass</string>
+                            <map name="params">
+                                <float name="cutoff">0.5</float>
+                                <float name="highThreshold">80</float>
+                                <float name="intercept">1</float>
+                                <float name="lowThreshold">1</float>
+                            </map>
+                            <string name="pattern">grass</string>
+                        </map>
+                        <map>
+                            <string name="name">silt</string>
+                            <map name="params">
+                                <float name="murkyDepth">-10</float>
+                                <float name="waterLevel">0</float>
+                            </map>
+                            <string name="pattern">depth</string>
+                        </map>
+                        <map>
+                            <string name="name">snow</string>
+                            <map name="params">
+                                <float name="threshold">110</float>
+                            </map>
+                            <string name="pattern">high</string>
+                        </map>
+                    </list>
+                </map>
+            </map>
+            <map>
+                <string name="id">2</string>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                    <float>0</float>
+                    <float>0</float>
+                    <float>0</float>
+                    <float>1</float>
+                </list>
+                <string name="parent">region</string>
+                <list name="pos">
+                    <float>-32</float>
+                    <float>5</float>
+                    <float>32</float>
+                </list>
+                <map name="spawn">
+                    <map name="entities">
+                        <map name="settler">
+                            <int name="immortal">1</int>
+                            <string name="parent">settler</string>
+                        </map>
+                    </map>
+                    <string name="name">entry</string>
+                </map>
+            </map>
+            <map>
+                <string name="id">3</string>
+                <map name="mind">
+                    <string name="language">python</string>
+                    <string name="name">mind.NPCMind.NPCMind</string>
+                </map>
+                <string name="name">Dyfed Searae</string>
+                <string name="objtype">obj</string>
+                <map name="mode_data"><string name="mode">planted</string><string name="$eid">2</string></map>
+                <string name="parent">settler</string>
+                <list name="pos">
+                    <float>0</float>
+                    <float>0</float>
+                    <float>0</float>
+                </list>
+                <map name="_knowledge">
+                    <string name="about:this place">This is the main docks of this small island. Most visitors arrive here by boat.</string>
+                    <string name="about:village">The village lies beyond this path. Follow it left when it forks</string>
+                    <list name="location:w1">
+                        <float>0</float>
+                        <float>0</float>
+                        <float>0</float>
+                    </list>
+                    <list name="location:w2">
+                        <float>10</float>
+                        <float>0</float>
+                        <float>0</float>
+                    </list>
+                </map>
+                <list name="_relations">
+                    <map>
+                        <string name="filter">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
+                        <float name="disposition">-10</float>
+                        <float name="threat">10</float>
+                    </map>
+                    <map>
+                        <string name="filter">entity.type=types.pig</string>
+                        <float name="disposition">-10</float>
+                        <float name="threat">-10</float>
+                    </map>
+                </list>
+                <list name="_goals">
+                    <map>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.humanoid.mason.add_help</string>
+                        <map name="params">
+                            <list name="messages">
+                                <string>Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.</string>
+                            </list>
+                            <list name="responses">
+                                <string>Tell me about this place.&apos;, &apos;Tell me about village.</string>
+                            </list>
+                        </map>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.patrol</string>
+                        <map name="params">
+                            <list name="locations">
+                                <string>w1</string>
+                                <string>w2</string>
+                            </list>
+                        </map>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.humanoid.mason.welcome</string>
+                        <map name="params">
+                            <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
+                            <string name="what">entity instance_of types.human</string>
+                        </map>
+                    </map>
+                </list>
+            </map>
         </list>
-        <map name="calendar">
-          <int name="days_per_month">28</int>
-          <int name="hours_per_day">24</int>
-          <int name="minutes_per_hour">60</int>
-          <int name="months_per_year">12</int>
-          <int name="seconds_per_minute">20</int>
+        <map name="meta">
+            <string name="description">An empty small world, containing nothing except for some flat terrain. This is mainly meant to be used as a starting ground for new worlds, or as a test world for development.</string>
+            <string name="name">Empty small</string>
+            <int name="preserved_ids">0</int>
+            <map name="server">
+                <string name="host">localhost.localdomain</string>
+                <string name="name">localhost.localdomain</string>
+                <string name="ruleset">deeds</string>
+                <string name="version">0.6.3</string>
+            </map>
+            <string name="timestamp">1394201004834</string>
+            <int name="transients">0</int>
         </map>
-        <list name="contains">
-          <string>1</string>
+        <list name="minds">
         </list>
-        <string name="id">0</string>
-        <string name="name">world</string>
-        <string name="objtype">obj</string>
-        <string name="parent">world</string>
-      </map>
-      <map>
-        <list name="bbox">
-          <float>-64</float>
-          <float>-5</float>
-          <float>-64</float>
-          <float>64</float>
-          <float>512</float>
-          <float>64</float>
-        </list>
-        <list name="contains">
-          <string>2</string>
-        </list>
-	    <int name="default_location">1</int>
-        <string name="id">1</string>
-        <string name="name">the world</string>
-        <string name="objtype">obj</string>
-        <string name="parent">land</string>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
-        <map name="terrain">
-          <map name="points">
-            <list name="-1x-1">
-              <float>-1</float>
-              <float>1</float>
-              <float>20</float>
-            </list>
-            <list name="-1x0">
-              <float>-1</float>
-              <float>-0</float>
-              <float>7</float>
-            </list>
-            <list name="-1x1">
-              <float>-1</float>
-              <float>-1</float>
-              <float>9</float>
-            </list>
-            <list name="0x-1">
-              <float>0</float>
-              <float>1</float>
-              <float>6</float>
-            </list>
-            <list name="0x0">
-              <float>0</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="0x1">
-              <float>0</float>
-              <float>-1</float>
-              <float>4</float>
-            </list>
-            <list name="1x-1">
-              <float>1</float>
-              <float>1</float>
-              <float>4</float>
-            </list>
-            <list name="1x0">
-              <float>1</float>
-              <float>-0</float>
-              <float>3</float>
-            </list>
-            <list name="1x1">
-              <float>1</float>
-              <float>-1</float>
-              <float>10</float>
-            </list>
-          </map>
-          <list name="surfaces">
-            <map>
-              <string name="name">rock</string>
-              <string name="pattern">fill</string>
-            </map>
-            <map>
-              <string name="name">sand</string>
-              <map name="params">
-                <float name="highThreshold">1.5</float>
-                <float name="lowThreshold">-2</float>
-              </map>
-              <string name="pattern">band</string>
-            </map>
-            <map>
-              <string name="name">grass</string>
-              <map name="params">
-                <float name="cutoff">0.5</float>
-                <float name="highThreshold">80</float>
-                <float name="intercept">1</float>
-                <float name="lowThreshold">1</float>
-              </map>
-              <string name="pattern">grass</string>
-            </map>
-            <map>
-              <string name="name">silt</string>
-              <map name="params">
-                <float name="murkyDepth">-10</float>
-                <float name="waterLevel">0</float>
-              </map>
-              <string name="pattern">depth</string>
-            </map>
-            <map>
-              <string name="name">snow</string>
-              <map name="params">
-                <float name="threshold">110</float>
-              </map>
-              <string name="pattern">high</string>
-            </map>
-          </list>
-        </map>
-      </map>
-      <map>
-        <string name="id">2</string>
-        <string name="objtype">obj</string>
-        <list name="orientation">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-          <float>1</float>
-        </list>
-        <string name="parent">region</string>
-        <list name="pos">
-          <float>-32</float>
-          <float>5</float>
-          <float>32</float>
-        </list>
-        <map name="spawn">
-          <map name="entities">
-            <map name="settler">
-              <string name="parent">settler</string>
-            </map>
-          </map>
-          <string name="name">entry</string>
-        </map>
-      </map>
-    </list>
-    <map name="meta">
-      <string name="description">An empty small world, containing nothing except for some flat terrain. This is mainly meant to be used as a starting ground for new worlds, or as a test world for development.</string>
-      <string name="name">Empty small</string>
-      <int name="preserved_ids">0</int>
-      <map name="server">
-        <string name="host">localhost.localdomain</string>
-        <string name="name">localhost.localdomain</string>
-        <string name="ruleset">deeds</string>
-        <string name="version">0.6.3</string>
-      </map>
-      <string name="timestamp">1394201004834</string>
-      <int name="transients">0</int>
     </map>
-    <list name="minds">
-    </list>
-  </map>
 
 </atlas>
