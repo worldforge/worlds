@@ -26,7 +26,6 @@
         <string name="name">world</string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
-        <int name="suspended">1</int>
       </map>
       <map>
         <string name="domain">void</string>

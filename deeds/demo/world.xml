@@ -26,7 +26,6 @@
         <string name="name">root</string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
-        <int name="suspended">0</int>
       </map>
       <map>
         <list name="contains">
