@@ -34068,12 +34068,22 @@
                 <string name="objtype">obj</string>
                 <string name="parent">shirt</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">67</string>
+                    <string name="attachment">torso</string>
+                </map>
             </map>
             <map>
                 <string name="id">897</string>                
                 <string name="objtype">obj</string>
                 <string name="parent">pants</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">67</string>
+                    <string name="attachment">legs</string>
+                </map>
             </map>
             <map>
                 <string name="id">898</string>                
@@ -34086,12 +34096,22 @@
                 <string name="objtype">obj</string>
                 <string name="parent">boots</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">67</string>
+                    <string name="attachment">feet</string>
+                </map>
             </map>
             <map>
                 <string name="id">900</string>                
                 <string name="objtype">obj</string>
                 <string name="parent">hat</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">67</string>
+                    <string name="attachment">head</string>
+                </map>
             </map>
             <map>
                 <string name="id">901</string>
@@ -34104,12 +34124,22 @@
                 <string name="objtype">obj</string>
                 <string name="parent">shirt</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">torso</string>
+                </map>
             </map>
             <map>
                 <string name="id">908</string>                
                 <string name="objtype">obj</string>
                 <string name="parent">pants</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">legs</string>
+                </map>
             </map>
             <map>
                 <string name="id">909</string>                
@@ -34122,12 +34152,22 @@
                 <string name="objtype">obj</string>
                 <string name="parent">boots</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">feet</string>
+                </map>
             </map>
             <map>
                 <string name="id">911</string>                
                 <string name="objtype">obj</string>
                 <string name="parent">hat</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">head</string>
+                </map>
             </map>
             <map>
                 <string name="id">912</string>
@@ -34140,12 +34180,22 @@
                 <string name="objtype">obj</string>
                 <string name="parent">shirt</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">242</string>
+                    <string name="attachment">torso</string>
+                </map>
             </map>
             <map>
                 <string name="id">919</string>                
                 <string name="objtype">obj</string>
                 <string name="parent">pants</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">legs</string>
+                </map>
             </map>
             <map>
                 <string name="id">920</string>                
@@ -34158,12 +34208,22 @@
                 <string name="objtype">obj</string>
                 <string name="parent">boots</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">feet</string>
+                </map>
             </map>
             <map>
                 <string name="id">922</string>                
                 <string name="objtype">obj</string>
                 <string name="parent">hat</string>
                 <string name="style">fine</string>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">153</string>
+                    <string name="attachment">head</string>
+                </map>
             </map>
             <map>
                 <string name="id">923</string>
