@@ -10302,7 +10302,7 @@
                             <list name="entities">
                                 <map>
                                     <string name="id">main</string>
-                                    <string name="respawning">cemetery</string>
+                                    <string name="_respawning">cemetery</string>
                                 </map>
                             </list>
                             <string name="objtype">archetype</string>
