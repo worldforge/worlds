@@ -199,18 +199,13 @@
                         <float name="disposition">-10</float>
                         <float name="threat">10</float>
                     </map>
-                    <map>
-                        <string name="filter">entity.type=types.pig</string>
-                        <float name="disposition">-10</float>
-                        <float name="threat">-10</float>
-                    </map>
                 </list>
                 <list name="_goals">
                     <map>
                         <string name="class">mind.goals.common.combat.FightOrFlight</string>
                     </map>
                     <map>
-                        <string name="class">mind.goals.humanoid.mason.add_help</string>
+                        <string name="class">mind.goals.humanoid.mason.AddHelp</string>
                         <map name="params">
                             <list name="messages">
                                 <string>Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.</string>
@@ -221,7 +216,7 @@
                         </map>
                     </map>
                     <map>
-                        <string name="class">mind.goals.common.move.patrol</string>
+                        <string name="class">mind.goals.common.move.Patrol</string>
                         <map name="params">
                             <list name="locations">
                                 <string>w1</string>
@@ -230,7 +225,7 @@
                         </map>
                     </map>
                     <map>
-                        <string name="class">mind.goals.humanoid.mason.welcome</string>
+                        <string name="class">mind.goals.humanoid.mason.Welcome</string>
                         <map name="params">
                             <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
                             <string name="what">entity instance_of types.human</string>

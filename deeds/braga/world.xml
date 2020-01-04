@@ -9762,9 +9762,19 @@
                         <float>795.000000</float>
                     </list>
                 </map>
+                <list name="_relations">
+                    <map>
+                        <string name="filter">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
+                        <float name="disposition">-10</float>
+                        <float name="threat">10</float>
+                    </map>
+                </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.humanoid.mason.add_help</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.humanoid.mason.AddHelp</string>
                         <map name="params">
                             <list name="messages">
                                 <string>Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.</string>
@@ -9775,14 +9785,7 @@
                         </map>
                     </map>
                     <map>
-                        <string name="class">mind.goals.common.move.avoid</string>
-                        <map name="params">
-                            <string name="what">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
-                            <float name="range">30</float>
-                        </map>
-                    </map>
-                    <map>
-                        <string name="class">mind.goals.humanoid.mason.welcome</string>
+                        <string name="class">mind.goals.humanoid.mason.Welcome</string>
                         <map name="params">
                             <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
                             <string name="what">entity instance_of types.human</string>
@@ -28026,7 +28029,10 @@
                 </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.common.move.roam</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.Roam</string>
                         <map name="params">
                             <float name="radius">30</float>
                             <list name="locations">
@@ -28064,7 +28070,10 @@
                 </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.common.move.roam</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.Roam</string>
                         <map name="params">
                             <float name="radius">30</float>
                             <list name="locations">
@@ -28102,7 +28111,10 @@
                 </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.common.move.roam</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.Roam</string>
                         <map name="params">
                             <float name="radius">30</float>
                             <list name="locations">
@@ -28140,7 +28152,10 @@
                 </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.common.move.roam</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.Roam</string>
                         <map name="params">
                             <float name="radius">30</float>
                             <list name="locations">
@@ -28178,7 +28193,10 @@
                 </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.common.move.roam</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.Roam</string>
                         <map name="params">
                             <float name="radius">30</float>
                             <list name="locations">
@@ -28196,15 +28214,8 @@
                 </list>
             </map>
             <map>
-                <list name="bbox">
-                    <float>-0.281955</float>
-                    <float>0</float>
-                    <float>-0.281955</float>
-                    <float>0.281955</float>
-                    <float>2.25564</float>
-                    <float>0.281955</float>
-                </list>
-                <string name="id">688</string>                
+                <float name="scale">1.5</float>
+                <string name="id">688</string>
                 <string name="objtype">obj</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
@@ -28224,7 +28235,10 @@
                 </list>
                 <list name="_goals">
                     <map>
-                        <string name="class">mind.goals.common.move.roam</string>
+                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
+                    </map>
+                    <map>
+                        <string name="class">mind.goals.common.move.Roam</string>
                         <map name="params">
                             <float name="radius">30</float>
                             <list name="locations">
@@ -28242,15 +28256,7 @@
                 </list>
             </map>
             <map>
-                <list name="bbox">
-                    <float>-2.91826</float>
-                    <float>0</float>
-                    <float>-2.91826</float>
-                    <float>2.91826</float>
-                    <float>5.83653</float>
-                    <float>2.91826</float>
-                </list>
-                <string name="id">689</string>                
+                <string name="id">689</string>
                 <string name="objtype">obj</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
@@ -30501,15 +30507,7 @@
                 <string name="parent">granite_d</string>
             </map>
             <map>
-                <list name="bbox">
-                    <float>-1.23207</float>
-                    <float>0</float>
-                    <float>-1.23207</float>
-                    <float>1.23207</float>
-                    <float>2.46414</float>
-                    <float>1.23207</float>
-                </list>
-                <string name="id">767</string>                
+                <string name="id">767</string>
                 <string name="objtype">obj</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
