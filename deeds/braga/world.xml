@@ -19725,12 +19725,7 @@
             <map>
                 <string name="id">374</string>
                 <string name="objtype">obj</string>
-                <map name="mode_data">
-                    <string name="mode">planted</string>
-                    <string name="$eid">2</string>
-                </map>
-                <list name="orientation">
-                    <float>0</float>
+                <list name="pos">
                     <float>0</float>
                     <float>0</float>
                     <float>0</float>
