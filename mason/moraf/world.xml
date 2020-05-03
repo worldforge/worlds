@@ -18689,6 +18689,7 @@
           <float>-1</float>
         </list>
       </map>
+
       <map>
         <map name="area">
           <int name="layer">7</int>
@@ -18779,6 +18780,7 @@
           <float>154</float>
         </list>
         <list name="contains">
+          <string>2001</string>
         </list>
         <string name="id">465</string>
         <float name="mass">-1</float>
@@ -18815,6 +18817,33 @@
           <string name="name">settler village</string>
         </map>
       </map>
+      <map>
+          <string name="id">2001</string>
+          <string name="objtype">obj</string>
+          <list name="orientation">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>1</float>
+          </list>
+          <string name="parent">region</string>
+          <list name="pos">
+              <float>0</float>
+              <float>50</float>
+              <float>0</float>
+          </list>
+          <map name="spawn">
+              <map name="entities">
+                  <map name="settler">
+                      <string name="parent">settler</string>
+                      <string name="_respawning">entry</string>
+                  </map>
+              </map>
+              <string name="name">entry</string>
+          </map>
+      </map>
+
+
       <map>
         <list name="bbox">
           <float>-5</float>
@@ -28531,7 +28560,7 @@
       <map name="server">
         <string name="host">localhost.localdomain</string>
         <string name="name">localhost.localdomain</string>
-        <string name="ruleset">mason</string>
+        <string name="ruleset">deeds</string>
         <string name="version">0.6.3</string>
       </map>
       <string name="timestamp">1384467402478</string>

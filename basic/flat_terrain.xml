@@ -19,11 +19,35 @@
           <int name="seconds_per_minute">20</int>
         </map>
         <list name="contains">
+          <string>1</string>
         </list>
         <string name="id">0</string>
         <string name="name"></string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
+      </map>
+      <map>
+        <string name="id">1</string>
+        <string name="name">the world</string>
+        <string name="objtype">obj</string>
+        <string name="parent">land</string>
+        <list name="bbox">
+            <float>-64</float>
+            <float>-5</float>
+            <float>-64</float>
+            <float>64</float>
+            <float>512</float>
+            <float>64</float>
+        </list>
+        <list name="contains">
+            <string>2</string>
+        </list>
+        <int name="default_location">1</int>
+        <list name="pos">
+            <float>0</float>
+            <float>0</float>
+            <float>0</float>
+        </list>
         <map name="terrain">
           <map name="points">
             <list name="-1x-1">
@@ -1005,8 +1029,72 @@
           <list name="surfaces">
           </list>
         </map>
+        <list name="surfaces">
+            <map>
+                <string name="name">rock</string>
+                <string name="pattern">fill</string>
+            </map>
+            <map>
+                <string name="name">sand</string>
+                <map name="params">
+                    <float name="highThreshold">1.5</float>
+                    <float name="lowThreshold">-2</float>
+                </map>
+                <string name="pattern">band</string>
+            </map>
+            <map>
+                <string name="name">grass</string>
+                <map name="params">
+                    <float name="cutoff">0.5</float>
+                    <float name="highThreshold">80</float>
+                    <float name="intercept">1</float>
+                    <float name="lowThreshold">1</float>
+                </map>
+                <string name="pattern">grass</string>
+            </map>
+            <map>
+                <string name="name">silt</string>
+                <map name="params">
+                    <float name="murkyDepth">-10</float>
+                    <float name="waterLevel">0</float>
+                </map>
+                <string name="pattern">depth</string>
+            </map>
+            <map>
+                <string name="name">snow</string>
+                <map name="params">
+                    <float name="threshold">110</float>
+                </map>
+                <string name="pattern">high</string>
+            </map>
+        </list>
       </map>
-    </list>
+      <map>
+          <string name="id">2</string>
+          <string name="objtype">obj</string>
+          <list name="orientation">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>1</float>
+          </list>
+          <string name="parent">region</string>
+          <list name="pos">
+              <float>-32</float>
+              <float>5</float>
+              <float>32</float>
+          </list>
+          <map name="spawn">
+              <map name="entities">
+                  <map name="settler">
+                      <string name="parent">settler</string>
+                      <string name="_respawning">entry</string>
+                  </map>
+              </map>
+              <string name="name">entry</string>
+          </map>
+      </map>
+  </list>
     <map name="meta">
       <string name="description">A simple flat terrain. Mainly of use when testing things.</string>
       <string name="name">Flat terrain</string>
@@ -1014,7 +1102,7 @@
       <map name="server">
         <string name="host">localhost.localdomain</string>
         <string name="name">localhost.localdomain</string>
-        <string name="ruleset">mason</string>
+        <string name="ruleset">deeds</string>
         <string name="version">0.6.3</string>
       </map>
       <string name="timestamp">1384542754867</string>

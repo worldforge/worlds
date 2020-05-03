@@ -37,6 +37,7 @@
         </list>
         <list name="contains">
           <string>2</string>
+          <string>3</string>
         </list>
         <int name="default_location">1</int>
         <string name="id">1</string>
@@ -1077,6 +1078,31 @@
           <float>0</float>
           <float>0</float>
         </list>
+      </map>
+      <map>
+          <string name="id">3</string>
+          <string name="objtype">obj</string>
+          <list name="orientation">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>1</float>
+          </list>
+          <string name="parent">region</string>
+          <list name="pos">
+              <float>-32</float>
+              <float>5</float>
+              <float>32</float>
+          </list>
+          <map name="spawn">
+              <map name="entities">
+                  <map name="settler">
+                      <string name="parent">settler</string>
+                      <string name="_respawning">entry</string>
+                  </map>
+              </map>
+              <string name="name">entry</string>
+          </map>
       </map>
     </list>
     <map name="meta">
