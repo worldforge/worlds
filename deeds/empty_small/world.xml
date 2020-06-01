@@ -157,8 +157,14 @@
                 <map name="spawn">
                     <map name="entities">
                         <map name="settler">
+                            <list name="entities">
+                                <map>
+                                    <string name="id">main</string>
+                                    <string name="_respawning">entry</string>
+                                </map>
+                            </list>
+                            <string name="objtype">archetype</string>
                             <string name="parent">settler</string>
-                            <string name="_respawning">entry</string>
                         </map>
                     </map>
                     <string name="name">entry</string>
@@ -179,7 +185,7 @@
                     <float>0</float>
                     <float>0</float>
                 </list>
-                <map name="_knowledge">
+                <map name="_knowledge!append">
                     <string name="about:this place">This is the main docks of this small island. Most visitors arrive here by boat.</string>
                     <string name="about:village">The village lies beyond this path. Follow it left when it forks</string>
                     <list name="location:w1">
@@ -193,14 +199,14 @@
                         <float>0</float>
                     </list>
                 </map>
-                <list name="_relations">
+                <list name="_relations!append">
                     <map>
                         <string name="filter">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
                         <float name="disposition">-10</float>
                         <float name="threat">10</float>
                     </map>
                 </list>
-                <list name="_goals">
+                <list name="_goals!append">
                     <map>
                         <string name="class">mind.goals.common.combat.FightOrFlight</string>
                     </map>
