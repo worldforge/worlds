@@ -50,92 +50,51 @@
                     <float>0</float>
                     <float>0</float>
                 </list>
-                <map name="terrain">
-                    <map name="points">
-                        <list name="-1x-1">
-                            <float>-1</float>
-                            <float>1</float>
-                            <float>20</float>
-                        </list>
-                        <list name="-1x0">
-                            <float>-1</float>
-                            <float>-0</float>
-                            <float>7</float>
-                        </list>
-                        <list name="-1x1">
-                            <float>-1</float>
-                            <float>-1</float>
-                            <float>9</float>
-                        </list>
-                        <list name="0x-1">
-                            <float>0</float>
-                            <float>1</float>
-                            <float>6</float>
-                        </list>
-                        <list name="0x0">
-                            <float>0</float>
-                            <float>-0</float>
-                            <float>5</float>
-                        </list>
-                        <list name="0x1">
-                            <float>0</float>
-                            <float>-1</float>
-                            <float>4</float>
-                        </list>
-                        <list name="1x-1">
-                            <float>1</float>
-                            <float>1</float>
-                            <float>4</float>
-                        </list>
-                        <list name="1x0">
-                            <float>1</float>
-                            <float>-0</float>
-                            <float>3</float>
-                        </list>
-                        <list name="1x1">
-                            <float>1</float>
-                            <float>-1</float>
-                            <float>10</float>
-                        </list>
-                    </map>
-                    <list name="surfaces">
-                        <map>
-                            <string name="name">rock</string>
-                            <string name="pattern">fill</string>
-                        </map>
-                        <map>
-                            <string name="name">sand</string>
-                            <map name="params">
-                                <float name="highThreshold">1.5</float>
-                                <float name="lowThreshold">-2</float>
-                            </map>
-                            <string name="pattern">band</string>
-                        </map>
-                        <map>
-                            <string name="name">grass</string>
-                            <map name="params">
-                                <float name="cutoff">0.5</float>
-                                <float name="highThreshold">80</float>
-                                <float name="intercept">1</float>
-                                <float name="lowThreshold">1</float>
-                            </map>
-                            <string name="pattern">grass</string>
-                        </map>
-                        <map>
-                            <string name="name">silt</string>
-                            <map name="params">
-                                <float name="murkyDepth">-10</float>
-                                <float name="waterLevel">0</float>
-                            </map>
-                            <string name="pattern">depth</string>
-                        </map>
-                        <map>
-                            <string name="name">snow</string>
-                            <map name="params">
-                                <float name="threshold">110</float>
-                            </map>
-                            <string name="pattern">high</string>
-                        </map>
+                <map name="terrain_points">
+                    <list name="-1x-1">
+                        <float>-1</float>
+                        <float>1</float>
+                        <float>20</float>
+                    </list>
+                    <list name="-1x0">
+                        <float>-1</float>
+                        <float>-0</float>
+                        <float>7</float>
+                    </list>
+                    <list name="-1x1">
+                        <float>-1</float>
+                        <float>-1</float>
+                        <float>9</float>
+                    </list>
+                    <list name="0x-1">
+                        <float>0</float>
+                        <float>1</float>
+                        <float>6</float>
+                    </list>
+                    <list name="0x0">
+                        <float>0</float>
+                        <float>-0</float>
+                        <float>5</float>
+                    </list>
+                    <list name="0x1">
+                        <float>0</float>
+                        <float>-1</float>
+                        <float>4</float>
+                    </list>
+                    <list name="1x-1">
+                        <float>1</float>
+                        <float>1</float>
+                        <float>4</float>
+                    </list>
+                    <list name="1x0">
+                        <float>1</float>
+                        <float>-0</float>
+                        <float>3</float>
+                    </list>
+                    <list name="1x1">
+                        <float>1</float>
+                        <float>-1</float>
+                        <float>10</float>
                     </list>
                 </map>
             </map>
