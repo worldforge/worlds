@@ -10253,21 +10253,52 @@
                     <float>4.07918</float>
                     <float>916.871</float>
                 </list>
-                <map name="spawn">
-                    <map name="entities">
-                        <map name="settler">
-                            <list name="entities">
-                                <map>
-                                    <string name="id">main</string>
-                                    <string name="_respawning">cemetery</string>
-                                </map>
-                            </list>
-                            <string name="objtype">archetype</string>
-                            <string name="parent">settler</string>
-                        </map>
+                <list name="__spawner_locations">
+                    <map>
+                        <list name="pos">
+                            <float>0</float>
+                            <float>0</float>
+                            <float>0</float>
+                        </list>
+                        <float name="radius">3</float>
                     </map>
-                    <string name="name">entry</string>
+                </list>
+                <map name="__spawn">
+                    <string name="name">Entry to the island</string>
+                    <list name="properties">
+                        <map>
+                            <string name="name">parent</string>
+                            <string name="type">string</string>
+                            <list name="options">
+                                <string>settler</string>
+                            </list>
+                        </map>
+                        <map>
+                            <string name="name">name</string>
+                            <string name="label">Name</string>
+                            <string name="type">string</string>
+                        </map>
+                        <map>
+                            <string name="name">sex</string>
+                            <string name="label">Sex</string>
+                            <string name="type">string</string>
+                            <string name="description">The sex of the character.</string>
+                            <list name="options">
+                                <string>male</string>
+                                <string>female</string>
+                            </list>
+                        </map>
+                    </list>
                 </map>
+                <map name="__spawn_properties">
+                    <string name="_respawning">cemetery</string>
+                </map>
+                <list name="__scripts">
+                    <map>
+                        <string name="language">python</string>
+                        <string name="name">world.objects.CharacterCreator.CharacterCreator</string>
+                    </map>
+                </list>
             </map>
             <map>
                 <list name="bbox">
@@ -19690,7 +19721,7 @@
                     <float>0</float>
                 </list>
                 <string name="parent">ocean</string>
-                </map>
+            </map>
             <map>
                 <string name="id">375</string>
                 <string name="objtype">obj</string>
