@@ -31,6 +31,7 @@
                 <string name="domain">void</string>
                 <string name="id">1</string>
                 <int name="limbo">1</int>
+                <string name="__alias">limbo</string>
                 <string name="name">Limbo</string>
                 <string name="objtype">obj</string>
                 <string name="parent">thing</string>
@@ -10211,43 +10212,10 @@
                 <string name="style">gnarly</string>
             </map>
             <map>
-                <map name="area">
-                    <map name="shape">
-                        <list name="points">
-                            <list>
-                                <float>-0.419495</float>
-                                <float>-5.10626</float>
-                            </list>
-                            <list>
-                                <float>4.297</float>
-                                <float>-2.61194</float>
-                            </list>
-                            <list>
-                                <float>-0.799622</float>
-                                <float>5.28235</float>
-                            </list>
-                            <list>
-                                <float>-4.58771</float>
-                                <float>2.64716</float>
-                            </list>
-                        </list>
-                        <string name="type">polygon</string>
-                    </map>
-                </map>
                 <string name="id">79</string>
                 <string name="name">welcome_spawn_area</string>
                 <string name="objtype">obj</string>
-                <map name="mode_data">
-                    <string name="mode">planted</string>
-                    <string name="$eid">2</string>
-                </map>
-                <list name="orientation">
-                    <float>0</float>
-                    <float>0.707107</float>
-                    <float>0</float>
-                    <float>0.707107</float>
-                </list>
-                <string name="parent">region</string>
+                <string name="parent">character_creator</string>
                 <list name="pos">
                     <float>-923.488</float>
                     <float>4.07918</float>
@@ -10290,15 +10258,9 @@
                         </map>
                     </list>
                 </map>
-                <map name="__spawn_properties">
+                <map name="__spawn_properties!append">
                     <string name="_respawning">cemetery</string>
                 </map>
-                <list name="__scripts">
-                    <map>
-                        <string name="language">python</string>
-                        <string name="name">world.objects.CharacterCreator.CharacterCreator</string>
-                    </map>
-                </list>
             </map>
             <map>
                 <list name="bbox">
@@ -28199,7 +28161,9 @@
                 </list>
             </map>
             <map>
-                <float name="scale">1.5</float>
+                <list name="scale">
+                    <float>1.5</float>
+                </list>
                 <string name="id">688</string>
                 <string name="objtype">obj</string>
                 <map name="mode_data">
@@ -32304,52 +32268,30 @@
                 <string name="roof">shale</string>
             </map>
             <map>
-                <map name="area">
-                    <map name="shape">
-                        <list name="points">
-                            <list>
-                                <float>-2.13153</float>
-                                <float>-3.25153</float>
-                            </list>
-                            <list>
-                                <float>5.66827</float>
-                                <float>-6.75549</float>
-                            </list>
-                            <list>
-                                <float>7.78156</float>
-                                <float>7.46893</float>
-                            </list>
-                            <list>
-                                <float>0.609619</float>
-                                <float>10.1039</float>
-                            </list>
+                <list name="__spawner_locations">
+                    <map>
+                        <list name="pos">
+                            <float>0</float>
+                            <float>0</float>
+                            <float>0</float>
                         </list>
-                        <string name="type">polygon</string>
+                        <float name="radius">3</float>
                     </map>
-                </map>
+                </list>
                 <string name="id">831</string>
-                <string name="name">region</string>
                 <string name="objtype">obj</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
                     <string name="$eid">2</string>
                 </map>
-                <list name="orientation">
-                    <float>0</float>
-                    <float>0.707107</float>
-                    <float>0</float>
-                    <float>0.707107</float>
-                </list>
-                <string name="parent">region</string>
+                <string name="parent">thing</string>
                 <list name="pos">
                     <float>-785.113</float>
                     <float>4.71851</float>
                     <float>876.99</float>
                 </list>
-                <map name="spawn">
-                    <string name="name">cemetery</string>
-                </map>
-                <float name="visibility">100</float>
+                <string name="__alias">cemetery</string>
+                <string name="visibility">private</string>
             </map>
             <map>
                 <string name="id">832</string>

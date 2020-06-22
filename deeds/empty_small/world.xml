@@ -101,32 +101,15 @@
             <map>
                 <string name="id">2</string>
                 <string name="objtype">obj</string>
-                <list name="orientation">
-                    <float>0</float>
-                    <float>0</float>
-                    <float>0</float>
-                    <float>1</float>
-                </list>
-                <string name="parent">region</string>
+                <string name="parent">character_creator_default</string>
+                <string name="__alias">entry</string>
                 <list name="pos">
                     <float>-32</float>
                     <float>5</float>
                     <float>32</float>
                 </list>
-                <map name="spawn">
-                    <map name="entities">
-                        <map name="settler">
-                            <list name="entities">
-                                <map>
-                                    <string name="id">main</string>
-                                    <string name="_respawning">entry</string>
-                                </map>
-                            </list>
-                            <string name="objtype">archetype</string>
-                            <string name="parent">settler</string>
-                        </map>
-                    </map>
-                    <string name="name">entry</string>
+                <map name="__spawn_properties!append">
+                    <string name="_respawning">entry</string>
                 </map>
             </map>
             <map>
@@ -137,7 +120,10 @@
                 </map>
                 <string name="name">Dyfed Searae</string>
                 <string name="objtype">obj</string>
-                <map name="mode_data"><string name="mode">planted</string><string name="$eid">2</string></map>
+                <map name="mode_data">
+                    <string name="mode">planted</string>
+                    <string name="$eid">2</string>
+                </map>
                 <string name="parent">settler</string>
                 <list name="pos">
                     <float>0</float>
@@ -202,6 +188,7 @@
                 <string name="domain">void</string>
                 <string name="id">4</string>
                 <int name="limbo">1</int>
+                <string name="__alias">limbo</string>
                 <string name="name">Limbo</string>
                 <string name="objtype">obj</string>
                 <string name="parent">thing</string>

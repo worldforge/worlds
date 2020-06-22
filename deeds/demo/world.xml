@@ -31,6 +31,7 @@
         <string name="domain">void</string>
         <string name="id">1</string>
         <int name="limbo">0</int>
+        <string name="__alias">limbo</string>
         <string name="name">Limbo</string>
         <string name="objtype">obj</string>
         <string name="parent">thing</string>
@@ -468,13 +469,13 @@
           <float>0</float>
           <float>0.709394</float>
         </list>
-        <string name="parent">thing</string>
+        <string name="parent">character_creator</string>
         <list name="pos">
           <float>-6.52238</float>
           <float>4.99006</float>
           <float>-0.0793253</float>
         </list>
-        <map name="spawn">
+        <map name="__spawn">
           <map name="entities">
             <map name="settler">
               <string name="parent">settler</string>
