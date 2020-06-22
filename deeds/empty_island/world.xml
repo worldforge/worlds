@@ -38,7 +38,6 @@
         <list name="contains">
           <string>2</string>
         </list>
-        <int name="default_location">1</int>
         <string name="id">1</string>
         <string name="mode">fixed</string>
         <string name="name">the world</string>

@@ -30,7 +30,6 @@
       <map>
         <string name="domain">void</string>
         <string name="id">1</string>
-        <int name="limbo">0</int>
         <string name="__alias">limbo</string>
         <string name="name">Limbo</string>
         <string name="objtype">obj</string>
@@ -132,7 +131,6 @@
           <string>81</string>
           <string>82</string>
         </list>
-        <int name="default_location">1</int>
         <string name="id">2</string>
         <string name="mode">fixed</string>
         <string name="name">demo world</string>
