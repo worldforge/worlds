@@ -430,7 +430,7 @@
           <float>5.00313</float>
           <float>0.207885</float>
         </list>
-        <float name="visibility">100</float>
+        <float name="vis_dist">100</float>
       </map>
       <map>
         <map name="area">
@@ -481,7 +481,7 @@
           </map>
           <string name="name">entry</string>
         </map>
-        <float name="visibility">100</float>
+        <float name="vis_dist">100</float>
       </map>
       <map>
         <string name="id">5</string>
@@ -500,7 +500,7 @@
           <float>0</float>
           <float>-0</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">6</string>
@@ -518,7 +518,7 @@
           <float>5.32118</float>
           <float>66.5978</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">7</string>
@@ -536,7 +536,7 @@
           <float>4.65381</float>
           <float>65.6924</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">8</string>
@@ -679,7 +679,7 @@
           <float name="radius">10</float>
           <string name="type">goblin</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">13</string>
@@ -824,7 +824,7 @@
         <map name="spawn">
           <string name="name">respawn</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">19</string>
@@ -879,7 +879,7 @@
           <float>5.00921</float>
           <float>21.6193</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">22</string>
@@ -922,7 +922,7 @@
           </map>
           <string name="type">adjustmod</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">23</string>
@@ -965,7 +965,7 @@
           </map>
           <string name="type">levelmod</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">24</string>
@@ -1008,7 +1008,7 @@
           </map>
           <string name="type">adjustmod</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">25</string>
@@ -1051,7 +1051,7 @@
           </map>
           <string name="type">levelmod</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">26</string>
@@ -1206,7 +1206,7 @@
           <float>5.00573</float>
           <float>-22.6397</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <map name="area">
@@ -1276,7 +1276,7 @@
           <float>5.00591</float>
           <float>-24.313</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <map name="area">
@@ -1334,7 +1334,7 @@
           <float>5.00476</float>
           <float>-23.5291</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <list name="bbox">
@@ -1678,7 +1678,7 @@
           <float>5.00836</float>
           <float>-5.28046</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">50</string>
@@ -1706,7 +1706,7 @@
           <float name="radius">5</float>
           <string name="type">dog</string>
         </map>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">51</string>
@@ -1724,7 +1724,7 @@
           <float>5.01077</float>
           <float>29.7654</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <map name="area">
@@ -1826,7 +1826,7 @@
         </list>
         <float name="stamina">1</float>
         <float name="status">0.8946</float>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">55</string>
@@ -1844,7 +1844,7 @@
           <float>5.00996</float>
           <float>12.194</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <map name="area">
@@ -2313,7 +2313,7 @@
           <float>5.00772</float>
           <float>-19.0121</float>
         </list>
-        <float name="visibility">1000</float>
+        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">75</string>
