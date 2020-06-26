@@ -554,8 +554,6 @@
           <float>5.01769</float>
           <float>2.31681</float>
         </list>
-        <float name="stamina">1</float>
-        <float name="status">0.8706</float>
       </map>
       <map>
         <list name="contains">
@@ -588,8 +586,6 @@
           <float>5.01505</float>
           <float>3.53641</float>
         </list>
-        <float name="stamina">1</float>
-        <float name="status">0.8707</float>
       </map>
       <map>
         <list name="contains">
@@ -638,8 +634,6 @@
           <float>5.01358</float>
           <float>4.97503</float>
         </list>
-        <float name="stamina">1</float>
-        <float name="status">0.8707</float>
       </map>
       <map>
         <string name="id">11</string>
@@ -661,29 +655,39 @@
       <map>
         <string name="id">12</string>
         <string name="objtype">obj</string>
-        <list name="orientation">
-          <float>0</float>
-          <float>-0.999888</float>
-          <float>0</float>
-          <float>-0.014985</float>
-        </list>
         <string name="parent">thing</string>
+          <list name="__spawner_locations">
+              <map>
+                  <list name="pos">
+                      <float>0</float>
+                      <float>0</float>
+                      <float>0</float>
+                  </list>
+                  <float name="radius">3</float>
+              </map>
+          </list>
+          <int name="__spawner_interval">5</int>
+          <map name="__spawner_entity">
+              <string name="objtype">obj</string>
+              <string name="parent">granite_a</string>
+          </map>
+          <float name="__spawner_radius">10</float>
+          <int name="__spawner_amount">2</int>
+          <string name="__spawner_criteria">entity instance_of types.granite_a</string>
+          <list name="__scripts!append">
+              <map>
+                  <string name="language">python</string>
+                  <string name="name">world.traits.Spawner.SpawnerVicinity</string>
+              </map>
+          </list>
         <list name="pos">
           <float>21.3794</float>
           <float>5.00796</float>
           <float>-12.461</float>
         </list>
-        <map name="spawner">
-          <int name="interval">5</int>
-          <int name="minamount">2</int>
-          <float name="radius">10</float>
-          <string name="type">goblin</string>
-        </map>
-        <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">13</string>
-        <float name="mass">50</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -691,18 +695,15 @@
           <float>0</float>
           <float>0.247182</float>
         </list>
-        <string name="parent">goblin</string>
+        <string name="parent">granite_a</string>
         <list name="pos">
           <float>24.3961</float>
           <float>5.00955</float>
           <float>-9.94004</float>
         </list>
-        <float name="stamina">1</float>
-        <float name="status">0.8908</float>
       </map>
       <map>
         <string name="id">14</string>
-        <float name="mass">50</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -710,18 +711,16 @@
           <float>0</float>
           <float>-0.2587</float>
         </list>
-        <string name="parent">goblin</string>
+        <string name="parent">granite_a</string>
         <list name="pos">
           <float>23.8059</float>
           <float>5.00781</float>
           <float>-14.1229</float>
         </list>
-        <float name="stamina">1</float>
-        <float name="status">0.8908</float>
       </map>
       <map>
         <string name="id">15</string>
-        <string name="message">This is a spawner. It will check every five seconds if there are at least two goblins within a 10 meters radius. If not, it will spawn one. Try to delete one of the goblins.</string>
+        <string name="message">This is a spawner. It will check every five seconds if there are at least two granite rocks within a 10 meters radius. If not, it will spawn one. Try to delete one of the rocks.</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -747,8 +746,6 @@
         </list>
         <string name="id">16</string>
         <int name="immortal">1</int>
-        <float name="mass">400</float>
-        <string name="name">bear</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -757,13 +754,12 @@
           <float>-0.0184065</float>
         </list>
         <string name="parent">bear</string>
+        <map name="mind"></map>
         <list name="pos">
           <float>22.6783</float>
           <float>5.00783</float>
           <float>-25.1679</float>
         </list>
-        <float name="stamina">1</float>
-        <float name="status">0.891</float>
       </map>
       <map>
         <string name="id">17</string>
@@ -821,9 +817,7 @@
           <float>5.00958</float>
           <float>14.4994</float>
         </list>
-        <map name="spawn">
-          <string name="name">respawn</string>
-        </map>
+        <string name="__alias">respawn</string>
         <float name="vis_dist">1000</float>
       </map>
       <map>
@@ -842,9 +836,13 @@
           <float>5.00988</float>
           <float>23.0913</float>
         </list>
-        <string name="respawning">respawn</string>
-        <float name="stamina">1</float>
-        <float name="status">0.8912</float>
+        <string name="_respawning">respawn</string>
+          <map name="__scripts!prepend">
+              <map>
+                  <string name="language">python</string>
+                  <string name="name">world.traits.Respawning.Respawning</string>
+              </map>
+          </map>
       </map>
       <map>
         <string name="id">20</string>
