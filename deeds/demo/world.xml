@@ -26,11 +26,12 @@
         <string name="name">root</string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
+        <float name="world_time">10.3969</float>
       </map>
       <map>
+        <string name="__alias">limbo</string>
         <string name="domain">void</string>
         <string name="id">1</string>
-        <string name="__alias">limbo</string>
         <string name="name">Limbo</string>
         <string name="objtype">obj</string>
         <string name="parent">thing</string>
@@ -125,264 +126,260 @@
           <string>80</string>
           <string>81</string>
           <string>82</string>
+          <string>83</string>
         </list>
         <string name="id">2</string>
         <string name="mode">fixed</string>
         <string name="name">demo world</string>
         <string name="objtype">obj</string>
         <string name="parent">land</string>
-        <list name="pos">
-          <float>0</float>
-          <float>0</float>
-          <float>0</float>
-        </list>
         <map name="terrain_points">
-            <list name="-1x-1">
-              <float>-1</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="-1x-2">
-              <float>-1</float>
-              <float>2</float>
-              <float>5</float>
-            </list>
-            <list name="-1x-3">
-              <float>-1</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="-1x-4">
-              <float>-1</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="-1x0">
-              <float>-1</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="-1x1">
-              <float>-1</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="-1x2">
-              <float>-1</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-            <list name="-2x-1">
-              <float>-2</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="-2x-2">
-              <float>-2</float>
-              <float>2</float>
-              <float>-9.48438</float>
-            </list>
-            <list name="-2x-3">
-              <float>-2</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="-2x-4">
-              <float>-2</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="-2x0">
-              <float>-2</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="-2x1">
-              <float>-2</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="-2x2">
-              <float>-2</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-            <list name="-3x-1">
-              <float>-3</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="-3x-2">
-              <float>-3</float>
-              <float>2</float>
-              <float>5</float>
-            </list>
-            <list name="-3x-3">
-              <float>-3</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="-3x-4">
-              <float>-3</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="-3x0">
-              <float>-3</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="-3x1">
-              <float>-3</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="-3x2">
-              <float>-3</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-            <list name="-4x-1">
-              <float>-4</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="-4x-2">
-              <float>-4</float>
-              <float>2</float>
-              <float>5</float>
-            </list>
-            <list name="-4x-3">
-              <float>-4</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="-4x-4">
-              <float>-4</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="-4x0">
-              <float>-4</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="-4x1">
-              <float>-4</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="-4x2">
-              <float>-4</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-            <list name="0x-1">
-              <float>0</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="0x-2">
-              <float>0</float>
-              <float>2</float>
-              <float>22</float>
-            </list>
-            <list name="0x-3">
-              <float>0</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="0x-4">
-              <float>0</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="0x0">
-              <float>0</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="0x1">
-              <float>0</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="0x2">
-              <float>0</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-            <list name="1x-1">
-              <float>1</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="1x-2">
-              <float>1</float>
-              <float>2</float>
-              <float>5</float>
-            </list>
-            <list name="1x-3">
-              <float>1</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="1x-4">
-              <float>1</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="1x0">
-              <float>1</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="1x1">
-              <float>1</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="1x2">
-              <float>1</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-            <list name="2x-1">
-              <float>2</float>
-              <float>1</float>
-              <float>5</float>
-            </list>
-            <list name="2x-2">
-              <float>2</float>
-              <float>2</float>
-              <float>5</float>
-            </list>
-            <list name="2x-3">
-              <float>2</float>
-              <float>3</float>
-              <float>5</float>
-            </list>
-            <list name="2x-4">
-              <float>2</float>
-              <float>4</float>
-              <float>5</float>
-            </list>
-            <list name="2x0">
-              <float>2</float>
-              <float>-0</float>
-              <float>5</float>
-            </list>
-            <list name="2x1">
-              <float>2</float>
-              <float>-1</float>
-              <float>5</float>
-            </list>
-            <list name="2x2">
-              <float>2</float>
-              <float>-2</float>
-              <float>5</float>
-            </list>
-          </map>
+          <list name="-1x-1">
+            <float>-1</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="-1x-2">
+            <float>-1</float>
+            <float>2</float>
+            <float>5</float>
+          </list>
+          <list name="-1x-3">
+            <float>-1</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="-1x-4">
+            <float>-1</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="-1x0">
+            <float>-1</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="-1x1">
+            <float>-1</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="-1x2">
+            <float>-1</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+          <list name="-2x-1">
+            <float>-2</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="-2x-2">
+            <float>-2</float>
+            <float>2</float>
+            <float>-9.48438</float>
+          </list>
+          <list name="-2x-3">
+            <float>-2</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="-2x-4">
+            <float>-2</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="-2x0">
+            <float>-2</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="-2x1">
+            <float>-2</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="-2x2">
+            <float>-2</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+          <list name="-3x-1">
+            <float>-3</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="-3x-2">
+            <float>-3</float>
+            <float>2</float>
+            <float>5</float>
+          </list>
+          <list name="-3x-3">
+            <float>-3</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="-3x-4">
+            <float>-3</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="-3x0">
+            <float>-3</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="-3x1">
+            <float>-3</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="-3x2">
+            <float>-3</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+          <list name="-4x-1">
+            <float>-4</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="-4x-2">
+            <float>-4</float>
+            <float>2</float>
+            <float>5</float>
+          </list>
+          <list name="-4x-3">
+            <float>-4</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="-4x-4">
+            <float>-4</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="-4x0">
+            <float>-4</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="-4x1">
+            <float>-4</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="-4x2">
+            <float>-4</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+          <list name="0x-1">
+            <float>0</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="0x-2">
+            <float>0</float>
+            <float>2</float>
+            <float>22</float>
+          </list>
+          <list name="0x-3">
+            <float>0</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="0x-4">
+            <float>0</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="0x0">
+            <float>0</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="0x1">
+            <float>0</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="0x2">
+            <float>0</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+          <list name="1x-1">
+            <float>1</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="1x-2">
+            <float>1</float>
+            <float>2</float>
+            <float>5</float>
+          </list>
+          <list name="1x-3">
+            <float>1</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="1x-4">
+            <float>1</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="1x0">
+            <float>1</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="1x1">
+            <float>1</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="1x2">
+            <float>1</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+          <list name="2x-1">
+            <float>2</float>
+            <float>1</float>
+            <float>5</float>
+          </list>
+          <list name="2x-2">
+            <float>2</float>
+            <float>2</float>
+            <float>5</float>
+          </list>
+          <list name="2x-3">
+            <float>2</float>
+            <float>3</float>
+            <float>5</float>
+          </list>
+          <list name="2x-4">
+            <float>2</float>
+            <float>4</float>
+            <float>5</float>
+          </list>
+          <list name="2x0">
+            <float>2</float>
+            <float>-0</float>
+            <float>5</float>
+          </list>
+          <list name="2x1">
+            <float>2</float>
+            <float>-1</float>
+            <float>5</float>
+          </list>
+          <list name="2x2">
+            <float>2</float>
+            <float>-2</float>
+            <float>5</float>
+          </list>
+        </map>
       </map>
       <map>
         <map name="area">
@@ -427,6 +424,18 @@
         <float name="vis_dist">100</float>
       </map>
       <map>
+        <map name="__spawn">
+          <list name="properties">
+            <map>
+              <string name="name">parent</string>
+              <list name="options">
+                <string>creator</string>
+                <string>settler</string>
+              </list>
+              <string name="type">string</string>
+            </map>
+          </list>
+        </map>
         <map name="area">
           <int name="layer">6</int>
           <map name="shape">
@@ -467,19 +476,6 @@
           <float>4.99006</float>
           <float>-0.0793253</float>
         </list>
-          <map name="__spawn">
-              <list name="properties">
-                  <map>
-                      <string name="name">parent</string>
-                      <string name="type">string</string>
-                      <string name="label">Type</string>
-                      <list name="options">
-                          <string>creator</string>
-                          <string>settler</string>
-                      </list>
-                  </map>
-              </list>
-          </map>
         <float name="vis_dist">100</float>
       </map>
       <map>
@@ -502,7 +498,12 @@
       </map>
       <map>
         <string name="id">6</string>
+        <float name="mass">95.7177</float>
         <string name="message">The terrain can be altered by editing terrain points. Here&apos;s a mound.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -513,14 +514,19 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-4.10486</float>
-          <float>5.32118</float>
+          <float>5.17957</float>
           <float>66.5978</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">7</string>
+        <float name="mass">95.7177</float>
         <string name="message">Lakes can be created by lowering height points below the water line.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -531,106 +537,158 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-82.1314</float>
-          <float>4.65381</float>
+          <float>4.90982</float>
           <float>65.6924</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">8</string>
+        <float name="mass">144</float>
+        <string name="name">With no clothing</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.999668</float>
+          <float>0.999668</float>
           <float>0</float>
-          <float>-0.0257683</float>
+          <float>0.0257675</float>
         </list>
         <string name="parent">human</string>
-          <string name="name">With no clothing</string>
         <list name="pos">
           <float>18.9777</float>
-          <float>5.01769</float>
-          <float>2.31681</float>
+          <float>5.02007</float>
+          <float>2.31761</float>
         </list>
       </map>
       <map>
+        <list name="_modifiers">
+          <map>
+            <string name="$eid">84</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">1</float>
+              </map>
+            </map>
+          </map>
+        </list>
+        <float name="armor">1</float>
+        <map name="attached_legs">
+          <string name="$eid">84</string>
+        </map>
         <list name="contains">
-          <string>83</string>
           <string>84</string>
           <string>85</string>
           <string>86</string>
+        </list>
+        <string name="id">9</string>
+        <float name="mass">144</float>
+        <string name="name">With pants</string>
+        <string name="objtype">obj</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0.999668</float>
+          <float>0</float>
+          <float>0.0257676</float>
+        </list>
+        <string name="parent">human</string>
+        <list name="pos">
+          <float>18.8913</float>
+          <float>5.0186</float>
+          <float>3.53709</float>
+        </list>
+      </map>
+      <map>
+        <list name="_modifiers">
+          <map>
+            <string name="$eid">87</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">1</float>
+              </map>
+            </map>
+          </map>
+          <map>
+            <string name="$eid">88</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">1</float>
+              </map>
+            </map>
+          </map>
+          <map>
+            <string name="$eid">89</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">1</float>
+              </map>
+            </map>
+          </map>
+          <map>
+            <string name="$eid">90</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">1</float>
+              </map>
+            </map>
+          </map>
+          <map>
+            <string name="$eid">91</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">0.5</float>
+              </map>
+            </map>
+          </map>
+        </list>
+        <float name="armor">4.5</float>
+        <map name="attached_back">
+          <string name="$eid">89</string>
+        </map>
+        <map name="attached_feet">
+          <string name="$eid">90</string>
+        </map>
+        <map name="attached_head">
+          <string name="$eid">91</string>
+        </map>
+        <map name="attached_legs">
+          <string name="$eid">88</string>
+        </map>
+        <map name="attached_torso">
+          <string name="$eid">87</string>
+        </map>
+        <list name="contains">
           <string>87</string>
           <string>88</string>
           <string>89</string>
           <string>90</string>
-        </list>
-        <string name="id">9</string>
-        <string name="objtype">obj</string>
-          <string name="name">With pants</string>
-          <list name="orientation">
-          <float>0</float>
-          <float>-0.999668</float>
-          <float>0</float>
-          <float>-0.0257684</float>
-        </list>
-          <map name="attached_legs">
-            <string name="$eid">83</string>
-          </map>
-        <string name="parent">human</string>
-        <list name="pos">
-          <float>18.8913</float>
-          <float>5.01505</float>
-          <float>3.53641</float>
-        </list>
-      </map>
-      <map>
-        <list name="contains">
           <string>91</string>
           <string>92</string>
-          <string>93</string>
-          <string>94</string>
-          <string>95</string>
-          <string>96</string>
-          <string>97</string>
-          <string>98</string>
-          <string>99</string>
-          <string>100</string>
-          <string>101</string>
         </list>
         <string name="id">10</string>
-          <string name="name">With full clothing</string>
+        <float name="mass">144</float>
+        <string name="name">With full clothing</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.993618</float>
+          <float>0.993618</float>
           <float>0</float>
-          <float>-0.112797</float>
+          <float>0.112797</float>
         </list>
-          <map name="attached_back">
-            <string name="$eid">93</string>
-          </map>
-          <map name="attached_torso">
-            <string name="$eid">91</string>
-          </map>
-          <map name="attached_feet">
-            <string name="$eid">94</string>
-          </map>
-          <map name="attached_head">
-            <string name="$eid">95</string>
-          </map>
-          <map name="attached_legs">
-            <string name="$eid">92</string>
-          </map>
         <string name="parent">human</string>
         <list name="pos">
           <float>18.451</float>
-          <float>5.01358</float>
-          <float>4.97503</float>
+          <float>5.01771</float>
+          <float>4.97579</float>
         </list>
       </map>
       <map>
         <string name="id">11</string>
-        <string name="message">Demonstration of the "attached" attributes. The clothing of the entity is determined by the inventory entities that are attached.</string>
+        <float name="mass">95.7177</float>
+        <string name="message">Demonstration of the &quot;attached&quot; attributes. The clothing of the entity is determined by the inventory entities that are attached.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -641,38 +699,38 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>14.2067</float>
-          <float>5.01176</float>
+          <float>5.0109</float>
           <float>2.91485</float>
         </list>
       </map>
       <map>
+        <list name="__scripts">
+          <map>
+            <string name="language">python</string>
+            <string name="name">world.traits.Spawner.SpawnerVicinity</string>
+          </map>
+        </list>
+        <int name="__spawner_amount">2</int>
+        <string name="__spawner_criteria">entity instance_of types.granite_a</string>
+        <map name="__spawner_entity">
+          <string name="objtype">obj</string>
+          <string name="parent">granite_a</string>
+        </map>
+        <int name="__spawner_interval">5</int>
+        <list name="__spawner_locations">
+          <map>
+            <list name="pos">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+            </list>
+            <float name="radius">3</float>
+          </map>
+        </list>
+        <float name="__spawner_radius">10</float>
         <string name="id">12</string>
         <string name="objtype">obj</string>
         <string name="parent">thing</string>
-          <list name="__spawner_locations">
-              <map>
-                  <list name="pos">
-                      <float>0</float>
-                      <float>0</float>
-                      <float>0</float>
-                  </list>
-                  <float name="radius">3</float>
-              </map>
-          </list>
-          <int name="__spawner_interval">5</int>
-          <map name="__spawner_entity">
-              <string name="objtype">obj</string>
-              <string name="parent">granite_a</string>
-          </map>
-          <float name="__spawner_radius">10</float>
-          <int name="__spawner_amount">2</int>
-          <string name="__spawner_criteria">entity instance_of types.granite_a</string>
-          <list name="__scripts!append">
-              <map>
-                  <string name="language">python</string>
-                  <string name="name">world.traits.Spawner.SpawnerVicinity</string>
-              </map>
-          </list>
         <list name="pos">
           <float>21.3794</float>
           <float>5.00796</float>
@@ -681,6 +739,11 @@
       </map>
       <map>
         <string name="id">13</string>
+        <float name="mass">554.974</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -691,12 +754,17 @@
         <string name="parent">granite_a</string>
         <list name="pos">
           <float>24.3961</float>
-          <float>5.00955</float>
+          <float>5.01056</float>
           <float>-9.94004</float>
         </list>
       </map>
       <map>
         <string name="id">14</string>
+        <float name="mass">554.974</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -707,13 +775,18 @@
         <string name="parent">granite_a</string>
         <list name="pos">
           <float>23.8059</float>
-          <float>5.00781</float>
+          <float>5.01038</float>
           <float>-14.1229</float>
         </list>
       </map>
       <map>
         <string name="id">15</string>
+        <float name="mass">95.7177</float>
         <string name="message">This is a spawner. It will check every five seconds if there are at least two granite rocks within a 10 meters radius. If not, it will spawn one. Try to delete one of the rocks.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -724,39 +797,38 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>18.3637</float>
-          <float>5.00678</float>
+          <float>5.01033</float>
           <float>-12.6444</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-1.9</float>
-          <float>0</float>
-          <float>-0.8</float>
-          <float>1.9</float>
-          <float>2.5</float>
-          <float>0.8</float>
-        </list>
         <string name="id">16</string>
         <int name="immortal">1</int>
+        <float name="mass">1900</float>
+        <map name="mind">
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.999831</float>
+          <float>0.999831</float>
           <float>0</float>
-          <float>-0.0184065</float>
+          <float>0.0184065</float>
         </list>
         <string name="parent">bear</string>
-        <map name="mind"></map>
         <list name="pos">
           <float>22.6783</float>
-          <float>5.00783</float>
-          <float>-25.1679</float>
+          <float>5.00987</float>
+          <float>-25.1691</float>
         </list>
       </map>
       <map>
         <string name="id">17</string>
+        <float name="mass">95.7177</float>
         <string name="message">This bear has an &quot;immortal&quot; property and cannot be killed. Try to delete it.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -767,11 +839,12 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>19.6353</float>
-          <float>5.00769</float>
+          <float>5.00968</float>
           <float>-25.3341</float>
         </list>
       </map>
       <map>
+        <string name="__alias">respawn</string>
         <map name="area">
           <int name="layer">6</int>
           <map name="shape">
@@ -810,50 +883,55 @@
           <float>5.00958</float>
           <float>14.4994</float>
         </list>
-        <string name="__alias">respawn</string>
         <float name="vis_dist">1000</float>
       </map>
       <map>
+        <list name="__scripts!prepend">
+          <map>
+            <string name="language">python</string>
+            <string name="name">world.traits.Respawning.Respawning</string>
+          </map>
+        </list>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.MoveMe</string>
+            <map name="params">
+              <string name="location">home</string>
+            </map>
+          </map>
+        </list>
+        <map name="_knowledge">
+          <list name="location:home">
+            <float>15</float>
+            <float>5</float>
+            <float>23</float>
+          </list>
+        </map>
+        <string name="_respawning">respawn</string>
         <string name="id">19</string>
+        <float name="mass">144</float>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.985146</float>
+          <float>0.985146</float>
           <float>0</float>
-          <float>-0.171717</float>
+          <float>0.171717</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
-          <float>15.2213</float>
-          <float>5.00988</float>
-          <float>23.0913</float>
+          <float>14.6428</float>
+          <float>5.00858</float>
+          <float>22.9278</float>
         </list>
-          <list name="_goals">
-              <map>
-                  <string name="class">mind.goals.common.move.MoveMe</string>
-                  <map name="params">
-                      <string name="location">home</string>
-                  </map>
-              </map>
-          </list>
-          <map name="_knowledge">
-              <list name="location:home">
-                  <float>15</float>
-                  <float>5</float>
-                  <float>23</float>
-              </list>
-          </map>
-        <string name="_respawning">respawn</string>
-          <list name="__scripts!prepend">
-              <map>
-                  <string name="language">python</string>
-                  <string name="name">world.traits.Respawning.Respawning</string>
-              </map>
-          </list>
       </map>
       <map>
         <string name="id">20</string>
+        <float name="mass">95.7177</float>
         <string name="message">This is a spawn area used for respawning. Check the human to the right.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -864,13 +942,18 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>12.548</float>
-          <float>5.00893</float>
+          <float>5.00775</float>
           <float>13.6257</float>
         </list>
       </map>
       <map>
         <string name="id">21</string>
+        <float name="mass">95.7177</float>
         <string name="message">This human has a respawning property set to the area to the left. When killed he&apos;ll respawn there. Try to delete him.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -881,7 +964,7 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>11.3187</float>
-          <float>5.00921</float>
+          <float>5.00983</float>
           <float>21.6193</float>
         </list>
         <float name="vis_dist">1000</float>
@@ -1056,7 +1139,12 @@
       </map>
       <map>
         <string name="id">26</string>
+        <float name="mass">95.7177</float>
         <string name="message">This terrainmod is using fixed positioning, level type and height 3.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1067,13 +1155,18 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>13.8735</float>
-          <float>5.00971</float>
+          <float>5.00913</float>
           <float>-35.6554</float>
         </list>
       </map>
       <map>
         <string name="id">27</string>
+        <float name="mass">95.7177</float>
         <string name="message">This terrainmod is using relative positioning, fixed type and height 3.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1084,13 +1177,18 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>20.2984</float>
-          <float>5.00941</float>
+          <float>5.0085</float>
           <float>-36.1398</float>
         </list>
       </map>
       <map>
         <string name="id">28</string>
+        <float name="mass">95.7177</float>
         <string name="message">This terrainmod is using fixed positioning, adjust type and height 3.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1101,13 +1199,18 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>7.33226</float>
-          <float>5.01148</float>
+          <float>5.01376</float>
           <float>-35.412</float>
         </list>
       </map>
       <map>
         <string name="id">29</string>
+        <float name="mass">95.7177</float>
         <string name="message">This terrainmod is using relative positioning, level type and height 3.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1118,13 +1221,18 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>27.298</float>
-          <float>5.0107</float>
+          <float>5.00842</float>
           <float>-36.5904</float>
         </list>
       </map>
       <map>
         <string name="id">30</string>
+        <float name="mass">95.7177</float>
         <string name="message">These are the default terrain area types available.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1135,7 +1243,7 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-14.305</float>
-          <float>5.00485</float>
+          <float>5.00921</float>
           <float>-20.8211</float>
         </list>
       </map>
@@ -1335,16 +1443,12 @@
         <float name="vis_dist">1000</float>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.12645</float>
-          <float>0</float>
-          <float>-2.12645</float>
-          <float>2.12645</float>
-          <float>4.2529</float>
-          <float>2.12645</float>
-        </list>
         <string name="id">34</string>
-        <float name="mass">100000</float>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1355,22 +1459,18 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>-30.9113</float>
-          <float>5.00939</float>
+          <float>5.00911</float>
           <float>-1.54705</float>
         </list>
         <string name="style">a</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.12645</float>
-          <float>0</float>
-          <float>-2.12645</float>
-          <float>2.12645</float>
-          <float>4.2529</float>
-          <float>2.12645</float>
-        </list>
         <string name="id">35</string>
-        <float name="mass">100000</float>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1381,22 +1481,18 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>-30.8202</float>
-          <float>5.01038</float>
+          <float>5.01034</float>
           <float>-6.41538</float>
         </list>
         <string name="style">b</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.12645</float>
-          <float>0</float>
-          <float>-2.12645</float>
-          <float>2.12645</float>
-          <float>4.2529</float>
-          <float>2.12645</float>
-        </list>
         <string name="id">36</string>
-        <float name="mass">100000</float>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1407,22 +1503,18 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>-31.4346</float>
-          <float>5.00908</float>
+          <float>5.01002</float>
           <float>-10.665</float>
         </list>
         <string name="style">c</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-2.12645</float>
-          <float>0</float>
-          <float>-2.12645</float>
-          <float>2.12645</float>
-          <float>4.2529</float>
-          <float>2.12645</float>
-        </list>
         <string name="id">37</string>
-        <float name="mass">100000</float>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1433,21 +1525,18 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>-30.371</float>
-          <float>5.00804</float>
+          <float>5.01013</float>
           <float>-15.192</float>
         </list>
         <string name="style">d</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.5</float>
-          <float>0</float>
-          <float>-0.1</float>
-          <float>0.5</float>
-          <float>1</float>
-          <float>0.1</float>
-        </list>
         <string name="id">38</string>
+        <float name="mass">689.634</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1458,21 +1547,18 @@
         <string name="parent">tombstone_a</string>
         <list name="pos">
           <float>-26.6711</float>
-          <float>5.00573</float>
+          <float>5.00387</float>
           <float>-0.851109</float>
         </list>
         <string name="style">cross</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.5</float>
-          <float>0</float>
-          <float>-0.1</float>
-          <float>0.5</float>
-          <float>1</float>
-          <float>0.1</float>
-        </list>
         <string name="id">39</string>
+        <float name="mass">671.723</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1483,21 +1569,18 @@
         <string name="parent">tombstone_b</string>
         <list name="pos">
           <float>-26.8393</float>
-          <float>5.00691</float>
+          <float>5.00547</float>
           <float>-1.85034</float>
         </list>
         <string name="style">cross broken</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.5</float>
-          <float>0</float>
-          <float>-0.1</float>
-          <float>0.5</float>
-          <float>1</float>
-          <float>0.1</float>
-        </list>
         <string name="id">40</string>
+        <float name="mass">671.723</float>
+        <map name="mode_data">
+          <string name="$eid">39</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1508,21 +1591,18 @@
         <string name="parent">tombstone_c</string>
         <list name="pos">
           <float>-26.9967</float>
-          <float>5.0088</float>
+          <float>5.0863</float>
           <float>-2.75259</float>
         </list>
         <string name="style">rounded</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.5</float>
-          <float>0</float>
-          <float>-0.1</float>
-          <float>0.5</float>
-          <float>1</float>
-          <float>0.1</float>
-        </list>
         <string name="id">41</string>
+        <float name="mass">689.634</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1533,20 +1613,17 @@
         <string name="parent">tombstone_a</string>
         <list name="pos">
           <float>-27.2168</float>
-          <float>5.00975</float>
+          <float>5.00944</float>
           <float>-3.77312</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.5</float>
-          <float>0</float>
-          <float>-0.1</float>
-          <float>0.5</float>
-          <float>1</float>
-          <float>0.1</float>
-        </list>
         <string name="id">42</string>
+        <float name="mass">671.723</float>
+        <map name="mode_data">
+          <string name="$eid">41</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1557,13 +1634,18 @@
         <string name="parent">tombstone_b</string>
         <list name="pos">
           <float>-27.2566</float>
-          <float>5.01008</float>
+          <float>5.02996</float>
           <float>-4.73913</float>
         </list>
         <string name="style">stylish</string>
       </map>
       <map>
         <string name="id">43</string>
+        <float name="mass">3478.81</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1574,13 +1656,18 @@
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>-26.9286</float>
-          <float>5.00823</float>
+          <float>5.01007</float>
           <float>-7.89046</float>
         </list>
         <string name="style">brokenA</string>
       </map>
       <map>
         <string name="id">44</string>
+        <float name="mass">5931.46</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1591,13 +1678,18 @@
         <string name="parent">stone_palisade_broken_a</string>
         <list name="pos">
           <float>-27.0132</float>
-          <float>5.00808</float>
+          <float>5.00992</float>
           <float>-10.1526</float>
         </list>
         <string name="style">brokenB</string>
       </map>
       <map>
         <string name="id">45</string>
+        <float name="mass">3478.17</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1608,12 +1700,17 @@
         <string name="parent">stone_palisade_broken_b</string>
         <list name="pos">
           <float>-26.9147</float>
-          <float>5.00777</float>
+          <float>5.00993</float>
           <float>-12.7071</float>
         </list>
       </map>
       <map>
         <string name="id">46</string>
+        <float name="mass">138.916</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1624,12 +1721,17 @@
         <string name="parent">signpost_left</string>
         <list name="pos">
           <float>-25.6007</float>
-          <float>5.00793</float>
+          <float>5.00998</float>
           <float>-7.83952</float>
         </list>
       </map>
       <map>
         <string name="id">47</string>
+        <float name="mass">95.7177</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1640,12 +1742,17 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-25.5367</float>
-          <float>5.00795</float>
+          <float>5.00985</float>
           <float>-8.83468</float>
         </list>
       </map>
       <map>
         <string name="id">48</string>
+        <float name="mass">137.404</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1656,13 +1763,18 @@
         <string name="parent">signpost_right</string>
         <list name="pos">
           <float>-25.5392</float>
-          <float>5.00793</float>
+          <float>5.00989</float>
           <float>-9.94084</float>
         </list>
       </map>
       <map>
         <string name="id">49</string>
+        <float name="mass">95.7177</float>
         <string name="message">Entities of the same type can have different appearances depending on their properties.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1673,12 +1785,22 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-23.2635</float>
-          <float>5.00836</float>
+          <float>5.01036</float>
           <float>-5.28046</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
       <map>
+        <int name="__spawner_amount">1</int>
+        <map name="__spawner_entity">
+          <string name="objtype">obj</string>
+          <string name="parent">dog</string>
+          <int name="transient">5</int>
+        </map>
+        <list name="__spawner_instances">
+          <string>128</string>
+        </list>
+        <int name="__spawner_interval">5</int>
         <string name="id">50</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -1693,18 +1815,16 @@
           <float>5.01008</float>
           <float>30.6416</float>
         </list>
-          <int name="__spawner_amount">1</int>
-          <map name="__spawner_entity">
-            <string name="objtype">obj</string>
-            <string name="parent">dog</string>
-            <int name="transient">5</int>
-          </map>
-          <int name="__spawner_interval">5</int>
         <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">51</string>
+        <float name="mass">95.7177</float>
         <string name="message">Demonstrates how attributes can be set on spawned entities. The dog has a transient property of 5, which means it will be deleted after five seconds.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1715,7 +1835,7 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>9.73149</float>
-          <float>5.01077</float>
+          <float>5.01185</float>
           <float>29.7654</float>
         </list>
         <float name="vis_dist">1000</float>
@@ -1803,48 +1923,54 @@
         <float name="vis_dist">100</float>
       </map>
       <map>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.Patrol</string>
+            <map name="params">
+              <list name="locations">
+                <string>w1</string>
+                <string>w2</string>
+              </list>
+            </map>
+          </map>
+        </list>
+        <map name="_knowledge">
+          <list name="location:w1">
+            <float>39</float>
+            <float>5</float>
+            <float>6</float>
+          </list>
+          <list name="location:w2">
+            <float>37</float>
+            <float>5</float>
+            <float>22</float>
+          </list>
+        </map>
         <string name="id">54</string>
+        <float name="mass">144</float>
+        <string name="name">Patrolling</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
           <float>-0.747734</float>
-          <float>-0</float>
+          <float>0</float>
           <float>0.663998</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>39.4124</float>
-          <float>5.00984</float>
-          <float>10.136</float>
+          <float>5.0077</float>
+          <float>10.1372</float>
         </list>
-          <string name="name">Patrolling</string>
-          <list name="_goals">
-              <map>
-                  <string name="class">mind.goals.common.move.Patrol</string>
-                  <map name="params">
-                      <list name="locations">
-                          <string>w1</string>
-                          <string>w2</string>
-                      </list>
-                  </map>
-              </map>
-          </list>
-          <map name="_knowledge">
-              <list name="location:w1">
-                  <float>39</float>
-                  <float>5</float>
-                  <float>6</float>
-              </list>
-              <list name="location:w2">
-                  <float>37</float>
-                  <float>5</float>
-                  <float>22</float>
-              </list>
-          </map>
       </map>
       <map>
         <string name="id">55</string>
+        <float name="mass">95.7177</float>
         <string name="message">Shows the goal &apos;patrol&apos; which makes the entity patrol two points.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -1855,7 +1981,7 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>34.0467</float>
-          <float>5.00996</float>
+          <float>5.00833</float>
           <float>12.194</float>
         </list>
         <float name="vis_dist">1000</float>
@@ -1984,15 +2110,12 @@
         <float name="vis_dist">100</float>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-        </list>
         <string name="id">59</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2004,20 +2127,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>47.4473</float>
-          <float>5.00623</float>
+          <float>5.00861</float>
           <float>-27.1612</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.451128</float>
-          <float>-0.451128</float>
-          <float>-0.451128</float>
-          <float>0.451128</float>
-          <float>0.451128</float>
-          <float>0.451128</float>
-        </list>
         <string name="id">60</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2029,20 +2149,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>51.9887</float>
-          <float>5.00613</float>
+          <float>5.0078</float>
           <float>-26.9613</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.704887</float>
-          <float>-0.704887</float>
-          <float>-0.704887</float>
-          <float>0.704887</float>
-          <float>0.704887</float>
-          <float>0.704887</float>
-        </list>
         <string name="id">61</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2054,20 +2171,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>53.3603</float>
-          <float>5.00576</float>
+          <float>5.009</float>
           <float>-22.0381</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.667293</float>
-          <float>-0.667293</float>
-          <float>-0.667293</float>
-          <float>0.667293</float>
-          <float>0.667293</float>
-          <float>0.667293</float>
-        </list>
         <string name="id">62</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2079,20 +2193,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>42.2886</float>
-          <float>5.00606</float>
+          <float>5.01028</float>
           <float>-23.7525</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-        </list>
         <string name="id">63</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2104,20 +2215,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>38.4409</float>
-          <float>5.00705</float>
+          <float>5.0101</float>
           <float>-16.338</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-        </list>
         <string name="id">64</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2129,20 +2237,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>40.3427</float>
-          <float>5.00663</float>
+          <float>5.01001</float>
           <float>-15.3023</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-        </list>
         <string name="id">65</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2154,20 +2259,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>46.4006</float>
-          <float>5.00477</float>
+          <float>5.00958</float>
           <float>-20.77</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.507519</float>
-          <float>-0.507519</float>
-          <float>-0.507519</float>
-          <float>0.507519</float>
-          <float>0.507519</float>
-          <float>0.507519</float>
-        </list>
         <string name="id">66</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2179,20 +2281,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>48.8308</float>
-          <float>5.00303</float>
+          <float>5.00934</float>
           <float>-15.675</float>
         </list>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>-0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-          <float>0.25</float>
-        </list>
         <string name="id">67</string>
+        <float name="mass">1100.06</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="name">granite_b</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2204,12 +2303,17 @@
         <string name="parent">granite_b</string>
         <list name="pos">
           <float>44.1521</float>
-          <float>5.00683</float>
+          <float>5.00941</float>
           <float>-12.4895</float>
         </list>
       </map>
       <map>
         <string name="id">68</string>
+        <float name="mass">3478.81</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2220,13 +2324,18 @@
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>52.0138</float>
-          <float>5.00514</float>
+          <float>5.00907</float>
           <float>-17.2742</float>
         </list>
         <string name="style">brokenB</string>
       </map>
       <map>
         <string name="id">69</string>
+        <float name="mass">3478.81</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2237,59 +2346,65 @@
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>47.2666</float>
-          <float>5.00679</float>
+          <float>5.00683</float>
           <float>-31.9655</float>
         </list>
         <string name="style">brokenB</string>
       </map>
       <map>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.common.move.Patrol</string>
+            <map name="params">
+              <list name="locations">
+                <string>w1</string>
+                <string>w2</string>
+                <string>w3</string>
+              </list>
+            </map>
+          </map>
+        </list>
+        <map name="_knowledge">
+          <list name="location:w1">
+            <float>40</float>
+            <float>5</float>
+            <float>-11</float>
+          </list>
+          <list name="location:w2">
+            <float>57.6</float>
+            <float>5</float>
+            <float>-19.6</float>
+          </list>
+          <list name="location:w3">
+            <float>44</float>
+            <float>5</float>
+            <float>-31</float>
+          </list>
+        </map>
         <string name="id">70</string>
+        <float name="mass">144</float>
+        <string name="name">Avoiding obstacles</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.954306</float>
-          <float>-0</float>
-          <float>0.298831</float>
+          <float>0.954306</float>
+          <float>0</float>
+          <float>-0.298831</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
           <float>54.6421</float>
-          <float>5.00623</float>
-          <float>-22.0281</float>
+          <float>5.00892</float>
+          <float>-22.0293</float>
         </list>
-          <string name="name">Avoiding obstacles</string>
-          <list name="_goals">
-              <map>
-                  <string name="class">mind.goals.common.move.Patrol</string>
-                  <map name="params">
-                      <list name="locations">
-                          <string>w1</string>
-                          <string>w2</string>
-                          <string>w3</string>
-                      </list>
-                  </map>
-              </map>
-          </list>
-          <map name="_knowledge">
-              <list name="location:w1">
-                  <float>40</float>
-                  <float>5</float>
-                  <float>-11</float>
-              </list>
-              <list name="location:w2">
-                  <float>57.6</float>
-                  <float>5</float>
-                  <float>-19.6</float>
-              </list>
-              <list name="location:w3">
-                  <float>44</float>
-                  <float>5</float>
-                  <float>-31</float>
-              </list>
-          </map>
       </map>
       <map>
         <string name="id">71</string>
+        <float name="mass">3478.81</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2300,12 +2415,17 @@
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>45.7806</float>
-          <float>5.0048</float>
+          <float>5.00963</float>
           <float>-20.859</float>
         </list>
       </map>
       <map>
         <string name="id">72</string>
+        <float name="mass">3478.81</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2316,13 +2436,18 @@
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>49.6395</float>
-          <float>5.00417</float>
+          <float>5.00934</float>
           <float>-18.8589</float>
         </list>
         <string name="style">brokenA</string>
       </map>
       <map>
         <string name="id">73</string>
+        <float name="mass">3478.81</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2333,14 +2458,19 @@
         <string name="parent">stone_palisade</string>
         <list name="pos">
           <float>48.4584</float>
-          <float>5.00472</float>
+          <float>5.00925</float>
           <float>-22.663</float>
         </list>
         <string name="style">brokenA</string>
       </map>
       <map>
         <string name="id">74</string>
+        <float name="mass">95.7177</float>
         <string name="message">Aims to demonstrate how a character navigates obstacles to patrol between three points. If the human is stuck it means that we need to improve the path finding.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2351,14 +2481,19 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>36.4229</float>
-          <float>5.00772</float>
+          <float>5.01028</float>
           <float>-19.0121</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
       <map>
         <string name="id">75</string>
+        <float name="mass">95.7177</float>
         <string name="message">This is a demo world, meant to showcase different features of the Worldforge system.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2369,38 +2504,57 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>0.388492</float>
-          <float>5.00213</float>
+          <float>4.99929</float>
           <float>-0.186268</float>
         </list>
       </map>
       <map>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.humanoid.construction.Gather</string>
+            <map name="params">
+              <float name="distance">10</float>
+              <int name="max_amount">100</int>
+              <string name="what">entity.type=types.amanita</string>
+            </map>
+          </map>
+        </list>
         <string name="id">76</string>
+        <float name="mass">144</float>
+        <string name="name">Mushroom collector</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
           <float>-0.552262</float>
-          <float>-0</float>
+          <float>0</float>
           <float>0.833671</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
-          <float>-11.8715</float>
-          <float>5.00855</float>
-          <float>25.2875</float>
+          <float>-10.6782</float>
+          <float>5.00685</float>
+          <float>28.1172</float>
         </list>
-          <string name="name">Mushroom collector</string>
-          <list name="_goals">
-              <map>
-                  <string name="class">mind.goals.humanoid.construction.Gather</string>
-                  <map name="params">
-                      <float name="distance">10</float>
-                      <int name="max_amount">100</int>
-                      <string name="what">entity.type=types.amanita</string>
-                  </map>
-              </map>
-          </list>
       </map>
       <map>
+        <int name="__spawner_amount">2</int>
+        <string name="__spawner_criteria">entity instance_of types.amanita</string>
+        <map name="__spawner_entity">
+          <string name="objtype">obj</string>
+          <string name="parent">amanita</string>
+          <int name="transient">60</int>
+        </map>
+        <int name="__spawner_interval">5</int>
+        <list name="__spawner_locations">
+          <map>
+            <list name="pos">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+            </list>
+            <float name="radius">3</float>
+          </map>
+        </list>
         <string name="id">77</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2415,27 +2569,14 @@
           <float>5.00867</float>
           <float>24.8984</float>
         </list>
-        <string name="__spawner_criteria">entity instance_of types.amanita</string>
-        <map name="__spawner_entity">
-          <string name="objtype">obj</string>
-          <string name="parent">amanita</string>
-          <int name="transient">60</int>
-        </map>
-        <int name="__spawner_interval">5</int>
-        <list name="__spawner_locations">
-            <map>
-                <list name="pos">
-                    <float>0</float>
-                    <float>0</float>
-                    <float>0</float>
-                </list>
-                <float name="radius">3</float>
-            </map>
-        </list>
-        <int name="__spawner_amount">2</int>
       </map>
       <map>
         <string name="id">78</string>
+        <float name="mass">10.3872</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2446,13 +2587,18 @@
         <string name="parent">galerina</string>
         <list name="pos">
           <float>-12.5777</float>
-          <float>5.00815</float>
+          <float>5.00584</float>
           <float>26.3645</float>
         </list>
       </map>
       <map>
         <string name="id">79</string>
+        <float name="mass">95.7177</float>
         <string name="message">Shows entity filter goals. The human is told to gather mushrooms, but only those belonging to the species amanita. New amanitas are created by the spawner.</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2463,37 +2609,48 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-12.075</float>
-          <float>5.00904</float>
+          <float>5.00524</float>
           <float>22.0513</float>
         </list>
       </map>
       <map>
+        <list name="_goals">
+          <map>
+            <string name="class">mind.goals.humanoid.mason.Welcome</string>
+            <map name="params">
+              <string name="message">Hello piggie!</string>
+              <string name="what">entity instance_of types.pig</string>
+            </map>
+          </map>
+        </list>
         <string name="id">80</string>
+        <float name="mass">144</float>
         <string name="name">Pig greeter</string>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
           <float>0.801445</float>
-          <float>-0</float>
+          <float>0</float>
           <float>0.598068</float>
         </list>
         <string name="parent">human</string>
         <list name="pos">
-          <float>-0.986571</float>
-          <float>5.01807</float>
-          <float>35.3169</float>
+          <float>-0.904907</float>
+          <float>5.00153</float>
+          <float>35.8454</float>
         </list>
-          <list name="_goals">
-              <map>
-                  <string name="class">mind.goals.humanoid.mason.Welcome</string>
-                  <map name="params">
-                      <string name="message">Hello piggie!</string>
-                      <string name="what">entity instance_of types.pig</string>
-                  </map>
-              </map>
-          </list>
       </map>
       <map>
+        <int name="__spawner_amount">1</int>
+        <map name="__spawner_entity">
+          <string name="objtype">obj</string>
+          <string name="parent">pig</string>
+          <int name="transient">4</int>
+        </map>
+        <list name="__spawner_instances">
+          <string>131</string>
+        </list>
+        <int name="__spawner_interval">5</int>
         <string name="id">81</string>
         <string name="objtype">obj</string>
         <list name="orientation">
@@ -2508,16 +2665,14 @@
           <float>5.01566</float>
           <float>34.738</float>
         </list>
-          <int name="__spawner_amount">1</int>
-          <map name="__spawner_entity">
-              <string name="objtype">obj</string>
-              <string name="parent">pig</string>
-              <int name="transient">4</int>
-          </map>
-          <int name="__spawner_interval">5</int>
       </map>
       <map>
         <string name="id">82</string>
+        <float name="mass">95.7177</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
@@ -2528,116 +2683,131 @@
         <string name="parent">signpost</string>
         <list name="pos">
           <float>-2.82468</float>
-          <float>5.01004</float>
+          <float>5.01077</float>
           <float>31.8398</float>
         </list>
       </map>
       <map>
+        <string name="__account">a</string>
+        <list name="__scripts!prepend">
+          <map>
+            <string name="language">python</string>
+            <string name="name">world.traits.PlayerControlled.PlayerControlled</string>
+          </map>
+        </list>
+        <list name="_modifiers">
+          <map>
+            <string name="$eid">93</string>
+            <map name="modifier">
+              <map name="armor">
+                <float name="append">1</float>
+              </map>
+            </map>
+          </map>
+        </list>
+        <float name="armor">1</float>
+        <map name="attached_legs">
+          <string name="$eid">93</string>
+        </map>
+        <list name="contains">
+          <string>93</string>
+          <string>94</string>
+          <string>95</string>
+        </list>
         <string name="id">83</string>
+        <float name="mass">144</float>
+        <map name="mind">
+        </map>
         <string name="objtype">obj</string>
-        <string name="parent">pants</string>
-      <string name="style">burlap</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0.703627</float>
+          <float>0</float>
+          <float>0.710569</float>
+        </list>
+        <string name="parent">human</string>
+        <list name="pos">
+          <float>16.3309</float>
+          <float>5.01333</float>
+          <float>-4.33034</float>
+        </list>
       </map>
       <map>
         <string name="id">84</string>
+        <float name="mass">0.8047</float>
+        <string name="objtype">obj</string>
+        <string name="parent">pants</string>
+        <string name="style">burlap</string>
+      </map>
+      <map>
+        <string name="id">85</string>
+        <float name="mass">0.794347</float>
         <string name="objtype">obj</string>
         <string name="parent">knife</string>
       </map>
       <map>
-        <string name="id">85</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
+        <int name="amount">6</int>
         <string name="id">86</string>
         <string name="objtype">obj</string>
         <string name="parent">coin</string>
       </map>
       <map>
         <string name="id">87</string>
+        <float name="mass">0.626417</float>
         <string name="objtype">obj</string>
-        <string name="parent">coin</string>
+        <string name="parent">shirt</string>
+        <string name="style">fine</string>
       </map>
       <map>
         <string name="id">88</string>
+        <float name="mass">0.8047</float>
         <string name="objtype">obj</string>
-        <string name="parent">coin</string>
+        <string name="parent">pants</string>
+        <string name="style">fine</string>
       </map>
       <map>
         <string name="id">89</string>
+        <float name="mass">0.626417</float>
         <string name="objtype">obj</string>
-        <string name="parent">coin</string>
+        <string name="parent">cloak</string>
+        <string name="style">fine</string>
       </map>
       <map>
         <string name="id">90</string>
+        <float name="mass">2.63175</float>
         <string name="objtype">obj</string>
-        <string name="parent">coin</string>
+        <string name="parent">boots</string>
+        <string name="style">fine</string>
       </map>
       <map>
         <string name="id">91</string>
+        <float name="mass">0.285558</float>
         <string name="objtype">obj</string>
-        <string name="parent">shirt</string>
-      <string name="style">fine</string>
+        <string name="parent">hat</string>
+        <string name="style">fine</string>
       </map>
       <map>
+        <int name="amount">6</int>
         <string name="id">92</string>
         <string name="objtype">obj</string>
-        <string name="parent">pants</string>
-      <string name="style">fine</string>
+        <string name="parent">coin</string>
       </map>
       <map>
         <string name="id">93</string>
+        <float name="mass">0.8047</float>
         <string name="objtype">obj</string>
-        <string name="parent">cloak</string>
-      <string name="style">fine</string>
+        <string name="parent">pants</string>
+        <string name="style">burlap</string>
       </map>
       <map>
-        <list name="bbox">
-          <float>-0.2</float>
-          <float>0</float>
-          <float>-0.1</float>
-          <float>0.2</float>
-          <float>0.3</float>
-          <float>0.1</float>
-        </list>
         <string name="id">94</string>
+        <float name="mass">0.794347</float>
         <string name="objtype">obj</string>
-        <string name="parent">boots</string>
-      <string name="style">fine</string>
+        <string name="parent">knife</string>
       </map>
       <map>
+        <int name="amount">10</int>
         <string name="id">95</string>
-        <string name="objtype">obj</string>
-        <string name="parent">hat</string>
-      <string name="style">fine</string>
-      </map>
-      <map>
-        <string name="id">96</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
-        <string name="id">97</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
-        <string name="id">98</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
-        <string name="id">99</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
-        <string name="id">100</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
-        <string name="id">101</string>
         <string name="objtype">obj</string>
         <string name="parent">coin</string>
       </map>
@@ -2647,13 +2817,14 @@
       <string name="name"></string>
       <int name="preserved_ids">0</int>
       <map name="server">
-        <string name="host">localhost.localdomain</string>
-        <string name="name">localhost.localdomain</string>
+        <string name="host">ulthar</string>
+        <string name="name">ulthar</string>
         <string name="ruleset">deeds</string>
-        <string name="version">0.6.3</string>
+        <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1430519021884</string>
+      <string name="timestamp">1593296302118</string>
       <int name="transients">0</int>
     </map>
   </map>
+
 </atlas>
