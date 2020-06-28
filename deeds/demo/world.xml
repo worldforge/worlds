@@ -26,7 +26,8 @@
         <string name="name">root</string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
-        <float name="world_time">10.3969</float>
+        <int name="suspended">1</int>
+        <float name="world_time">3545.46</float>
       </map>
       <map>
         <string name="__alias">limbo</string>
@@ -126,7 +127,6 @@
           <string>80</string>
           <string>81</string>
           <string>82</string>
-          <string>83</string>
         </list>
         <string name="id">2</string>
         <string name="mode">fixed</string>
@@ -563,12 +563,12 @@
       <map>
         <float name="armor">1</float>
         <map name="attached_legs">
-          <string name="$eid">84</string>
+          <string name="$eid">83</string>
         </map>
         <list name="contains">
+          <string>83</string>
           <string>84</string>
           <string>85</string>
-          <string>86</string>
         </list>
         <string name="id">9</string>
         <float name="mass">144</float>
@@ -590,27 +590,27 @@
       <map>
         <float name="armor">4.5</float>
         <map name="attached_back">
-          <string name="$eid">89</string>
-        </map>
-        <map name="attached_feet">
-          <string name="$eid">90</string>
-        </map>
-        <map name="attached_head">
-          <string name="$eid">91</string>
-        </map>
-        <map name="attached_legs">
           <string name="$eid">88</string>
         </map>
-        <map name="attached_torso">
+        <map name="attached_feet">
+          <string name="$eid">89</string>
+        </map>
+        <map name="attached_head">
+          <string name="$eid">90</string>
+        </map>
+        <map name="attached_legs">
           <string name="$eid">87</string>
         </map>
+        <map name="attached_torso">
+          <string name="$eid">86</string>
+        </map>
         <list name="contains">
+          <string>86</string>
           <string>87</string>
           <string>88</string>
           <string>89</string>
           <string>90</string>
           <string>91</string>
-          <string>92</string>
         </list>
         <string name="id">10</string>
         <float name="mass">144</float>
@@ -640,15 +640,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.979018</float>
+          <float>-0.836361</float>
           <float>0</float>
-          <float>-0.203775</float>
+          <float>0.548179</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>14.2067</float>
-          <float>5.0109</float>
-          <float>2.91485</float>
+          <float>14.2968</float>
+          <float>5.01108</float>
+          <float>3.03888</float>
         </list>
       </map>
       <map>
@@ -738,15 +738,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.992907</float>
+          <float>-0.729304</float>
           <float>0</float>
-          <float>-0.118891</float>
+          <float>0.684189</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>18.3637</float>
+          <float>18.6177</float>
           <float>5.01033</float>
-          <float>-12.6444</float>
+          <float>-12.6929</float>
         </list>
       </map>
       <map>
@@ -780,15 +780,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.981445</float>
+          <float>-0.720003</float>
           <float>0</float>
-          <float>-0.191746</float>
+          <float>0.693971</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>19.6353</float>
-          <float>5.00968</float>
-          <float>-25.3341</float>
+          <float>19.1456</float>
+          <float>5.00974</float>
+          <float>-24.5278</float>
         </list>
       </map>
       <map>
@@ -868,7 +868,7 @@
         <string name="parent">human</string>
         <list name="pos">
           <float>14.6428</float>
-          <float>5.00858</float>
+          <float>5.00862</float>
           <float>22.9278</float>
         </list>
       </map>
@@ -883,15 +883,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.979789</float>
+          <float>-0.879142</float>
           <float>0</float>
-          <float>-0.200035</float>
+          <float>0.47656</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>12.548</float>
-          <float>5.00775</float>
-          <float>13.6257</float>
+          <float>12.299</float>
+          <float>5.00807</float>
+          <float>13.5403</float>
         </list>
       </map>
       <map>
@@ -905,15 +905,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.99652</float>
+          <float>-0.86411</float>
           <float>0</float>
-          <float>-0.0833513</float>
+          <float>0.503303</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>11.3187</float>
-          <float>5.00983</float>
-          <float>21.6193</float>
+          <float>11.4285</float>
+          <float>5.00984</float>
+          <float>21.7838</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
@@ -1096,15 +1096,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.643832</float>
+          <float>-0.00136414</float>
           <float>0</float>
-          <float>0.765167</float>
+          <float>0.999999</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>13.8735</float>
-          <float>5.00913</float>
-          <float>-35.6554</float>
+          <float>13.8333</float>
+          <float>5.00916</float>
+          <float>-35.5275</float>
         </list>
       </map>
       <map>
@@ -1118,15 +1118,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.643832</float>
+          <float>-0.00136415</float>
           <float>0</float>
-          <float>0.765167</float>
+          <float>0.999999</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>20.2984</float>
-          <float>5.0085</float>
-          <float>-36.1398</float>
+          <float>20.4959</float>
+          <float>5.00855</float>
+          <float>-35.7577</float>
         </list>
       </map>
       <map>
@@ -1140,15 +1140,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.643832</float>
+          <float>-0.00136418</float>
           <float>0</float>
-          <float>0.765167</float>
+          <float>0.999999</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>7.33226</float>
-          <float>5.01376</float>
-          <float>-35.412</float>
+          <float>7.33464</float>
+          <float>5.01367</float>
+          <float>-35.0234</float>
         </list>
       </map>
       <map>
@@ -1162,15 +1162,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.643832</float>
+          <float>-0.00136417</float>
           <float>0</float>
-          <float>0.765167</float>
+          <float>0.999999</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>27.298</float>
-          <float>5.00842</float>
-          <float>-36.5904</float>
+          <float>27.0112</float>
+          <float>5.0084</float>
+          <float>-36.7742</float>
         </list>
       </map>
       <map>
@@ -1184,15 +1184,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.708071</float>
+          <float>-0.0885144</float>
           <float>0</float>
-          <float>0.706142</float>
+          <float>0.996075</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>-14.305</float>
-          <float>5.00921</float>
-          <float>-20.8211</float>
+          <float>-14.1893</float>
+          <float>5.0092</float>
+          <float>-21.0309</float>
         </list>
       </map>
       <map>
@@ -1569,7 +1569,7 @@
         <string name="id">42</string>
         <float name="mass">671.723</float>
         <map name="mode_data">
-          <string name="$eid">41</string>
+          <string name="$eid">2</string>
           <string name="mode">planted</string>
         </map>
         <string name="objtype">obj</string>
@@ -1582,7 +1582,7 @@
         <string name="parent">tombstone_b</string>
         <list name="pos">
           <float>-27.2566</float>
-          <float>5.02996</float>
+          <float>5.01016</float>
           <float>-4.73913</float>
         </list>
         <string name="style">stylish</string>
@@ -1662,15 +1662,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0.0794438</float>
+          <float>-0.648696</float>
           <float>0</float>
-          <float>-0.996839</float>
+          <float>-0.761047</float>
         </list>
         <string name="parent">signpost_left</string>
         <list name="pos">
-          <float>-25.6007</float>
-          <float>5.00998</float>
-          <float>-7.83952</float>
+          <float>-23.2506</float>
+          <float>5.00971</float>
+          <float>-7.59102</float>
         </list>
       </map>
       <map>
@@ -1683,15 +1683,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0.0794438</float>
+          <float>-0.648696</float>
           <float>0</float>
-          <float>-0.996839</float>
+          <float>-0.761047</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>-25.5367</float>
-          <float>5.00985</float>
-          <float>-8.83468</float>
+          <float>-23.2857</float>
+          <float>5.00971</float>
+          <float>-8.75789</float>
         </list>
       </map>
       <map>
@@ -1704,15 +1704,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0.0794438</float>
+          <float>-0.648696</float>
           <float>0</float>
-          <float>-0.996839</float>
+          <float>-0.761047</float>
         </list>
         <string name="parent">signpost_right</string>
         <list name="pos">
-          <float>-25.5392</float>
-          <float>5.00989</float>
-          <float>-9.94084</float>
+          <float>-23.2105</float>
+          <float>5.00974</float>
+          <float>-9.85831</float>
         </list>
       </map>
       <map>
@@ -1726,15 +1726,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0.0794438</float>
+          <float>-0.712558</float>
           <float>0</float>
-          <float>-0.996839</float>
+          <float>-0.701614</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>-23.2635</float>
-          <float>5.01036</float>
-          <float>-5.28046</float>
+          <float>-24.0798</float>
+          <float>5.01067</float>
+          <float>-3.29784</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
@@ -1776,15 +1776,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>0.976502</float>
+          <float>0.88657</float>
           <float>0</float>
-          <float>0.215508</float>
+          <float>-0.462595</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>9.73149</float>
-          <float>5.01185</float>
-          <float>29.7654</float>
+          <float>9.70363</float>
+          <float>5.01186</float>
+          <float>29.7476</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
@@ -1922,15 +1922,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.951729</float>
+          <float>-0.84689</float>
           <float>0</float>
-          <float>-0.306941</float>
+          <float>0.531769</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>34.0467</float>
-          <float>5.00833</float>
-          <float>12.194</float>
+          <float>34.0259</float>
+          <float>5.00836</float>
+          <float>11.9995</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
@@ -2422,15 +2422,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.996566</float>
+          <float>-0.816641</float>
           <float>0</float>
-          <float>-0.082807</float>
+          <float>0.577146</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>36.4229</float>
+          <float>36.6076</float>
           <float>5.01028</float>
-          <float>-19.0121</float>
+          <float>-19.0054</float>
         </list>
         <float name="vis_dist">1000</float>
       </map>
@@ -2445,15 +2445,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.993956</float>
+          <float>-0.805901</float>
           <float>0</float>
-          <float>0.109781</float>
+          <float>0.592051</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>0.388492</float>
-          <float>4.99929</float>
-          <float>-0.186268</float>
+          <float>0.35643</float>
+          <float>5.0017</float>
+          <float>0.00802612</float>
         </list>
       </map>
       <map>
@@ -2550,15 +2550,15 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.526563</float>
+          <float>-0.949828</float>
           <float>0</float>
-          <float>-0.850136</float>
+          <float>-0.312774</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>-12.075</float>
-          <float>5.00524</float>
-          <float>22.0513</float>
+          <float>-10.1293</float>
+          <float>5.00581</float>
+          <float>24.0804</float>
         </list>
       </map>
       <map>
@@ -2566,9 +2566,9 @@
           <map>
             <string name="class">mind.goals.humanoid.mason.Welcome</string>
             <map name="params">
+              <float name="distance">20</float>
               <string name="message">Hello piggy!</string>
               <string name="what">entity instance_of types.pig</string>
-              <float name="distance">20</float>
             </map>
           </map>
         </list>
@@ -2625,101 +2625,66 @@
         <string name="objtype">obj</string>
         <list name="orientation">
           <float>0</float>
-          <float>-0.605294</float>
+          <float>-0.952396</float>
           <float>0</float>
-          <float>-0.796002</float>
+          <float>-0.304864</float>
         </list>
         <string name="parent">signpost</string>
         <list name="pos">
-          <float>-2.82468</float>
-          <float>5.01077</float>
-          <float>31.8398</float>
+          <float>-2.73569</float>
+          <float>5.01045</float>
+          <float>31.9643</float>
         </list>
       </map>
       <map>
-        <string name="__account">a</string>
-        <list name="__scripts!prepend">
-          <map>
-            <string name="language">python</string>
-            <string name="name">world.traits.PlayerControlled.PlayerControlled</string>
-          </map>
-        </list>
-        <float name="armor">1</float>
-        <map name="attached_legs">
-          <string name="$eid">93</string>
-        </map>
-        <list name="contains">
-          <string>93</string>
-          <string>94</string>
-          <string>95</string>
-        </list>
         <string name="id">83</string>
-        <float name="mass">144</float>
-        <map name="mind">
-        </map>
-        <string name="objtype">obj</string>
-        <list name="orientation">
-          <float>0</float>
-          <float>0.703627</float>
-          <float>0</float>
-          <float>0.710569</float>
-        </list>
-        <string name="parent">human</string>
-        <list name="pos">
-          <float>16.3309</float>
-          <float>5.01333</float>
-          <float>-4.33034</float>
-        </list>
-      </map>
-      <map>
-        <string name="id">84</string>
         <float name="mass">0.8047</float>
         <string name="objtype">obj</string>
         <string name="parent">pants</string>
         <string name="style">burlap</string>
       </map>
       <map>
-        <string name="id">85</string>
+        <string name="id">84</string>
         <float name="mass">0.794347</float>
         <string name="objtype">obj</string>
         <string name="parent">knife</string>
       </map>
       <map>
         <int name="amount">6</int>
-        <string name="id">86</string>
+        <string name="id">85</string>
         <string name="objtype">obj</string>
         <string name="parent">coin</string>
       </map>
       <map>
-        <string name="id">87</string>
+        <string name="id">86</string>
         <float name="mass">0.626417</float>
         <string name="objtype">obj</string>
         <string name="parent">shirt</string>
         <string name="style">fine</string>
       </map>
       <map>
-        <string name="id">88</string>
+        <string name="id">87</string>
         <float name="mass">0.8047</float>
         <string name="objtype">obj</string>
         <string name="parent">pants</string>
         <string name="style">fine</string>
       </map>
       <map>
-        <string name="id">89</string>
+        <string name="id">88</string>
         <float name="mass">0.626417</float>
         <string name="objtype">obj</string>
         <string name="parent">cloak</string>
         <string name="style">fine</string>
       </map>
       <map>
-        <string name="id">90</string>
+        <string name="id">89</string>
         <float name="mass">2.63175</float>
         <string name="objtype">obj</string>
         <string name="parent">boots</string>
         <string name="style">fine</string>
       </map>
       <map>
-        <string name="id">91</string>
+        <string name="id">90</string>
         <float name="mass">0.285558</float>
         <string name="objtype">obj</string>
         <string name="parent">hat</string>
@@ -2727,26 +2692,7 @@
       </map>
       <map>
         <int name="amount">6</int>
-        <string name="id">92</string>
-        <string name="objtype">obj</string>
-        <string name="parent">coin</string>
-      </map>
-      <map>
-        <string name="id">93</string>
-        <float name="mass">0.8047</float>
-        <string name="objtype">obj</string>
-        <string name="parent">pants</string>
-        <string name="style">burlap</string>
-      </map>
-      <map>
-        <string name="id">94</string>
-        <float name="mass">0.794347</float>
-        <string name="objtype">obj</string>
-        <string name="parent">knife</string>
-      </map>
-      <map>
-        <int name="amount">10</int>
-        <string name="id">95</string>
+        <string name="id">91</string>
         <string name="objtype">obj</string>
         <string name="parent">coin</string>
       </map>
@@ -2761,7 +2707,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1593296302118</string>
+      <string name="timestamp">1593354609082</string>
       <int name="transients">0</int>
     </map>
   </map>
