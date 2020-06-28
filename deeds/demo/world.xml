@@ -561,16 +561,6 @@
         </list>
       </map>
       <map>
-        <list name="_modifiers">
-          <map>
-            <string name="$eid">84</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">1</float>
-              </map>
-            </map>
-          </map>
-        </list>
         <float name="armor">1</float>
         <map name="attached_legs">
           <string name="$eid">84</string>
@@ -598,48 +588,6 @@
         </list>
       </map>
       <map>
-        <list name="_modifiers">
-          <map>
-            <string name="$eid">87</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">1</float>
-              </map>
-            </map>
-          </map>
-          <map>
-            <string name="$eid">88</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">1</float>
-              </map>
-            </map>
-          </map>
-          <map>
-            <string name="$eid">89</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">1</float>
-              </map>
-            </map>
-          </map>
-          <map>
-            <string name="$eid">90</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">1</float>
-              </map>
-            </map>
-          </map>
-          <map>
-            <string name="$eid">91</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">0.5</float>
-              </map>
-            </map>
-          </map>
-        </list>
         <float name="armor">4.5</float>
         <map name="attached_back">
           <string name="$eid">89</string>
@@ -2694,16 +2642,6 @@
           <map>
             <string name="language">python</string>
             <string name="name">world.traits.PlayerControlled.PlayerControlled</string>
-          </map>
-        </list>
-        <list name="_modifiers">
-          <map>
-            <string name="$eid">93</string>
-            <map name="modifier">
-              <map name="armor">
-                <float name="append">1</float>
-              </map>
-            </map>
           </map>
         </list>
         <float name="armor">1</float>
