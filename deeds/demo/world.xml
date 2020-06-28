@@ -27,7 +27,7 @@
         <string name="objtype">obj</string>
         <string name="parent">world</string>
         <int name="suspended">1</int>
-        <float name="world_time">4639.99</float>
+        <float name="world_time">5491.5</float>
       </map>
       <map>
         <string name="__alias">limbo</string>
@@ -151,6 +151,10 @@
           <string>104</string>
           <string>105</string>
           <string>106</string>
+          <string>107</string>
+          <string>108</string>
+          <string>109</string>
+          <string>110</string>
         </list>
         <string name="id">2</string>
         <string name="mode">fixed</string>
@@ -587,12 +591,12 @@
       <map>
         <float name="armor">1</float>
         <map name="attached_legs">
-          <string name="$eid">107</string>
+          <string name="$eid">111</string>
         </map>
         <list name="contains">
-          <string>107</string>
-          <string>108</string>
-          <string>109</string>
+          <string>111</string>
+          <string>112</string>
+          <string>113</string>
         </list>
         <string name="id">9</string>
         <float name="mass">144</float>
@@ -614,27 +618,27 @@
       <map>
         <float name="armor">4.5</float>
         <map name="attached_back">
-          <string name="$eid">112</string>
+          <string name="$eid">116</string>
         </map>
         <map name="attached_feet">
-          <string name="$eid">113</string>
+          <string name="$eid">117</string>
         </map>
         <map name="attached_head">
-          <string name="$eid">114</string>
+          <string name="$eid">118</string>
         </map>
         <map name="attached_legs">
-          <string name="$eid">111</string>
+          <string name="$eid">115</string>
         </map>
         <map name="attached_torso">
-          <string name="$eid">110</string>
+          <string name="$eid">114</string>
         </map>
         <list name="contains">
-          <string>110</string>
-          <string>111</string>
-          <string>112</string>
-          <string>113</string>
           <string>114</string>
           <string>115</string>
+          <string>116</string>
+          <string>117</string>
+          <string>118</string>
+          <string>119</string>
         </list>
         <string name="id">10</string>
         <float name="mass">144</float>
@@ -3165,54 +3169,239 @@
         </list>
       </map>
       <map>
+        <string name="name">Skeleton spawner</string>
         <string name="id">107</string>
-        <float name="mass">0.8047</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
-        <string name="parent">pants</string>
-        <string name="style">burlap</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+          <float>1</float>
+        </list>
+        <string name="parent">spawner_instances</string>
+        <list name="pos">
+          <float>-64</float>
+          <float>5.00821</float>
+          <float>13</float>
+        </list>
+          <int name="__spawner_amount">1</int>
+          <map name="__spawner_entity">
+              <string name="objtype">obj</string>
+              <string name="parent">goblin</string>
+              <int name="transient">-1</int>
+              <list name="_relations">
+                  <map>
+                      <string name="filter">entity.type=types.skeleton</string>
+                      <float name="disposition">-10</float>
+                      <float name="threat">-10</float>
+                  </map>
+                  <map>
+                      <string name="filter">entity.type=types.wolf</string>
+                      <float name="disposition">-10</float>
+                      <float name="threat">-10</float>
+                  </map>
+              </list>
+          </map>
+          <int name="__spawner_interval">30</int>
+          <list name="__spawner_locations">
+              <map>
+                  <list name="pos">
+                      <float>0</float>
+                      <float>0</float>
+                      <float>0</float>
+                  </list>
+                  <float name="radius">0.5</float>
+              </map>
+          </list>
+        <float name="vis_dist">100</float>
       </map>
       <map>
+        <string name="name">Goblin spawner</string>
         <string name="id">108</string>
-        <float name="mass">0.794347</float>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
-        <string name="parent">knife</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+          <float>1</float>
+        </list>
+        <string name="parent">spawner_instances</string>
+        <list name="pos">
+          <float>-77</float>
+          <float>5.00528</float>
+          <float>15</float>
+        </list>
+        <float name="vis_dist">100</float>
+          <int name="__spawner_amount">1</int>
+          <map name="__spawner_entity">
+              <string name="objtype">obj</string>
+              <string name="parent">skeleton</string>
+              <int name="transient">-1</int>
+              <list name="_relations">
+                  <map>
+                      <string name="filter">entity.type=types.goblin</string>
+                      <float name="disposition">-10</float>
+                      <float name="threat">-10</float>
+                  </map>
+              </list>
+          </map>
+          <int name="__spawner_interval">30</int>
+          <list name="__spawner_locations">
+              <map>
+                  <list name="pos">
+                      <float>0</float>
+                      <float>0</float>
+                      <float>0</float>
+                  </list>
+                  <float name="radius">0.5</float>
+              </map>
+          </list>
       </map>
       <map>
-        <int name="amount">6</int>
+        <string name="name">Wolf spawner</string>
         <string name="id">109</string>
+        <map name="mode_data">
+          <string name="$eid">2</string>
+          <string name="mode">planted</string>
+        </map>
         <string name="objtype">obj</string>
-        <string name="parent">coin</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+          <float>1</float>
+        </list>
+        <string name="parent">spawner_instances</string>
+        <list name="pos">
+          <float>-77</float>
+          <float>5.00036</float>
+          <float>0</float>
+        </list>
+        <float name="vis_dist">100</float>
+          <int name="__spawner_amount">1</int>
+          <map name="__spawner_entity">
+              <string name="objtype">obj</string>
+              <string name="parent">wolf</string>
+              <int name="transient">-1</int>
+              <list name="_relations">
+              </list>
+          </map>
+          <int name="__spawner_interval">30</int>
+          <list name="__spawner_locations">
+              <map>
+                  <list name="pos">
+                      <float>0</float>
+                      <float>0</float>
+                      <float>0</float>
+                  </list>
+                  <float name="radius">0.5</float>
+              </map>
+          </list>
       </map>
       <map>
+        <string name="name">Goblin archer spawner</string>
         <string name="id">110</string>
-        <float name="mass">0.626417</float>
         <string name="objtype">obj</string>
-        <string name="parent">shirt</string>
-        <string name="style">fine</string>
+        <list name="orientation">
+          <float>0</float>
+          <float>0</float>
+          <float>0</float>
+          <float>1</float>
+        </list>
+        <string name="parent">spawner_instances</string>
+        <list name="pos">
+          <float>-64.9253</float>
+          <float>5.00543</float>
+          <float>1.49646</float>
+        </list>
+        <float name="vis_dist">100</float>
+          <int name="__spawner_amount">1</int>
+          <map name="__spawner_entity">
+              <string name="objtype">obj</string>
+              <string name="parent">goblin_archer</string>
+              <int name="transient">-1</int>
+              <list name="_relations">
+                  <map>
+                      <string name="filter">entity.type=types.skeleton</string>
+                      <float name="disposition">-10</float>
+                      <float name="threat">-10</float>
+                  </map>
+                  <map>
+                      <string name="filter">entity.type=types.wolf</string>
+                      <float name="disposition">-10</float>
+                      <float name="threat">-10</float>
+                  </map>
+              </list>
+          </map>
+          <int name="__spawner_interval">30</int>
+          <list name="__spawner_locations">
+              <map>
+                  <list name="pos">
+                      <float>0</float>
+                      <float>0</float>
+                      <float>0</float>
+                  </list>
+                  <float name="radius">0.5</float>
+              </map>
+          </list>
       </map>
       <map>
         <string name="id">111</string>
         <float name="mass">0.8047</float>
         <string name="objtype">obj</string>
         <string name="parent">pants</string>
-        <string name="style">fine</string>
+        <string name="style">burlap</string>
       </map>
       <map>
         <string name="id">112</string>
+        <float name="mass">0.794347</float>
+        <string name="objtype">obj</string>
+        <string name="parent">knife</string>
+      </map>
+      <map>
+        <int name="amount">6</int>
+        <string name="id">113</string>
+        <string name="objtype">obj</string>
+        <string name="parent">coin</string>
+      </map>
+      <map>
+        <string name="id">114</string>
+        <float name="mass">0.626417</float>
+        <string name="objtype">obj</string>
+        <string name="parent">shirt</string>
+        <string name="style">fine</string>
+      </map>
+      <map>
+        <string name="id">115</string>
+        <float name="mass">0.8047</float>
+        <string name="objtype">obj</string>
+        <string name="parent">pants</string>
+        <string name="style">fine</string>
+      </map>
+      <map>
+        <string name="id">116</string>
         <float name="mass">0.626417</float>
         <string name="objtype">obj</string>
         <string name="parent">cloak</string>
         <string name="style">fine</string>
       </map>
       <map>
-        <string name="id">113</string>
+        <string name="id">117</string>
         <float name="mass">2.63175</float>
         <string name="objtype">obj</string>
         <string name="parent">boots</string>
         <string name="style">fine</string>
       </map>
       <map>
-        <string name="id">114</string>
+        <string name="id">118</string>
         <float name="mass">0.285558</float>
         <string name="objtype">obj</string>
         <string name="parent">hat</string>
@@ -3220,7 +3409,7 @@
       </map>
       <map>
         <int name="amount">6</int>
-        <string name="id">115</string>
+        <string name="id">119</string>
         <string name="objtype">obj</string>
         <string name="parent">coin</string>
       </map>
@@ -3235,7 +3424,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1593355703615</string>
+      <string name="timestamp">1593356555130</string>
       <int name="transients">0</int>
     </map>
   </map>
