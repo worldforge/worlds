@@ -3205,6 +3205,11 @@
                       <float name="threat">-10</float>
                   </map>
               </list>
+              <list name="_goals!append">
+                  <map>
+                      <string name="class">mind.goals.common.move.Wander</string>
+                  </map>
+              </list>
           </map>
           <int name="__spawner_interval">30</int>
           <list name="__spawner_locations">
@@ -3252,6 +3257,11 @@
                       <float name="threat">-10</float>
                   </map>
               </list>
+              <list name="_goals!append">
+                  <map>
+                      <string name="class">mind.goals.common.move.Wander</string>
+                  </map>
+              </list>
           </map>
           <int name="__spawner_interval">30</int>
           <list name="__spawner_locations">
@@ -3291,7 +3301,11 @@
               <string name="objtype">obj</string>
               <string name="parent">wolf</string>
               <int name="transient">-1</int>
-              <list name="_relations">
+              <list name="_relations"></list>
+              <list name="_goals!append">
+                  <map>
+                      <string name="class">mind.goals.common.move.Wander</string>
+                  </map>
               </list>
           </map>
           <int name="__spawner_interval">30</int>
@@ -3338,6 +3352,11 @@
                       <string name="filter">entity.type=types.wolf</string>
                       <float name="disposition">-10</float>
                       <float name="threat">-10</float>
+                  </map>
+              </list>
+              <list name="_goals!append">
+                  <map>
+                      <string name="class">mind.goals.common.move.Wander</string>
                   </map>
               </list>
           </map>
