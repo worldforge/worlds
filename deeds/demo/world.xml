@@ -2618,8 +2618,9 @@
           <map>
             <string name="class">mind.goals.humanoid.mason.Welcome</string>
             <map name="params">
-              <string name="message">Hello piggie!</string>
+              <string name="message">Hello piggy!</string>
               <string name="what">entity instance_of types.pig</string>
+              <float name="distance">20</float>
             </map>
           </map>
         </list>

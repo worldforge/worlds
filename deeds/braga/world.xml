@@ -9747,6 +9747,7 @@
                         <map name="params">
                             <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
                             <string name="what">entity instance_of types.human</string>
+                            <float name="distance">20</float>
                         </map>
                     </map>
                 </list>
