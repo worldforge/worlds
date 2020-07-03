@@ -162,22 +162,22 @@
         <string name="objtype">obj</string>
         <string name="parent">land</string>
         <map name="terrain_points">
-          <list name="-1x-1">
+          <list name="-1x1">
             <float>-1</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="-1x-2">
+          <list name="-1x2">
             <float>-1</float>
             <float>2</float>
             <float>5</float>
           </list>
-          <list name="-1x-3">
+          <list name="-1x3">
             <float>-1</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="-1x-4">
+          <list name="-1x4">
             <float>-1</float>
             <float>4</float>
             <float>5</float>
@@ -187,32 +187,32 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="-1x1">
+          <list name="-1x-1">
             <float>-1</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="-1x2">
+          <list name="-1x-2">
             <float>-1</float>
             <float>-2</float>
             <float>5</float>
           </list>
-          <list name="-2x-1">
+          <list name="-2x1">
             <float>-2</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="-2x-2">
+          <list name="-2x2">
             <float>-2</float>
             <float>2</float>
             <float>-9.48438</float>
           </list>
-          <list name="-2x-3">
+          <list name="-2x3">
             <float>-2</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="-2x-4">
+          <list name="-2x4">
             <float>-2</float>
             <float>4</float>
             <float>5</float>
@@ -222,32 +222,32 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="-2x1">
+          <list name="-2x-1">
             <float>-2</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="-2x2">
+          <list name="-2x-2">
             <float>-2</float>
             <float>-2</float>
             <float>5</float>
           </list>
-          <list name="-3x-1">
+          <list name="-3x1">
             <float>-3</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="-3x-2">
+          <list name="-3x2">
             <float>-3</float>
             <float>2</float>
             <float>5</float>
           </list>
-          <list name="-3x-3">
+          <list name="-3x3">
             <float>-3</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="-3x-4">
+          <list name="-3x4">
             <float>-3</float>
             <float>4</float>
             <float>5</float>
@@ -257,32 +257,32 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="-3x1">
+          <list name="-3x-1">
             <float>-3</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="-3x2">
+          <list name="-3x-2">
             <float>-3</float>
             <float>-2</float>
             <float>5</float>
           </list>
-          <list name="-4x-1">
+          <list name="-4x1">
             <float>-4</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="-4x-2">
+          <list name="-4x2">
             <float>-4</float>
             <float>2</float>
             <float>5</float>
           </list>
-          <list name="-4x-3">
+          <list name="-4x3">
             <float>-4</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="-4x-4">
+          <list name="-4x4">
             <float>-4</float>
             <float>4</float>
             <float>5</float>
@@ -292,32 +292,32 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="-4x1">
+          <list name="-4x-1">
             <float>-4</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="-4x2">
+          <list name="-4x-2">
             <float>-4</float>
             <float>-2</float>
             <float>5</float>
           </list>
-          <list name="0x-1">
+          <list name="0x1">
             <float>0</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="0x-2">
+          <list name="0x2">
             <float>0</float>
             <float>2</float>
             <float>22</float>
           </list>
-          <list name="0x-3">
+          <list name="0x3">
             <float>0</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="0x-4">
+          <list name="0x4">
             <float>0</float>
             <float>4</float>
             <float>5</float>
@@ -327,32 +327,32 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="0x1">
+          <list name="0x-1">
             <float>0</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="0x2">
+          <list name="0x-2">
             <float>0</float>
             <float>-2</float>
             <float>5</float>
           </list>
-          <list name="1x-1">
+          <list name="1x1">
             <float>1</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="1x-2">
+          <list name="1x2">
             <float>1</float>
             <float>2</float>
             <float>5</float>
           </list>
-          <list name="1x-3">
+          <list name="1x3">
             <float>1</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="1x-4">
+          <list name="1x4">
             <float>1</float>
             <float>4</float>
             <float>5</float>
@@ -362,32 +362,32 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="1x1">
+          <list name="1x-1">
             <float>1</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="1x2">
+          <list name="1x-2">
             <float>1</float>
             <float>-2</float>
             <float>5</float>
           </list>
-          <list name="2x-1">
+          <list name="2x1">
             <float>2</float>
             <float>1</float>
             <float>5</float>
           </list>
-          <list name="2x-2">
+          <list name="2x2">
             <float>2</float>
             <float>2</float>
             <float>5</float>
           </list>
-          <list name="2x-3">
+          <list name="2x3">
             <float>2</float>
             <float>3</float>
             <float>5</float>
           </list>
-          <list name="2x-4">
+          <list name="2x4">
             <float>2</float>
             <float>4</float>
             <float>5</float>
@@ -397,12 +397,12 @@
             <float>-0</float>
             <float>5</float>
           </list>
-          <list name="2x1">
+          <list name="2x-1">
             <float>2</float>
             <float>-1</float>
             <float>5</float>
           </list>
-          <list name="2x2">
+          <list name="2x-2">
             <float>2</float>
             <float>-2</float>
             <float>5</float>

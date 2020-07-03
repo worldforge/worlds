@@ -50,7 +50,7 @@
                     <float>0</float>
                 </list>
                 <map name="terrain_points">
-                    <list name="-1x-1">
+                    <list name="-1x1">
                         <float>-1</float>
                         <float>1</float>
                         <float>20</float>
@@ -60,12 +60,12 @@
                         <float>-0</float>
                         <float>7</float>
                     </list>
-                    <list name="-1x1">
+                    <list name="-1x-1">
                         <float>-1</float>
                         <float>-1</float>
                         <float>9</float>
                     </list>
-                    <list name="0x-1">
+                    <list name="0x1">
                         <float>0</float>
                         <float>1</float>
                         <float>6</float>
@@ -75,12 +75,12 @@
                         <float>-0</float>
                         <float>5</float>
                     </list>
-                    <list name="0x1">
+                    <list name="0x-1">
                         <float>0</float>
                         <float>-1</float>
                         <float>4</float>
                     </list>
-                    <list name="1x-1">
+                    <list name="1x1">
                         <float>1</float>
                         <float>1</float>
                         <float>4</float>
@@ -90,7 +90,7 @@
                         <float>-0</float>
                         <float>3</float>
                     </list>
-                    <list name="1x1">
+                    <list name="1x-1">
                         <float>1</float>
                         <float>-1</float>
                         <float>10</float>
