@@ -152,9 +152,6 @@
                 </list>
                 <list name="_goals!append">
                     <map>
-                        <string name="class">mind.goals.common.combat.FightOrFlight</string>
-                    </map>
-                    <map>
                         <string name="class">mind.goals.humanoid.mason.AddHelp</string>
                         <map name="params">
                             <list name="messages">

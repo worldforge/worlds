@@ -2494,6 +2494,15 @@
               <string name="what">entity.type=types.amanita</string>
             </map>
           </map>
+            <map>
+                <string name="class">mind.goals.common.move.Roam</string>
+                <map name="params">
+                    <float name="radius">8</float>
+                    <list name="locations">
+                        <string>origin</string>
+                    </list>
+                </map>
+            </map>
         </list>
         <string name="id">76</string>
         <float name="mass">144</float>
