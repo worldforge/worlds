@@ -25643,7 +25643,7 @@
                     <float>9.53175</float>
                     <float>776.794</float>
                 </list>
-                <float name="visibility">500</float>
+                <float name="vis_dist">500</float>
             </map>
             <map>
                 <map name="area">
@@ -25784,7 +25784,7 @@
                     <float>9.73582</float>
                     <float>676.087</float>
                 </list>
-                <float name="visibility">500</float>
+                <float name="vis_dist">500</float>
             </map>
             <map>
                 <list name="bbox">
@@ -26285,7 +26285,7 @@
                     <float>2.78036</float>
                     <float>726.014</float>
                 </list>
-                <float name="visibility">100</float>
+                <float name="vis_dist">100</float>
             </map>
             <map>
                 <string name="id">608</string>
@@ -27788,7 +27788,7 @@
                     <float>13.3909</float>
                     <float>606.152</float>
                 </list>
-                <float name="visibility">500</float>
+                <float name="vis_dist">500</float>
             </map>
             <map>
                 <string name="id">675</string>

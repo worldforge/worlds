@@ -18552,7 +18552,7 @@
         <float name="snow">0</float>
         <int name="solid">0</int>
         <float name="ticks">0</float>
-        <float name="visibility">320.91</float>
+        <float name="vis_dist">320.91</float>
       </map>
       <map>
         <list name="bbox">
