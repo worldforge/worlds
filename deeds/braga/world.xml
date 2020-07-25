@@ -20357,7 +20357,7 @@
                 <string name="objtype">obj</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
-                    <string name="$eid">2</string>
+                    <string name="$eid">374</string>
                 </map>
                 <list name="orientation">
                     <float>0</float>
@@ -20367,9 +20367,9 @@
                 </list>
                 <string name="parent">boat</string>
                 <list name="pos">
-                    <float>-949.291</float>
+                    <float>-960</float>
                     <float>1.67567</float>
-                    <float>928.225</float>
+                    <float>931</float>
                 </list>
             </map>
             <map>
