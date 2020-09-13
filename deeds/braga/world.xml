@@ -14940,7 +14940,7 @@
                     <float>0</float>
                     <float>0.906308</float>
                 </list>
-                <map name="attached_body">
+                <map name="attached_torso">
                     <string name="$eid">918</string>
                 </map>
                 <map name="attached_feet">
@@ -34112,7 +34112,7 @@
                 <string name="style">fine</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
-                    <string name="$eid">153</string>
+                    <string name="$eid">242</string>
                     <string name="attachment">legs</string>
                 </map>
             </map>
@@ -34129,7 +34129,7 @@
                 <string name="style">fine</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
-                    <string name="$eid">153</string>
+                    <string name="$eid">242</string>
                     <string name="attachment">feet</string>
                 </map>
             </map>
@@ -34140,7 +34140,7 @@
                 <string name="style">fine</string>
                 <map name="mode_data">
                     <string name="mode">planted</string>
-                    <string name="$eid">153</string>
+                    <string name="$eid">242</string>
                     <string name="attachment">head</string>
                 </map>
             </map>
