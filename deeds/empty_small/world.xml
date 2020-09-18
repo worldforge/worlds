@@ -1,209 +1,224 @@
 <atlas>
 
-    <map>
-        <list name="entities">
-            <map>
-                <list name="bbox">
-                    <float>-64</float>
-                    <float>-5</float>
-                    <float>-64</float>
-                    <float>64</float>
-                    <float>512</float>
-                    <float>64</float>
-                </list>
-                <map name="calendar">
-                    <int name="days_per_month">28</int>
-                    <int name="hours_per_day">24</int>
-                    <int name="minutes_per_hour">60</int>
-                    <int name="months_per_year">12</int>
-                    <int name="seconds_per_minute">20</int>
-                </map>
-                <list name="contains">
-                    <string>1</string>
-                    <string>4</string>
-                </list>
-                <string name="id">0</string>
-                <string name="name">world</string>
-                <string name="objtype">obj</string>
-                <string name="parent">world</string>
+  <map>
+    <list name="entities">
+      <map>
+        <map name="calendar">
+          <int name="days_per_month">28</int>
+          <int name="hours_per_day">24</int>
+          <int name="minutes_per_hour">60</int>
+          <int name="months_per_year">12</int>
+          <int name="seconds_per_minute">20</int>
+        </map>
+        <string name="id">0</string>
+        <string name="name">world</string>
+        <string name="objtype">obj</string>
+        <string name="parent">world</string>
+        <list name="~contains">
+          <map>
+            <list name="bbox">
+              <float>-64</float>
+              <float>-5</float>
+              <float>-64</float>
+              <float>64</float>
+              <float>512</float>
+              <float>64</float>
+            </list>
+            <string name="id">1</string>
+            <string name="name">the world</string>
+            <string name="objtype">obj</string>
+            <string name="parent">land</string>
+            <map name="terrain_points">
+              <list name="-1x-1">
+                <float>-1</float>
+                <float>-1</float>
+                <float>9</float>
+              </list>
+              <list name="-1x0">
+                <float>-1</float>
+                <float>-0</float>
+                <float>7</float>
+              </list>
+              <list name="-1x1">
+                <float>-1</float>
+                <float>1</float>
+                <float>20</float>
+              </list>
+              <list name="0x-1">
+                <float>0</float>
+                <float>-1</float>
+                <float>4</float>
+              </list>
+              <list name="0x0">
+                <float>0</float>
+                <float>-0</float>
+                <float>5</float>
+              </list>
+              <list name="0x1">
+                <float>0</float>
+                <float>1</float>
+                <float>6</float>
+              </list>
+              <list name="1x-1">
+                <float>1</float>
+                <float>-1</float>
+                <float>10</float>
+              </list>
+              <list name="1x0">
+                <float>1</float>
+                <float>-0</float>
+                <float>3</float>
+              </list>
+              <list name="1x1">
+                <float>1</float>
+                <float>1</float>
+                <float>4</float>
+              </list>
             </map>
-            <map>
-                <list name="bbox">
-                    <float>-64</float>
-                    <float>-5</float>
-                    <float>-64</float>
-                    <float>64</float>
-                    <float>512</float>
-                    <float>64</float>
-                </list>
-                <list name="contains">
-                    <string>2</string>
-                    <string>3</string>
-                </list>
-                <string name="id">1</string>
-                <string name="name">the world</string>
-                <string name="objtype">obj</string>
-                <string name="parent">land</string>
-                <list name="pos">
-                    <float>0</float>
-                    <float>0</float>
-                    <float>0</float>
-                </list>
-                <map name="terrain_points">
-                    <list name="-1x1">
-                        <float>-1</float>
-                        <float>1</float>
-                        <float>20</float>
-                    </list>
-                    <list name="-1x0">
-                        <float>-1</float>
-                        <float>-0</float>
-                        <float>7</float>
-                    </list>
-                    <list name="-1x-1">
-                        <float>-1</float>
-                        <float>-1</float>
-                        <float>9</float>
-                    </list>
-                    <list name="0x1">
-                        <float>0</float>
-                        <float>1</float>
-                        <float>6</float>
-                    </list>
-                    <list name="0x0">
-                        <float>0</float>
-                        <float>-0</float>
-                        <float>5</float>
-                    </list>
-                    <list name="0x-1">
-                        <float>0</float>
-                        <float>-1</float>
-                        <float>4</float>
-                    </list>
-                    <list name="1x1">
-                        <float>1</float>
-                        <float>1</float>
-                        <float>4</float>
-                    </list>
-                    <list name="1x0">
-                        <float>1</float>
-                        <float>-0</float>
-                        <float>3</float>
-                    </list>
-                    <list name="1x-1">
-                        <float>1</float>
-                        <float>-1</float>
-                        <float>10</float>
-                    </list>
+            <list name="~contains">
+              <map>
+                <string name="__alias">entry</string>
+                <map name="__spawn_properties">
+                  <string name="_respawning">entry</string>
                 </map>
-            </map>
-            <map>
-                <string name="id">2</string>
+                <string name="id">3</string>
                 <string name="objtype">obj</string>
                 <string name="parent">character_creator_default</string>
-                <string name="__alias">entry</string>
                 <list name="pos">
-                    <float>-32</float>
-                    <float>5</float>
-                    <float>32</float>
+                  <float>-32</float>
+                  <float>5</float>
+                  <float>32</float>
                 </list>
-                <map name="__spawn_properties!append">
-                    <string name="_respawning">entry</string>
+              </map>
+              <map>
+                <list name="_goals!append">
+                  <map>
+                    <string name="class">mind.goals.humanoid.mason.AddHelp</string>
+                    <map name="params">
+                      <list name="messages">
+                        <string>Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.</string>
+                      </list>
+                      <list name="responses">
+                        <string>Tell me about this place.&apos;, &apos;Tell me about village.</string>
+                      </list>
+                    </map>
+                  </map>
+                  <map>
+                    <string name="class">mind.goals.common.move.Patrol</string>
+                    <map name="params">
+                      <list name="locations">
+                        <string>w1</string>
+                        <string>w2</string>
+                      </list>
+                    </map>
+                  </map>
+                  <map>
+                    <string name="class">mind.goals.humanoid.mason.Welcome</string>
+                    <map name="params">
+                      <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
+                      <string name="what">entity instance_of types.human</string>
+                    </map>
+                  </map>
+                </list>
+                <map name="_knowledge">
+                  <string name="about:this place">This is the main docks of this small island. Most visitors arrive here by boat.</string>
+                  <string name="about:village">The village lies beyond this path. Follow it left when it forks</string>
+                  <list name="location:w1">
+                    <float>0</float>
+                    <float>0</float>
+                    <float>0</float>
+                  </list>
+                  <list name="location:w2">
+                    <float>10</float>
+                    <float>0</float>
+                    <float>0</float>
+                  </list>
                 </map>
-            </map>
-            <map>
-                <string name="id">3</string>
-                <map name="mind">
-                    <string name="language">python</string>
-                    <string name="name">mind.NPCMind.NPCMind</string>
+                <map name="_origin">
+                  <string name="$eid">1</string>
+                  <list name="pos">
+                    <float>0</float>
+                    <float>5</float>
+                    <float>0</float>
+                  </list>
+                </map>
+                <list name="_relations">
+                  <map>
+                    <float name="disposition">-10</float>
+                    <string name="filter">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
+                    <float name="threat">10</float>
+                  </map>
+                </list>
+                <map name="attached_legs">
+                  <string name="$eid">5</string>
+                </map>
+                <string name="id">4</string>
+                <float name="mass">144</float>
+                <map name="mode_data">
+                  <string name="$eid">3</string>
+                  <string name="mode">planted</string>
                 </map>
                 <string name="name">Dyfed Searae</string>
                 <string name="objtype">obj</string>
-                <map name="mode_data">
-                    <string name="mode">planted</string>
-                    <string name="$eid">2</string>
-                </map>
-                <string name="parent">settler</string>
+                <string name="parent">human</string>
                 <list name="pos">
-                    <float>0</float>
-                    <float>0</float>
-                    <float>0</float>
+                  <float>0</float>
+                  <float>5</float>
+                  <float>0</float>
                 </list>
-                <map name="_knowledge!append">
-                    <string name="about:this place">This is the main docks of this small island. Most visitors arrive here by boat.</string>
-                    <string name="about:village">The village lies beyond this path. Follow it left when it forks</string>
-                    <list name="location:w1">
-                        <float>0</float>
-                        <float>0</float>
-                        <float>0</float>
-                    </list>
-                    <list name="location:w2">
-                        <float>10</float>
-                        <float>0</float>
-                        <float>0</float>
-                    </list>
-                </map>
-                <list name="_relations!append">
-                    <map>
-                        <string name="filter">entity.type=types.wolf|types.goblin|types.bear|types.skeleton|types.lych</string>
-                        <float name="disposition">-10</float>
-                        <float name="threat">10</float>
+                <list name="~contains">
+                  <map>
+                    <string name="id">5</string>
+                    <float name="mass">0.8047</float>
+                    <map name="mode_data">
+                      <string name="$eid">4</string>
+                      <string name="attachment">legs</string>
+                      <string name="mode">planted</string>
                     </map>
+                    <string name="objtype">obj</string>
+                    <string name="parent">pants</string>
+                    <string name="style">burlap</string>
+                  </map>
+                  <map>
+                    <string name="id">6</string>
+                    <float name="mass">0.794347</float>
+                    <string name="objtype">obj</string>
+                    <string name="parent">knife</string>
+                  </map>
+                  <map>
+                    <int name="amount">10</int>
+                    <string name="id">7</string>
+                    <string name="objtype">obj</string>
+                    <string name="parent">coin</string>
+                  </map>
                 </list>
-                <list name="_goals!append">
-                    <map>
-                        <string name="class">mind.goals.humanoid.mason.AddHelp</string>
-                        <map name="params">
-                            <list name="messages">
-                                <string>Welcome to the island of Braga! I see you\&apos;ve just come off the boat. You look really hungry! There\&apos;s food over at the village.</string>
-                            </list>
-                            <list name="responses">
-                                <string>Tell me about this place.&apos;, &apos;Tell me about village.</string>
-                            </list>
-                        </map>
-                    </map>
-                    <map>
-                        <string name="class">mind.goals.common.move.Patrol</string>
-                        <map name="params">
-                            <list name="locations">
-                                <string>w1</string>
-                                <string>w2</string>
-                            </list>
-                        </map>
-                    </map>
-                    <map>
-                        <string name="class">mind.goals.humanoid.mason.Welcome</string>
-                        <map name="params">
-                            <string name="message">Welcome traveller to the island of Braga! You look tired and hungry. Come closer and let me introduce this place.</string>
-                            <string name="what">entity instance_of types.human</string>
-                        </map>
-                    </map>
-                </list>
-            </map>
-            <map>
-                <string name="domain">void</string>
-                <string name="id">4</string>
-                <string name="__alias">limbo</string>
-                <string name="name">Limbo</string>
-                <string name="objtype">obj</string>
-                <string name="parent">thing</string>
-            </map>
+              </map>
+            </list>
+          </map>
+          <map>
+            <string name="__alias">limbo</string>
+            <string name="domain">void</string>
+            <string name="id">2</string>
+            <string name="name">Limbo</string>
+            <string name="objtype">obj</string>
+            <string name="parent">thing</string>
+          </map>
         </list>
-        <map name="meta">
-            <string name="description">An empty small world, containing nothing except for some flat terrain. This is mainly meant to be used as a starting ground for new worlds, or as a test world for development.</string>
-            <string name="name">Empty small</string>
-            <int name="preserved_ids">0</int>
-            <map name="server">
-                <string name="host">localhost.localdomain</string>
-                <string name="name">localhost.localdomain</string>
-                <string name="ruleset">deeds</string>
-                <string name="version">0.6.3</string>
-            </map>
-            <string name="timestamp">1394201004834</string>
-            <int name="transients">0</int>
-        </map>
-        <list name="minds">
-        </list>
+      </map>
+    </list>
+    <map name="meta">
+      <string name="description"></string>
+      <string name="name"></string>
+      <int name="preserved_ids">0</int>
+      <map name="server">
+        <string name="host">ulthar</string>
+        <string name="name">ulthar</string>
+        <string name="ruleset">deeds</string>
+        <string name="version">0.7.0</string>
+      </map>
+      <string name="timestamp">1600372242936</string>
+      <int name="transients">0</int>
     </map>
+  </map>
 
 </atlas>
