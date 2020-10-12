@@ -16,6 +16,14 @@
         <string name="parent">world</string>
         <list name="~contains">
           <map>
+            <string name="__alias">limbo</string>
+            <string name="domain">void</string>
+            <string name="id">1</string>
+            <string name="name">Limbo</string>
+            <string name="objtype">obj</string>
+            <string name="parent">thing</string>
+          </map>          
+          <map>
             <list name="bbox">
               <float>-512</float>
               <float>-32</float>
@@ -24,7 +32,7 @@
               <float>64</float>
               <float>384</float>
             </list>
-            <string name="id">1</string>
+            <string name="id">2</string>
             <string name="mode">fixed</string>
             <string name="name">the world</string>
             <string name="objtype">obj</string>
@@ -1008,7 +1016,7 @@
             </map>
             <list name="~contains">
               <map>
-                <string name="id">2</string>
+                <string name="id">3</string>
                 <string name="objtype">obj</string>
                 <string name="parent">ocean</string>
                 <list name="pos">
@@ -1017,6 +1025,20 @@
                   <float>0</float>
                 </list>
               </map>
+              <map>
+                <string name="__alias">entry</string>
+                <map name="__spawn_properties">
+                  <string name="_respawning">entry</string>
+                </map>
+                <string name="id">4</string>
+                <string name="objtype">obj</string>
+                <string name="parent">character_creator_default</string>
+                <list name="pos">
+                  <float>-32</float>
+                  <float>5</float>
+                  <float>32</float>
+                </list>
+              </map>              
             </list>
           </map>
         </list>
