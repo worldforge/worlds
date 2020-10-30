@@ -8861,16 +8861,16 @@
                   </map>
                 </list>
                 <map name="attached_feet">
-                  <string name="$eid">911</string>
+                  <string name="$eid">924</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">912</string>
+                  <string name="$eid">925</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">909</string>
+                  <string name="$eid">922</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">908</string>
+                  <string name="$eid">921</string>
                 </map>
                 <string name="id">67</string>
                 <int name="immortal">1</int>
@@ -8891,7 +8891,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">908</string>
+                    <string name="id">921</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8903,7 +8903,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">909</string>
+                    <string name="id">922</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8915,14 +8915,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">910</string>
+                    <string name="id">923</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">911</string>
+                    <string name="id">924</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8934,7 +8934,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">912</string>
+                    <string name="id">925</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8947,7 +8947,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">913</string>
+                    <string name="id">926</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -11500,16 +11500,16 @@
                   </list>
                 </map>
                 <map name="attached_feet">
-                  <string name="$eid">917</string>
+                  <string name="$eid">930</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">918</string>
+                  <string name="$eid">931</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">915</string>
+                  <string name="$eid">928</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">914</string>
+                  <string name="$eid">927</string>
                 </map>
                 <string name="id">153</string>
                 <int name="immortal">1</int>
@@ -11530,7 +11530,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">914</string>
+                    <string name="id">927</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11542,7 +11542,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">915</string>
+                    <string name="id">928</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11554,14 +11554,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">916</string>
+                    <string name="id">929</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">917</string>
+                    <string name="id">930</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11573,7 +11573,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">918</string>
+                    <string name="id">931</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11586,7 +11586,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">919</string>
+                    <string name="id">932</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -14353,16 +14353,16 @@
                   </list>
                 </map>
                 <map name="attached_feet">
-                  <string name="$eid">923</string>
+                  <string name="$eid">936</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">924</string>
+                  <string name="$eid">937</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">921</string>
+                  <string name="$eid">934</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">920</string>
+                  <string name="$eid">933</string>
                 </map>
                 <string name="id">242</string>
                 <int name="immortal">1</int>
@@ -14383,7 +14383,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">920</string>
+                    <string name="id">933</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14395,7 +14395,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">921</string>
+                    <string name="id">934</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14407,14 +14407,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">922</string>
+                    <string name="id">935</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">923</string>
+                    <string name="id">936</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14426,7 +14426,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">924</string>
+                    <string name="id">937</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14439,7 +14439,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">925</string>
+                    <string name="id">938</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -34155,6 +34155,274 @@
                   <float>620.909</float>
                 </list>
               </map>
+              <map>
+                <string name="id">908</string>
+                <float name="mass">16287</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.0795311</float>
+                  <float>0</float>
+                  <float>0.996832</float>
+                </list>
+                <string name="parent">felsite_a</string>
+                <list name="pos">
+                  <float>-537.891</float>
+                  <float>8.90461</float>
+                  <float>739.954</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">909</string>
+                <float name="mass">552.601</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.494597</float>
+                  <float>0</float>
+                  <float>0.869122</float>
+                </list>
+                <string name="parent">felsite_b</string>
+                <list name="pos">
+                  <float>-538.925</float>
+                  <float>8.85142</float>
+                  <float>742.91</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">910</string>
+                <float name="mass">431.621</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.165425</float>
+                  <float>0</float>
+                  <float>-0.986222</float>
+                </list>
+                <string name="parent">felsite_c</string>
+                <list name="pos">
+                  <float>-536.537</float>
+                  <float>8.6326</float>
+                  <float>742.961</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">911</string>
+                <float name="mass">5890.6</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.662728</float>
+                  <float>0</float>
+                  <float>-0.74886</float>
+                </list>
+                <string name="parent">felsite_f</string>
+                <list name="pos">
+                  <float>-634.757</float>
+                  <float>3.71189</float>
+                  <float>780.454</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">912</string>
+                <float name="mass">16287</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.989912</float>
+                  <float>0</float>
+                  <float>-0.14168</float>
+                </list>
+                <string name="parent">felsite_a</string>
+                <list name="pos">
+                  <float>-632.666</float>
+                  <float>3.84162</float>
+                  <float>781.142</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">913</string>
+                <float name="mass">16287</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.970142</float>
+                  <float>0</float>
+                  <float>-0.242537</float>
+                </list>
+                <string name="parent">felsite_a</string>
+                <list name="pos">
+                  <float>-763.673</float>
+                  <float>19.2049</float>
+                  <float>443.181</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">914</string>
+                <float name="mass">552.601</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.844589</float>
+                  <float>0</float>
+                  <float>0.535416</float>
+                </list>
+                <string name="parent">felsite_b</string>
+                <list name="pos">
+                  <float>-765.93</float>
+                  <float>17.6334</float>
+                  <float>414.271</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">915</string>
+                <float name="mass">431.621</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.938786</float>
+                  <float>0</float>
+                  <float>-0.3445</float>
+                </list>
+                <string name="parent">felsite_c</string>
+                <list name="pos">
+                  <float>-766.362</float>
+                  <float>16.1561</float>
+                  <float>400.861</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">916</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">wolf_spawner</string>
+                <list name="pos">
+                  <float>-770.913</float>
+                  <float>13.4151</float>
+                  <float>402.907</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">917</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">wolf_spawner</string>
+                <list name="pos">
+                  <float>-767.164</float>
+                  <float>15.5963</float>
+                  <float>480.46</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">918</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">skeleton_spawner</string>
+                <list name="pos">
+                  <float>-583.53</float>
+                  <float>42.4439</float>
+                  <float>355.049</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">919</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">skeleton_spawner</string>
+                <list name="pos">
+                  <float>-632.886</float>
+                  <float>44.5815</float>
+                  <float>358.88</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">920</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">skeleton_spawner</string>
+                <list name="pos">
+                  <float>-539.309</float>
+                  <float>8.78985</float>
+                  <float>748.626</float>
+                </list>
+              </map>
             </list>
           </map>
         </list>
@@ -34170,7 +34438,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1604099634466</string>
+      <string name="timestamp">1604100059110</string>
       <int name="transients">0</int>
     </map>
   </map>
