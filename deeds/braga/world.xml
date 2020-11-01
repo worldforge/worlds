@@ -8814,16 +8814,16 @@
                 </list>
                 <float name="armor">3.5</float>
                 <map name="attached_feet">
-                  <string name="$eid">925</string>
+                  <string name="$eid">947</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">926</string>
+                  <string name="$eid">948</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">923</string>
+                  <string name="$eid">945</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">922</string>
+                  <string name="$eid">944</string>
                 </map>
                 <string name="id">67</string>
                 <int name="immortal">1</int>
@@ -8844,7 +8844,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">922</string>
+                    <string name="id">944</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8856,7 +8856,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">923</string>
+                    <string name="id">945</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8868,14 +8868,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">924</string>
+                    <string name="id">946</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">925</string>
+                    <string name="id">947</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8887,7 +8887,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">926</string>
+                    <string name="id">948</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8900,7 +8900,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">927</string>
+                    <string name="id">949</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -11446,16 +11446,16 @@
                 </map>
                 <float name="armor">3.5</float>
                 <map name="attached_feet">
-                  <string name="$eid">931</string>
+                  <string name="$eid">953</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">932</string>
+                  <string name="$eid">954</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">929</string>
+                  <string name="$eid">951</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">928</string>
+                  <string name="$eid">950</string>
                 </map>
                 <string name="id">153</string>
                 <int name="immortal">1</int>
@@ -11476,7 +11476,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">928</string>
+                    <string name="id">950</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11488,7 +11488,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">929</string>
+                    <string name="id">951</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11500,14 +11500,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">930</string>
+                    <string name="id">952</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">931</string>
+                    <string name="id">953</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11519,7 +11519,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">932</string>
+                    <string name="id">954</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11532,7 +11532,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">933</string>
+                    <string name="id">955</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -14292,16 +14292,16 @@
                 </map>
                 <float name="armor">3.5</float>
                 <map name="attached_feet">
-                  <string name="$eid">937</string>
+                  <string name="$eid">959</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">938</string>
+                  <string name="$eid">960</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">935</string>
+                  <string name="$eid">957</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">934</string>
+                  <string name="$eid">956</string>
                 </map>
                 <string name="id">242</string>
                 <int name="immortal">1</int>
@@ -14322,7 +14322,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">934</string>
+                    <string name="id">956</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14334,7 +14334,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">935</string>
+                    <string name="id">957</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14346,14 +14346,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">936</string>
+                    <string name="id">958</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">937</string>
+                    <string name="id">959</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14365,7 +14365,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">938</string>
+                    <string name="id">960</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14378,7 +14378,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">939</string>
+                    <string name="id">961</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -33519,20 +33519,458 @@
                   <float>792.763</float>
                 </list>
               </map>
+              <map>
+                <string name="id">922</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-843.821</float>
+                  <float>3.23258</float>
+                  <float>750.485</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">923</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_bluemoon</string>
+                <list name="pos">
+                  <float>-734.255</float>
+                  <float>3.74399</float>
+                  <float>805.193</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">924</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_bluemoon</string>
+                <list name="pos">
+                  <float>-749.083</float>
+                  <float>2.55776</float>
+                  <float>721.844</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">925</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-758.04</float>
+                  <float>1.98541</float>
+                  <float>734.801</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">926</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-672.723</float>
+                  <float>3.30742</float>
+                  <float>759.098</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">927</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-691.681</float>
+                  <float>10.1423</float>
+                  <float>650.052</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">928</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-740.417</float>
+                  <float>10.2538</float>
+                  <float>597.871</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">929</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-769.424</float>
+                  <float>6.68478</float>
+                  <float>522.963</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">930</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-696.469</float>
+                  <float>35.2442</float>
+                  <float>505.665</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">931</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-652.118</float>
+                  <float>47.6612</float>
+                  <float>481.185</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">932</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-584.04</float>
+                  <float>33.6487</float>
+                  <float>545.034</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">933</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-512.333</float>
+                  <float>5.64655</float>
+                  <float>606.173</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">934</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-371.568</float>
+                  <float>5.24585</float>
+                  <float>606.682</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">935</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-356.247</float>
+                  <float>3.99376</float>
+                  <float>658.199</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">936</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-289.376</float>
+                  <float>12.1576</float>
+                  <float>647.92</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">937</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-252.949</float>
+                  <float>13.826</float>
+                  <float>559.562</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">938</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-200.211</float>
+                  <float>14.2796</float>
+                  <float>607.42</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">939</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_amanita</string>
+                <list name="pos">
+                  <float>-199.604</float>
+                  <float>15.1648</float>
+                  <float>633.077</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">940</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_bluemoon</string>
+                <list name="pos">
+                  <float>-240.737</float>
+                  <float>15.8572</float>
+                  <float>645.305</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">941</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_bluemoon</string>
+                <list name="pos">
+                  <float>-363.941</float>
+                  <float>4.2093</float>
+                  <float>644.354</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">942</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_galerina</string>
+                <list name="pos">
+                  <float>-559.63</float>
+                  <float>4.0225</float>
+                  <float>761.096</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">943</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
+                <string name="parent">mycelium_galerina</string>
+                <list name="pos">
+                  <float>-461.065</float>
+                  <float>6.23254</float>
+                  <float>544.513</float>
+                </list>
+              </map>
             </list>
           </map>
         </list>
       </map>
     </list>
     <map name="meta">
-      <string name="description"></string>
-      <string name="name"></string>
       <int name="preserved_ids">0</int>
       <map name="server">
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1604104001768</string>
+      <string name="timestamp">1604267298478</string>
       <int name="transients">0</int>
     </map>
   </map>
