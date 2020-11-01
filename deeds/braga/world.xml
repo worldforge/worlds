@@ -8814,16 +8814,16 @@
                 </list>
                 <float name="armor">3.5</float>
                 <map name="attached_feet">
-                  <string name="$eid">947</string>
+                  <string name="$eid">996</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">948</string>
+                  <string name="$eid">997</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">945</string>
+                  <string name="$eid">994</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">944</string>
+                  <string name="$eid">993</string>
                 </map>
                 <string name="id">67</string>
                 <int name="immortal">1</int>
@@ -8844,7 +8844,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">944</string>
+                    <string name="id">993</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8856,7 +8856,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">945</string>
+                    <string name="id">994</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8868,14 +8868,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">946</string>
+                    <string name="id">995</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">947</string>
+                    <string name="id">996</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8887,7 +8887,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">948</string>
+                    <string name="id">997</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">67</string>
@@ -8900,7 +8900,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">949</string>
+                    <string name="id">998</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -11446,16 +11446,16 @@
                 </map>
                 <float name="armor">3.5</float>
                 <map name="attached_feet">
-                  <string name="$eid">953</string>
+                  <string name="$eid">1002</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">954</string>
+                  <string name="$eid">1003</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">951</string>
+                  <string name="$eid">1000</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">950</string>
+                  <string name="$eid">999</string>
                 </map>
                 <string name="id">153</string>
                 <int name="immortal">1</int>
@@ -11476,7 +11476,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">950</string>
+                    <string name="id">999</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11488,7 +11488,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">951</string>
+                    <string name="id">1000</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11500,14 +11500,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">952</string>
+                    <string name="id">1001</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">953</string>
+                    <string name="id">1002</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11519,7 +11519,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">954</string>
+                    <string name="id">1003</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">153</string>
@@ -11532,7 +11532,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">955</string>
+                    <string name="id">1004</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -14292,16 +14292,16 @@
                 </map>
                 <float name="armor">3.5</float>
                 <map name="attached_feet">
-                  <string name="$eid">959</string>
+                  <string name="$eid">1008</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">960</string>
+                  <string name="$eid">1009</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">957</string>
+                  <string name="$eid">1006</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">956</string>
+                  <string name="$eid">1005</string>
                 </map>
                 <string name="id">242</string>
                 <int name="immortal">1</int>
@@ -14322,7 +14322,7 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">956</string>
+                    <string name="id">1005</string>
                     <float name="mass">0.626417</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14334,7 +14334,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">957</string>
+                    <string name="id">1006</string>
                     <float name="mass">0.8047</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14346,14 +14346,14 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">958</string>
+                    <string name="id">1007</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">959</string>
+                    <string name="id">1008</string>
                     <float name="mass">2.63175</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14365,7 +14365,7 @@
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">960</string>
+                    <string name="id">1009</string>
                     <float name="mass">0.285558</float>
                     <map name="mode_data">
                       <string name="$eid">242</string>
@@ -14378,7 +14378,7 @@
                   </map>
                   <map>
                     <int name="amount">10</int>
-                    <string name="id">961</string>
+                    <string name="id">1010</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -33959,6 +33959,1182 @@
                   <float>544.513</float>
                 </list>
               </map>
+              <map>
+                <string name="id">944</string>
+                <float name="mass">526.881</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.849584</float>
+                  <float>0</float>
+                  <float>0.527453</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-415.491</float>
+                  <float>6.52536</float>
+                  <float>540.207</float>
+                </list>
+                <list name="scale">
+                  <float>0.770466</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">945</string>
+                <float name="mass">369.996</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.183167</float>
+                  <float>0</float>
+                  <float>0.983082</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-388.682</float>
+                  <float>5.20804</float>
+                  <float>555.267</float>
+                </list>
+                <list name="scale">
+                  <float>0.684828</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">946</string>
+                <float name="mass">1097.92</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.153157</float>
+                  <float>0</float>
+                  <float>-0.988202</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-404.415</float>
+                  <float>5.57963</float>
+                  <float>532.539</float>
+                </list>
+                <list name="scale">
+                  <float>0.984099</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">947</string>
+                <float name="mass">276.814</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.224032</float>
+                  <float>0</float>
+                  <float>0.974582</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-424.284</float>
+                  <float>7.09898</float>
+                  <float>502.391</float>
+                </list>
+                <list name="scale">
+                  <float>0.621697</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">948</string>
+                <float name="mass">679.778</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.190335</float>
+                  <float>0</float>
+                  <float>0.981719</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-413.061</float>
+                  <float>5.0645</float>
+                  <float>485.184</float>
+                </list>
+                <list name="scale">
+                  <float>0.838761</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">949</string>
+                <float name="mass">115.169</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.0266858</float>
+                  <float>0</float>
+                  <float>-0.999644</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-410.757</float>
+                  <float>4.84256</float>
+                  <float>467.6</float>
+                </list>
+                <list name="scale">
+                  <float>0.464117</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">950</string>
+                <float name="mass">50.4339</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.646743</float>
+                  <float>0</float>
+                  <float>-0.762708</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-428.062</float>
+                  <float>8.05021</float>
+                  <float>466.099</float>
+                </list>
+                <list name="scale">
+                  <float>0.352444</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">951</string>
+                <float name="mass">715.47</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.699336</float>
+                  <float>0</float>
+                  <float>0.714793</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-447.755</float>
+                  <float>9.95773</float>
+                  <float>484.432</float>
+                </list>
+                <list name="scale">
+                  <float>0.853191</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">952</string>
+                <float name="mass">605.524</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.481117</float>
+                  <float>0</float>
+                  <float>0.876657</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-491.46</float>
+                  <float>18.6612</float>
+                  <float>507.774</float>
+                </list>
+                <list name="scale">
+                  <float>0.807036</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">953</string>
+                <float name="mass">590.548</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.862698</float>
+                  <float>0</float>
+                  <float>-0.50572</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-516.429</float>
+                  <float>23.8484</float>
+                  <float>506.435</float>
+                </list>
+                <list name="scale">
+                  <float>0.800327</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">954</string>
+                <float name="mass">585.711</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.381352</float>
+                  <float>0</float>
+                  <float>0.92443</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-529.992</float>
+                  <float>25.8838</float>
+                  <float>484.135</float>
+                </list>
+                <list name="scale">
+                  <float>0.798136</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">955</string>
+                <float name="mass">43.1201</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.402004</float>
+                  <float>0</float>
+                  <float>0.915638</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-530.187</float>
+                  <float>38.0606</float>
+                  <float>455.387</float>
+                </list>
+                <list name="scale">
+                  <float>0.33451</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">956</string>
+                <float name="mass">39.5898</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.331735</float>
+                  <float>0</float>
+                  <float>0.943373</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-480.83</float>
+                  <float>13.0316</float>
+                  <float>478.378</float>
+                </list>
+                <list name="scale">
+                  <float>0.32512</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">957</string>
+                <float name="mass">825.883</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.715408</float>
+                  <float>0</float>
+                  <float>0.698706</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-464.512</float>
+                  <float>11.8904</float>
+                  <float>497.259</float>
+                </list>
+                <list name="scale">
+                  <float>0.894998</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">958</string>
+                <float name="mass">118.899</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.777213</float>
+                  <float>0</float>
+                  <float>-0.629237</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-504.814</float>
+                  <float>26.5676</float>
+                  <float>474.073</float>
+                </list>
+                <list name="scale">
+                  <float>0.469074</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">959</string>
+                <float name="mass">741.377</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.271297</float>
+                  <float>0</float>
+                  <float>-0.962496</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-505.106</float>
+                  <float>27.2639</float>
+                  <float>464.17</float>
+                </list>
+                <list name="scale">
+                  <float>0.863367</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">960</string>
+                <float name="mass">32.0268</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.199331</float>
+                  <float>0</float>
+                  <float>0.979932</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-505.171</float>
+                  <float>27.2448</float>
+                  <float>456.21</float>
+                </list>
+                <list name="scale">
+                  <float>0.302938</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">961</string>
+                <float name="mass">386.981</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.966948</float>
+                  <float>0</float>
+                  <float>-0.254974</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-526.461</float>
+                  <float>24.7932</float>
+                  <float>489.492</float>
+                </list>
+                <list name="scale">
+                  <float>0.695151</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">962</string>
+                <float name="mass">532.769</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.440322</float>
+                  <float>0</float>
+                  <float>0.89784</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-521.162</float>
+                  <float>25.451</float>
+                  <float>482.436</float>
+                </list>
+                <list name="scale">
+                  <float>0.773325</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">963</string>
+                <float name="mass">362.37</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.999198</float>
+                  <float>0</float>
+                  <float>-0.0400427</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-455.51</float>
+                  <float>10.2988</float>
+                  <float>491.509</float>
+                </list>
+                <list name="scale">
+                  <float>0.68009</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">964</string>
+                <float name="mass">947.152</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.9877</float>
+                  <float>0</float>
+                  <float>-0.156363</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-405.408</float>
+                  <float>4.53168</float>
+                  <float>475.481</float>
+                </list>
+                <list name="scale">
+                  <float>0.936819</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">965</string>
+                <float name="mass">242.612</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.643319</float>
+                  <float>0</float>
+                  <float>0.765598</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-394.376</float>
+                  <float>4.43528</float>
+                  <float>468.667</float>
+                </list>
+                <list name="scale">
+                  <float>0.594958</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">966</string>
+                <float name="mass">207.673</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.999372</float>
+                  <float>0</float>
+                  <float>-0.0354409</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-397.506</float>
+                  <float>5.18006</float>
+                  <float>456.914</float>
+                </list>
+                <list name="scale">
+                  <float>0.564906</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">967</string>
+                <float name="mass">823.842</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.96401</float>
+                  <float>0</float>
+                  <float>-0.265866</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-387.345</float>
+                  <float>4.3533</float>
+                  <float>454.528</float>
+                </list>
+                <list name="scale">
+                  <float>0.89426</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">968</string>
+                <float name="mass">848.77</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.140725</float>
+                  <float>0</float>
+                  <float>-0.990049</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-379.534</float>
+                  <float>3.79008</float>
+                  <float>463.332</float>
+                </list>
+                <list name="scale">
+                  <float>0.90319</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">969</string>
+                <float name="mass">394.542</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.266504</float>
+                  <float>0</float>
+                  <float>-0.963834</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-373.921</float>
+                  <float>3.30172</float>
+                  <float>448.345</float>
+                </list>
+                <list name="scale">
+                  <float>0.699649</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">970</string>
+                <float name="mass">250.494</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.0824712</float>
+                  <float>0</float>
+                  <float>0.996593</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-335.274</float>
+                  <float>1.58406</float>
+                  <float>475.686</float>
+                </list>
+                <list name="scale">
+                  <float>0.601333</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">971</string>
+                <float name="mass">1087.28</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.926989</float>
+                  <float>0</float>
+                  <float>0.375088</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-332.112</float>
+                  <float>2.06486</float>
+                  <float>486.164</float>
+                </list>
+                <list name="scale">
+                  <float>0.980912</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">972</string>
+                <float name="mass">691.469</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.180543</float>
+                  <float>0</float>
+                  <float>0.983567</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-325.621</float>
+                  <float>2.22142</float>
+                  <float>491.149</float>
+                </list>
+                <list name="scale">
+                  <float>0.843542</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">973</string>
+                <float name="mass">147.84</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.172299</float>
+                  <float>0</float>
+                  <float>-0.985045</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-284.255</float>
+                  <float>3.32989</float>
+                  <float>471.299</float>
+                </list>
+                <list name="scale">
+                  <float>0.504405</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">974</string>
+                <float name="mass">228.911</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.674055</float>
+                  <float>0</float>
+                  <float>0.738681</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-292.359</float>
+                  <float>2.85808</float>
+                  <float>474.636</float>
+                </list>
+                <list name="scale">
+                  <float>0.583541</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">975</string>
+                <float name="mass">144.221</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.999954</float>
+                  <float>0</float>
+                  <float>0.00962895</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-288.222</float>
+                  <float>4.49746</float>
+                  <float>480.474</float>
+                </list>
+                <list name="scale">
+                  <float>0.500256</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">976</string>
+                <float name="mass">87.0672</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.814429</float>
+                  <float>0</float>
+                  <float>-0.580263</float>
+                </list>
+                <string name="parent">birch</string>
+                <list name="pos">
+                  <float>-276.81</float>
+                  <float>4.06042</float>
+                  <float>472.679</float>
+                </list>
+                <list name="scale">
+                  <float>0.422799</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">977</string>
+                <float name="mass">103.68</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.883456</float>
+                  <float>0</float>
+                  <float>0.468514</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-281.086</float>
+                  <float>4.72149</float>
+                  <float>477.127</float>
+                </list>
+                <list name="scale">
+                  <float>0.448141</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">978</string>
+                <float name="mass">704.948</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.993128</float>
+                  <float>0</float>
+                  <float>0.11703</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-389.379</float>
+                  <float>4.24696</float>
+                  <float>470.355</float>
+                </list>
+                <list name="scale">
+                  <float>0.848988</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">979</string>
+                <float name="mass">201.781</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.286724</float>
+                  <float>0</float>
+                  <float>0.958013</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-511.358</float>
+                  <float>26.7587</float>
+                  <float>474.189</float>
+                </list>
+                <list name="scale">
+                  <float>0.559512</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">980</string>
+                <float name="mass">725.268</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.999853</float>
+                  <float>0</float>
+                  <float>0.0171266</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-545.826</float>
+                  <float>43.8513</float>
+                  <float>449.021</float>
+                </list>
+                <list name="scale">
+                  <float>0.857068</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">981</string>
+                <float name="mass">90.3377</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.999869</float>
+                  <float>0</float>
+                  <float>0.016168</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-461.181</float>
+                  <float>15.2586</float>
+                  <float>432.543</float>
+                </list>
+                <list name="scale">
+                  <float>0.428028</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">982</string>
+                <float name="mass">822.464</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.0110902</float>
+                  <float>0</float>
+                  <float>0.999939</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-454.105</float>
+                  <float>14.8208</float>
+                  <float>431.755</float>
+                </list>
+                <list name="scale">
+                  <float>0.893761</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">983</string>
+                <float name="mass">473.487</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.131839</float>
+                  <float>0</float>
+                  <float>-0.991271</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-457.857</float>
+                  <float>14.4412</float>
+                  <float>439.5</float>
+                </list>
+                <list name="scale">
+                  <float>0.743507</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">984</string>
+                <float name="mass">42.553</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.719227</float>
+                  <float>0</float>
+                  <float>-0.694775</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-423.36</float>
+                  <float>7.44072</float>
+                  <float>411.846</float>
+                </list>
+                <list name="scale">
+                  <float>0.333037</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">985</string>
+                <float name="mass">118.951</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.731037</float>
+                  <float>0</float>
+                  <float>-0.682338</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-418.423</float>
+                  <float>6.75183</float>
+                  <float>407.155</float>
+                </list>
+                <list name="scale">
+                  <float>0.469143</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">986</string>
+                <float name="mass">382.69</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.961574</float>
+                  <float>0</float>
+                  <float>0.274546</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-419.273</float>
+                  <float>7.26719</float>
+                  <float>426.097</float>
+                </list>
+                <list name="scale">
+                  <float>0.692572</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">987</string>
+                <float name="mass">912.254</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.989191</float>
+                  <float>0</float>
+                  <float>-0.146632</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-414.123</float>
+                  <float>6.21552</float>
+                  <float>418.807</float>
+                </list>
+                <list name="scale">
+                  <float>0.925169</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">988</string>
+                <float name="mass">88.9876</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.479265</float>
+                  <float>0</float>
+                  <float>0.87767</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-367.918</float>
+                  <float>11.6535</float>
+                  <float>421.193</float>
+                </list>
+                <list name="scale">
+                  <float>0.425885</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">989</string>
+                <float name="mass">355.888</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.971332</float>
+                  <float>0</float>
+                  <float>-0.237727</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-358.877</float>
+                  <float>12.2632</float>
+                  <float>422.374</float>
+                </list>
+                <list name="scale">
+                  <float>0.676011</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">990</string>
+                <float name="mass">263.386</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.607386</float>
+                  <float>0</float>
+                  <float>-0.794407</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-353.327</float>
+                  <float>11.3976</float>
+                  <float>423.178</float>
+                </list>
+                <list name="scale">
+                  <float>0.611477</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">991</string>
+                <float name="mass">188.003</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.545341</float>
+                  <float>0</float>
+                  <float>0.838215</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-352.778</float>
+                  <float>12.5663</float>
+                  <float>409.873</float>
+                </list>
+                <list name="scale">
+                  <float>0.546476</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">992</string>
+                <float name="mass">373.4</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.750217</float>
+                  <float>0</float>
+                  <float>0.661191</float>
+                </list>
+                <string name="parent">birch_b</string>
+                <list name="pos">
+                  <float>-378.546</float>
+                  <float>13.0488</float>
+                  <float>383.168</float>
+                </list>
+                <list name="scale">
+                  <float>0.686922</float>
+                </list>
+              </map>
             </list>
           </map>
         </list>
@@ -33970,7 +35146,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1604267298478</string>
+      <string name="timestamp">1604267680046</string>
       <int name="transients">0</int>
     </map>
   </map>
