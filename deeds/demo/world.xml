@@ -1746,9 +1746,6 @@
                   <string name="parent">dog</string>
                   <int name="transient">5</int>
                 </map>
-                <list name="__spawner_instances">
-                  <string>128</string>
-                </list>
                 <int name="__spawner_interval">5</int>
                 <string name="id">50</string>
                 <string name="objtype">obj</string>
@@ -2638,9 +2635,6 @@
                   <string name="parent">pig</string>
                   <int name="transient">4</int>
                 </map>
-                <list name="__spawner_instances">
-                  <string>131</string>
-                </list>
                 <int name="__spawner_interval">5</int>
                 <string name="id">81</string>
                 <string name="objtype">obj</string>
