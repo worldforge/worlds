@@ -481,7 +481,7 @@
                     <float>3.53709</float>
                   </list>
                 </map>
-                <float name="armor">1</float>
+                <float name="armor">2</float>
                 <map name="attached_legs">
                   <string name="$eid">111</string>
                 </map>
@@ -532,7 +532,7 @@
                     <float>4.97579</float>
                   </list>
                 </map>
-                <float name="armor">4.5</float>
+                <float name="armor">9</float>
                 <map name="attached_back">
                   <string name="$eid">116</string>
                 </map>
@@ -657,6 +657,12 @@
                 <float name="__spawner_radius">10</float>
                 <string name="id">12</string>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">thing</string>
                 <list name="pos">
                   <float>21.3794</float>
@@ -1521,7 +1527,7 @@
                 <string name="id">40</string>
                 <float name="mass">671.723</float>
                 <map name="mode_data">
-                  <string name="$eid">39</string>
+                  <string name="$eid">2</string>
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
@@ -1534,7 +1540,7 @@
                 <string name="parent">tombstone_c</string>
                 <list name="pos">
                   <float>-26.9967</float>
-                  <float>5.0863</float>
+                  <float>5.00724</float>
                   <float>-2.75259</float>
                 </list>
                 <string name="style">rounded</string>
@@ -2654,6 +2660,7 @@
               <map>
                 <string name="id">82</string>
                 <float name="mass">95.7177</float>
+                <string name="message">The &quot;pig greeter&quot; character is instructed to greet each new pig he discovers.</string>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -3383,16 +3390,12 @@
       </map>
     </list>
     <map name="meta">
-      <string name="description"></string>
-      <string name="name"></string>
       <int name="preserved_ids">0</int>
       <map name="server">
-        <string name="host">ulthar</string>
-        <string name="name">ulthar</string>
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1600376341114</string>
+      <string name="timestamp">1660663606540</string>
       <int name="transients">0</int>
     </map>
   </map>
