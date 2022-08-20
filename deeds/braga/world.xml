@@ -9419,6 +9419,12 @@
                 <string name="id">79</string>
                 <string name="name">welcome_spawn_area</string>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">character_creator</string>
                 <list name="pos">
                   <float>-923.488</float>
@@ -15780,6 +15786,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_gate</string>
                 <list name="pos">
                   <float>-600.168</float>
@@ -15844,6 +15856,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-605.168</float>
@@ -15859,6 +15877,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-610.168</float>
@@ -15874,6 +15898,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-615.168</float>
@@ -15889,6 +15919,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-590.168</float>
@@ -15904,6 +15940,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-585.168</float>
@@ -15919,6 +15961,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-580.168</float>
@@ -15934,6 +15982,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_corner</string>
                 <list name="pos">
                   <float>-575.168</float>
@@ -16159,6 +16213,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-620.168</float>
@@ -16174,6 +16234,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-625.168</float>
@@ -16189,6 +16255,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-630.168</float>
@@ -16204,6 +16276,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-635.168</float>
@@ -16219,6 +16297,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_wall_run</string>
                 <list name="pos">
                   <float>-640.168</float>
@@ -19209,6 +19293,12 @@
               <map>
                 <string name="id">373</string>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">ocean</string>
                 <list name="pos">
                   <float>0</float>
@@ -19218,7 +19308,7 @@
               </map>
               <map>
                 <string name="id">374</string>
-                <float name="mass">1.74229e+07</float>
+                <float name="mass">3.76336e+06</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -19305,7 +19395,7 @@
               </map>
               <map>
                 <string name="id">378</string>
-                <float name="mass">7.48463e+06</float>
+                <float name="mass">6.97796e+06</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -26640,6 +26730,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">palisade_unit</string>
                 <list name="pos">
                   <float>-267.164</float>
@@ -26655,6 +26751,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">palisade_unit</string>
                 <list name="pos">
                   <float>-265.405</float>
@@ -29962,6 +30064,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">granite_d</string>
                 <list name="pos">
                   <float>-340.024</float>
@@ -29977,6 +30085,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">granite_a</string>
                 <list name="pos">
                   <float>-310.855</float>
@@ -30790,6 +30904,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">castle_house_ruin</string>
                 <list name="pos">
                   <float>-623.551</float>
@@ -31088,7 +31208,7 @@
               </map>
               <map>
                 <string name="id">821</string>
-                <float name="mass">7.48463e+06</float>
+                <float name="mass">6.97796e+06</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -31126,6 +31246,12 @@
                   <string name="mode">planted</string>
                 </map>
                 <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0</float>
+                  <float>0</float>
+                  <float>1</float>
+                </list>
                 <string name="parent">thing</string>
                 <list name="pos">
                   <float>-785.113</float>
@@ -33479,7 +33605,7 @@
               </map>
               <map>
                 <string name="id">920</string>
-                <float name="mass">5.72836e+06</float>
+                <float name="mass">1.96483e+06</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -33961,7 +34087,7 @@
               </map>
               <map>
                 <string name="id">944</string>
-                <float name="mass">526.881</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -33985,7 +34111,7 @@
               </map>
               <map>
                 <string name="id">945</string>
-                <float name="mass">369.996</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34009,7 +34135,7 @@
               </map>
               <map>
                 <string name="id">946</string>
-                <float name="mass">1097.92</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34033,7 +34159,7 @@
               </map>
               <map>
                 <string name="id">947</string>
-                <float name="mass">276.814</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34057,7 +34183,7 @@
               </map>
               <map>
                 <string name="id">948</string>
-                <float name="mass">679.778</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34081,7 +34207,7 @@
               </map>
               <map>
                 <string name="id">949</string>
-                <float name="mass">115.169</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34105,7 +34231,7 @@
               </map>
               <map>
                 <string name="id">950</string>
-                <float name="mass">50.4339</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34129,7 +34255,7 @@
               </map>
               <map>
                 <string name="id">951</string>
-                <float name="mass">715.47</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34153,7 +34279,7 @@
               </map>
               <map>
                 <string name="id">952</string>
-                <float name="mass">605.524</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34177,7 +34303,7 @@
               </map>
               <map>
                 <string name="id">953</string>
-                <float name="mass">590.548</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34201,7 +34327,7 @@
               </map>
               <map>
                 <string name="id">954</string>
-                <float name="mass">585.711</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34225,7 +34351,7 @@
               </map>
               <map>
                 <string name="id">955</string>
-                <float name="mass">43.1201</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34249,7 +34375,7 @@
               </map>
               <map>
                 <string name="id">956</string>
-                <float name="mass">39.5898</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34273,7 +34399,7 @@
               </map>
               <map>
                 <string name="id">957</string>
-                <float name="mass">825.883</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34297,7 +34423,7 @@
               </map>
               <map>
                 <string name="id">958</string>
-                <float name="mass">118.899</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34321,7 +34447,7 @@
               </map>
               <map>
                 <string name="id">959</string>
-                <float name="mass">741.377</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34345,7 +34471,7 @@
               </map>
               <map>
                 <string name="id">960</string>
-                <float name="mass">32.0268</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34369,7 +34495,7 @@
               </map>
               <map>
                 <string name="id">961</string>
-                <float name="mass">386.981</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34393,7 +34519,7 @@
               </map>
               <map>
                 <string name="id">962</string>
-                <float name="mass">532.769</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34417,7 +34543,7 @@
               </map>
               <map>
                 <string name="id">963</string>
-                <float name="mass">362.37</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34441,7 +34567,7 @@
               </map>
               <map>
                 <string name="id">964</string>
-                <float name="mass">947.152</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34465,7 +34591,7 @@
               </map>
               <map>
                 <string name="id">965</string>
-                <float name="mass">242.612</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34489,7 +34615,7 @@
               </map>
               <map>
                 <string name="id">966</string>
-                <float name="mass">207.673</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34513,7 +34639,7 @@
               </map>
               <map>
                 <string name="id">967</string>
-                <float name="mass">823.842</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34537,7 +34663,7 @@
               </map>
               <map>
                 <string name="id">968</string>
-                <float name="mass">848.77</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34561,7 +34687,7 @@
               </map>
               <map>
                 <string name="id">969</string>
-                <float name="mass">394.542</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34585,7 +34711,7 @@
               </map>
               <map>
                 <string name="id">970</string>
-                <float name="mass">250.494</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34609,7 +34735,7 @@
               </map>
               <map>
                 <string name="id">971</string>
-                <float name="mass">1087.28</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34633,7 +34759,7 @@
               </map>
               <map>
                 <string name="id">972</string>
-                <float name="mass">691.469</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34657,7 +34783,7 @@
               </map>
               <map>
                 <string name="id">973</string>
-                <float name="mass">147.84</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34681,7 +34807,7 @@
               </map>
               <map>
                 <string name="id">974</string>
-                <float name="mass">228.911</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34705,7 +34831,7 @@
               </map>
               <map>
                 <string name="id">975</string>
-                <float name="mass">144.221</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34729,7 +34855,7 @@
               </map>
               <map>
                 <string name="id">976</string>
-                <float name="mass">87.0672</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34753,7 +34879,7 @@
               </map>
               <map>
                 <string name="id">977</string>
-                <float name="mass">103.68</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34777,7 +34903,7 @@
               </map>
               <map>
                 <string name="id">978</string>
-                <float name="mass">704.948</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34801,7 +34927,7 @@
               </map>
               <map>
                 <string name="id">979</string>
-                <float name="mass">201.781</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34825,7 +34951,7 @@
               </map>
               <map>
                 <string name="id">980</string>
-                <float name="mass">725.268</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34849,7 +34975,7 @@
               </map>
               <map>
                 <string name="id">981</string>
-                <float name="mass">90.3377</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34873,7 +34999,7 @@
               </map>
               <map>
                 <string name="id">982</string>
-                <float name="mass">822.464</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34897,7 +35023,7 @@
               </map>
               <map>
                 <string name="id">983</string>
-                <float name="mass">473.487</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34921,7 +35047,7 @@
               </map>
               <map>
                 <string name="id">984</string>
-                <float name="mass">42.553</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34945,7 +35071,7 @@
               </map>
               <map>
                 <string name="id">985</string>
-                <float name="mass">118.951</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34969,7 +35095,7 @@
               </map>
               <map>
                 <string name="id">986</string>
-                <float name="mass">382.69</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -34993,7 +35119,7 @@
               </map>
               <map>
                 <string name="id">987</string>
-                <float name="mass">912.254</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -35017,7 +35143,7 @@
               </map>
               <map>
                 <string name="id">988</string>
-                <float name="mass">88.9876</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -35041,7 +35167,7 @@
               </map>
               <map>
                 <string name="id">989</string>
-                <float name="mass">355.888</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -35065,7 +35191,7 @@
               </map>
               <map>
                 <string name="id">990</string>
-                <float name="mass">263.386</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -35089,7 +35215,7 @@
               </map>
               <map>
                 <string name="id">991</string>
-                <float name="mass">188.003</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -35113,7 +35239,7 @@
               </map>
               <map>
                 <string name="id">992</string>
-                <float name="mass">373.4</float>
+                <float name="mass">1152</float>
                 <map name="mode_data">
                   <string name="$eid">2</string>
                   <string name="mode">planted</string>
@@ -35146,7 +35272,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1604267680046</string>
+      <string name="timestamp">1661005184830</string>
       <int name="transients">0</int>
     </map>
   </map>

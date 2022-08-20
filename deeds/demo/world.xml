@@ -481,7 +481,6 @@
                     <float>3.53709</float>
                   </list>
                 </map>
-                <float name="armor">2</float>
                 <map name="attached_legs">
                   <string name="$eid">112</string>
                 </map>
@@ -532,7 +531,6 @@
                     <float>4.97579</float>
                   </list>
                 </map>
-                <float name="armor">9</float>
                 <map name="attached_back">
                   <string name="$eid">117</string>
                 </map>
@@ -869,7 +867,7 @@
                 <string name="parent">human</string>
                 <list name="pos">
                   <float>14.6428</float>
-                  <float>5.00862</float>
+                  <float>5.00858</float>
                   <float>22.9278</float>
                 </list>
               </map>
