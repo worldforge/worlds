@@ -14,6 +14,7 @@
         <string name="name">root</string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
+        <float name="world_time">643.17</float>
         <list name="~contains">
           <map>
             <string name="__alias">limbo</string>
@@ -482,7 +483,7 @@
                   </list>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">112</string>
+                  <string name="$eid">115</string>
                 </map>
                 <string name="id">9</string>
                 <float name="mass">144</float>
@@ -502,21 +503,21 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">112</string>
+                    <string name="id">115</string>
                     <float name="mass">0.8047</float>
                     <string name="objtype">obj</string>
                     <string name="parent">pants</string>
                     <string name="style">burlap</string>
                   </map>
                   <map>
-                    <string name="id">113</string>
+                    <string name="id">116</string>
                     <float name="mass">0.794347</float>
                     <string name="objtype">obj</string>
                     <string name="parent">knife</string>
                   </map>
                   <map>
                     <int name="amount">6</int>
-                    <string name="id">114</string>
+                    <string name="id">117</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -532,19 +533,19 @@
                   </list>
                 </map>
                 <map name="attached_back">
-                  <string name="$eid">117</string>
+                  <string name="$eid">120</string>
                 </map>
                 <map name="attached_feet">
-                  <string name="$eid">118</string>
+                  <string name="$eid">121</string>
                 </map>
                 <map name="attached_head">
-                  <string name="$eid">119</string>
+                  <string name="$eid">122</string>
                 </map>
                 <map name="attached_legs">
-                  <string name="$eid">116</string>
+                  <string name="$eid">119</string>
                 </map>
                 <map name="attached_torso">
-                  <string name="$eid">115</string>
+                  <string name="$eid">118</string>
                 </map>
                 <string name="id">10</string>
                 <float name="mass">144</float>
@@ -564,35 +565,35 @@
                 </list>
                 <list name="~contains">
                   <map>
-                    <string name="id">115</string>
+                    <string name="id">118</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">shirt</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">116</string>
+                    <string name="id">119</string>
                     <float name="mass">0.8047</float>
                     <string name="objtype">obj</string>
                     <string name="parent">pants</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">117</string>
+                    <string name="id">120</string>
                     <float name="mass">0.626417</float>
                     <string name="objtype">obj</string>
                     <string name="parent">cloak</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">118</string>
+                    <string name="id">121</string>
                     <float name="mass">2.63175</float>
                     <string name="objtype">obj</string>
                     <string name="parent">boots</string>
                     <string name="style">fine</string>
                   </map>
                   <map>
-                    <string name="id">119</string>
+                    <string name="id">122</string>
                     <float name="mass">0.285558</float>
                     <string name="objtype">obj</string>
                     <string name="parent">hat</string>
@@ -600,7 +601,7 @@
                   </map>
                   <map>
                     <int name="amount">6</int>
-                    <string name="id">120</string>
+                    <string name="id">123</string>
                     <string name="objtype">obj</string>
                     <string name="parent">coin</string>
                   </map>
@@ -867,7 +868,7 @@
                 <string name="parent">human</string>
                 <list name="pos">
                   <float>14.6428</float>
-                  <float>5.00858</float>
+                  <float>5.00862</float>
                   <float>22.9278</float>
                 </list>
               </map>
@@ -3398,6 +3399,242 @@
                   <float>6.05527</float>
                 </list>
               </map>
+              <map>
+                <string name="id">112</string>
+                <float name="mass">24.5441</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.761601</float>
+                  <float>0</float>
+                  <float>-0.648047</float>
+                </list>
+                <string name="parent">barrel</string>
+                <list name="pos">
+                  <float>3.08095</float>
+                  <float>5.00626</float>
+                  <float>-14.9445</float>
+                </list>
+                <list name="~contains">
+                  <map>
+                    <string name="id">124</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>0.327498</float>
+                      <float>0</float>
+                      <float>-0.944852</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11101</float>
+                      <float>5.0378</float>
+                      <float>-15.1822</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">125</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>0.551879</float>
+                      <float>0</float>
+                      <float>0.833924</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.0738</float>
+                      <float>5.0378</float>
+                      <float>-15.0746</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">126</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>-0.59691</float>
+                      <float>0</float>
+                      <float>0.802308</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">127</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>0.999449</float>
+                      <float>0</float>
+                      <float>-0.0331774</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">128</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>0.951948</float>
+                      <float>0</float>
+                      <float>-0.306259</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">129</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>-0.995864</float>
+                      <float>0</float>
+                      <float>0.0908533</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">130</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>-0.637319</float>
+                      <float>0</float>
+                      <float>-0.7706</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">131</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>-0.44722</float>
+                      <float>0</float>
+                      <float>-0.894424</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">132</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>-0.328899</float>
+                      <float>0</float>
+                      <float>-0.944365</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                  <map>
+                    <string name="id">133</string>
+                    <float name="mass">7.2</float>
+                    <string name="objtype">obj</string>
+                    <list name="orientation">
+                      <float>0</float>
+                      <float>0.580245</float>
+                      <float>0</float>
+                      <float>0.814442</float>
+                    </list>
+                    <string name="parent">apple</string>
+                    <list name="pos">
+                      <float>3.11822</float>
+                      <float>5.0378</float>
+                      <float>-15.0445</float>
+                    </list>
+                  </map>
+                </list>
+              </map>
+              <map>
+                <string name="id">113</string>
+                <float name="mass">24.5441</float>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>-0.998188</float>
+                  <float>0</float>
+                  <float>-0.0601664</float>
+                </list>
+                <string name="parent">barrel</string>
+                <list name="pos">
+                  <float>5.388</float>
+                  <float>5.0059</float>
+                  <float>-14.3335</float>
+                </list>
+              </map>
+              <map>
+                <string name="id">114</string>
+                <float name="mass">95.7177</float>
+                <string name="message">Demonstrates containers. The barrel on the left contains apples, which a normal player only can see if they approach and opens it.ݏ</string>
+                <map name="mode_data">
+                  <string name="$eid">2</string>
+                  <string name="mode">planted</string>
+                </map>
+                <string name="objtype">obj</string>
+                <list name="orientation">
+                  <float>0</float>
+                  <float>0.174166</float>
+                  <float>0</float>
+                  <float>-0.984716</float>
+                </list>
+                <string name="parent">signpost</string>
+                <list name="pos">
+                  <float>3.7569</float>
+                  <float>5.00306</float>
+                  <float>-12.8831</float>
+                </list>
+              </map>
             </list>
           </map>
         </list>
@@ -3409,7 +3646,7 @@
         <string name="ruleset">deeds</string>
         <string name="version">0.7.0</string>
       </map>
-      <string name="timestamp">1660664403173</string>
+      <string name="timestamp">1661005835418</string>
       <int name="transients">0</int>
     </map>
   </map>
