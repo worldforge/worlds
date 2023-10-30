@@ -1,0 +1,43 @@
+name: Build all
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+env:
+  CONAN_REVISIONS_ENABLED: 1
+  CONAN_SCM_TO_CONANDATA: 1
+  CONAN_PASSWORD: ${{ secrets.CONAN_PASSWORD }}
+  CONAN_LOGIN_USERNAME: ${{ secrets.CONAN_LOGIN_USERNAME }}
+  PROFILE_CONAN: conan-release
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install Conan
+        shell: bash
+        run: |
+          pip install -r .github/workflows/requirements.txt
+          conan profile detect
+          conan remote add worldforge https://artifactory.ogenvik.org/artifactory/api/conan/conan
+
+      - name: Upload artifacts
+        shell: bash
+        run: |
+          if [[ x"$CONAN_PASSWORD" != "x" && x"$CONAN_LOGIN_USERNAME" != "x" ]]; then
+            echo "Creating and uploading Conan artifacts"
+            conan remote login worldforge $CONAN_LOGIN_USERNAME -p $CONAN_PASSWORD
+            conan create . -pr default
+            conan upload "worldforge-worlds/*" -r worldforge -c
+          fi
