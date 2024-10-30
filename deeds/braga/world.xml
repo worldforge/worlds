@@ -14,6 +14,8 @@
         <string name="name">world</string>
         <string name="objtype">obj</string>
         <string name="parent">world</string>
+        <int name="suspended">1</int>
+        <float name="world_time">2.52</float>
         <list name="~contains">
           <map>
             <string name="__alias">limbo</string>
@@ -5507,45 +5509,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.789054</float>
                   <float>0</float>
@@ -5577,45 +5540,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.413863</float>
                   <float>0</float>
@@ -5647,45 +5571,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.393531</float>
                   <float>0</float>
@@ -5717,45 +5602,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.522932</float>
                   <float>0</float>
@@ -5935,45 +5781,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.701727</float>
                   <float>0</float>
@@ -6005,45 +5812,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.681636</float>
                   <float>0</float>
@@ -6096,45 +5864,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.543143</float>
                   <float>0</float>
@@ -6187,45 +5916,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.595544</float>
                   <float>0</float>
@@ -6299,45 +5989,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.77459</float>
                   <float>0</float>
@@ -6369,45 +6020,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.08134</float>
                   <float>0</float>
@@ -6439,45 +6051,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.619131</float>
                   <float>0</float>
@@ -6509,45 +6082,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.914578</float>
                   <float>0</float>
@@ -6579,45 +6113,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.722621</float>
                   <float>0</float>
@@ -6649,45 +6144,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.89049</float>
                   <float>0</float>
@@ -6719,45 +6175,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.77459</float>
                   <float>0</float>
@@ -6789,45 +6206,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.77459</float>
                   <float>0</float>
@@ -6859,45 +6237,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.990623</float>
                   <float>0</float>
@@ -6929,45 +6268,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.622263</float>
                   <float>0</float>
@@ -6999,45 +6299,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.994773</float>
                   <float>0</float>
@@ -7090,45 +6351,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.974202</float>
                   <float>0</float>
@@ -7265,45 +6487,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.895435</float>
                   <float>0</float>
@@ -7335,45 +6518,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.895435</float>
                   <float>0</float>
@@ -7405,45 +6549,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.805887</float>
                   <float>0</float>
@@ -7475,45 +6580,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.398711</float>
                   <float>0</float>
@@ -7545,45 +6611,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.852514</float>
                   <float>0</float>
@@ -7615,45 +6642,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.683021</float>
                   <float>0</float>
@@ -7685,45 +6673,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.92437</float>
                   <float>0</float>
@@ -8055,45 +7004,6 @@
                 <string name="style">straight</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.974202</float>
                   <float>0</float>
@@ -8125,45 +7035,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.11167</float>
                   <float>0</float>
@@ -8195,45 +7066,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.413863</float>
                   <float>0</float>
@@ -8482,45 +7314,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.980782</float>
                   <float>0</float>
@@ -8697,45 +7490,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.759137</float>
                   <float>0</float>
@@ -8907,45 +7661,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <string name="id">68</string>
                 <float name="mass">28800</float>
                 <map name="mode_data">
@@ -8968,45 +7683,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.546523</float>
                   <float>0</float>
@@ -9081,45 +7757,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.82281</float>
                   <float>0</float>
@@ -9172,45 +7809,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.859589</float>
                   <float>0</float>
@@ -9306,45 +7904,6 @@
                 <string name="style">brokenA</string>
               </map>
               <map>
-                <map name="area">
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.811654</float>
                   <float>0</float>
@@ -16857,46 +15416,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.922454</float>
                   <float>0</float>
@@ -16928,46 +15447,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.485551</float>
                   <float>0</float>
@@ -16999,46 +15478,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.356211</float>
                   <float>0</float>
@@ -17070,46 +15509,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.973837</float>
                   <float>0</float>
@@ -17141,46 +15540,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.873266</float>
                   <float>0</float>
@@ -17212,46 +15571,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.708316</float>
                   <float>0</float>
@@ -17283,46 +15602,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.628359</float>
                   <float>0</float>
@@ -17354,46 +15633,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.64668</float>
                   <float>0</float>
@@ -17425,46 +15664,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.70949</float>
                   <float>0</float>
@@ -17496,46 +15695,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.420715</float>
                   <float>0</float>
@@ -17567,46 +15726,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.698717</float>
                   <float>0</float>
@@ -17638,46 +15757,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.00997</float>
                   <float>0</float>
@@ -17709,46 +15788,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.654405</float>
                   <float>0</float>
@@ -17780,46 +15819,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.593124</float>
                   <float>0</float>
@@ -17851,46 +15850,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.710839</float>
                   <float>0</float>
@@ -17922,46 +15881,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.763124</float>
                   <float>0</float>
@@ -17993,46 +15912,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.68609</float>
                   <float>0</float>
@@ -18064,46 +15943,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.837736</float>
                   <float>0</float>
@@ -18135,46 +15974,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.571796</float>
                   <float>0</float>
@@ -18206,46 +16005,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.10753</float>
                   <float>0</float>
@@ -18277,46 +16036,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.678897</float>
                   <float>0</float>
@@ -18348,46 +16067,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.898703</float>
                   <float>0</float>
@@ -18419,46 +16098,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.963426</float>
                   <float>0</float>
@@ -18490,46 +16129,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.45489</float>
                   <float>0</float>
@@ -18561,46 +16160,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.894799</float>
                   <float>0</float>
@@ -18632,46 +16191,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.855177</float>
                   <float>0</float>
@@ -18703,46 +16222,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.805788</float>
                   <float>0</float>
@@ -18774,46 +16253,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.922496</float>
                   <float>0</float>
@@ -18845,46 +16284,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.621039</float>
                   <float>0</float>
@@ -18916,46 +16315,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.876555</float>
                   <float>0</float>
@@ -18987,46 +16346,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-07</float>
-                        <float>-5</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>-3.5</float>
-                      </list>
-                      <list>
-                        <float>5</float>
-                        <float>2.18557e-07</float>
-                      </list>
-                      <list>
-                        <float>3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-07</float>
-                        <float>5</float>
-                      </list>
-                      <list>
-                        <float>-3.5</float>
-                        <float>3.5</float>
-                      </list>
-                      <list>
-                        <float>-5</float>
-                        <float>-2.18557e-07</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.08815</float>
                   <float>0</float>
@@ -32059,46 +29378,6 @@
                 </list>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-09</float>
-                        <float>-0.05</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>0.05</float>
-                        <float>2.18557e-09</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-09</float>
-                        <float>0.05</float>
-                      </list>
-                      <list>
-                        <float>-0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-0.05</float>
-                        <float>-2.18557e-09</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.954475</float>
                   <float>0</float>
@@ -32130,46 +29409,6 @@
                 <string name="style">gnarly</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-09</float>
-                        <float>-0.05</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>0.05</float>
-                        <float>2.18557e-09</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-09</float>
-                        <float>0.05</float>
-                      </list>
-                      <list>
-                        <float>-0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-0.05</float>
-                        <float>-2.18557e-09</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-0.795295</float>
                   <float>0</float>
@@ -32201,46 +29440,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-09</float>
-                        <float>-0.05</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>0.05</float>
-                        <float>2.18557e-09</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-09</float>
-                        <float>0.05</float>
-                      </list>
-                      <list>
-                        <float>-0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-0.05</float>
-                        <float>-2.18557e-09</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.73794</float>
                   <float>0</float>
@@ -32272,46 +29471,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-09</float>
-                        <float>-0.05</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>0.05</float>
-                        <float>2.18557e-09</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-09</float>
-                        <float>0.05</float>
-                      </list>
-                      <list>
-                        <float>-0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-0.05</float>
-                        <float>-2.18557e-09</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-2.73764</float>
                   <float>0</float>
@@ -32343,46 +29502,6 @@
                 <string name="style">weathered</string>
               </map>
               <map>
-                <map name="area">
-                  <int name="layer">6</int>
-                  <map name="shape">
-                    <list name="points">
-                      <list>
-                        <float>-0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>2.18557e-09</float>
-                        <float>-0.05</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>-0.035</float>
-                      </list>
-                      <list>
-                        <float>0.05</float>
-                        <float>2.18557e-09</float>
-                      </list>
-                      <list>
-                        <float>0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-2.18557e-09</float>
-                        <float>0.05</float>
-                      </list>
-                      <list>
-                        <float>-0.035</float>
-                        <float>0.035</float>
-                      </list>
-                      <list>
-                        <float>-0.05</float>
-                        <float>-2.18557e-09</float>
-                      </list>
-                    </list>
-                    <string name="type">polygon</string>
-                  </map>
-                </map>
                 <list name="bbox">
                   <float>-1.10007</float>
                   <float>0</float>

@@ -21,3 +21,4 @@ ember.spec
 mkinstalldirs
 Makefile
 .idea
+**build*
